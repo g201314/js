@@ -6,7 +6,7 @@
 		}]
 	}],
 	"sites": [
-//{"key":"T4","name":"T4主页","type":4,"api":"https://cn-cd-dx-2.natfrp.cloud:21108/vod?sites=all&timeout=10","searchable":0,"quickSearch":1,"filterable":1},
+{"key":"T4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=10","searchable":1,"quickSearch":1,"filterable":1}
 {"key":"厂长影视","name":"厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":0,"filterable":1},
 {"key": "csp_Yj1211","name": "直播通道","type": 3,"api": "csp_Yj1211","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_剧荒","name":"剧荒","type": 3,"api": "csp_Juhuang","searchable":1,"quickSearch":0,"filterable":1},
@@ -47,7 +47,7 @@
 {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cn-cd-dx-2.natfrp.cloud:44327/json/token.json"},
 {"key":"zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cn-cd-dx-2.natfrp.cloud:44327/json/token.json"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cn-cd-dx-2.natfrp.cloud:44327/json/token.json"},
-{"key":"T4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=10","searchable":1,"quickSearch":1,"filterable":1}
+
 	],
 	"parses": [
 	{
