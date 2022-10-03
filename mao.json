@@ -821,16 +821,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/qu47qebc.json"
     },
     {
-      "key": "csp_biubiu_4kan电影网",
-      "name": "4kan电影网(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/7zjzp3ze.json"
-    },
-    {
       "key": "csp_biubiu_奇优影院（不支持搜）",
       "name": "奇优影院（不支持搜）(XB)",
       "type": 3,
@@ -911,16 +901,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/cwlvywhf.json"
     },
     {
-      "key": "csp_xpath_jbb",
-      "name": "剧白白(XPF)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/d9597aob.json"
-    },
-    {
       "key": "csp_xpath_lranc",
       "name": "天天影视(XPF)",
       "type": 3,
@@ -961,16 +941,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/x9bxfvvk.json"
     },
     {
-      "key": "csp_xpath_naifeiorg",
-      "name": "奈飞中文(XPF)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/ezfxbhr4.json"
-    },
-    {
       "key": "csp_xpath_jpys",
       "name": "极品影视(XPF)",
       "type": 3,
@@ -1009,16 +979,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/r9k9lu14.json"
-    },
-    {
-      "key": "csp_xpath_xiangdao",
-      "name": "农民影视(XPF)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/zf2wy9jg.json"
     },
     {
       "key": "csp_xpath_lkvod",
