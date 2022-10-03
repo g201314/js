@@ -235,7 +235,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": ""
+      "ext": "Amanchi1208/amanchi1208.github.io/main/json/Alist.json"
     },
     {
       "key": "csp_Nbys",
@@ -254,6 +254,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "csp_biubiu_小宝影院",
+      "name": "小宝影院XB(墙外)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/bym0uaa2.json"
     },
     {
       "key": "csp_xpath_qiumi",
@@ -427,16 +437,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"
-    },
-    {
-      "key": "csp_biubiu_小宝影院",
-      "name": "小宝影院XB(墙外)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/bym0uaa2.json"
     },
     {
       "key": "csp_xpath_wmkk",
@@ -1749,17 +1749,15 @@
     { "name": "解析聚合", "type": 3, "url": "Demo" },
     { "name": "Json并发", "type": 2, "url": "Parallel" },
     { "name": "Json轮询", "type": 2, "url": "Sequence" },
-    {
-      "name": "GGTV自用",
-      "type": 1,
-      "url": "https://play.fuqizhishi.com/jx/API.php?appkey=ixiaobai&url="
-    },
-    {
-      "name": "GGTV搜集",
-      "type": 1,
-      "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
-    },
+    {"name": "GGTV自用","type": 1,"url": "https://play.fuqizhishi.com/jx/API.php?appkey=ixiaobai&url="},
+    {"name": "GGTV搜集","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
     { "name": "未知", "type": 1, "url": "http://api.ckflv.cn/?url=" },
+    {"name": "BT5V","type":1,"url": "https://rx.bt5v.com/json/jsonindex.php/?url="},
+    {"name": "江湖","type": 1,"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="},
+    {"name":"爱酷","type":1,"url":"http://cache.json.icu/home/api?type=ys&uid=6611298&key=cdekmxyzCGOSYZ0259&url="},
+    {"name": "GGTV","type": 1,"url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="},
+    {"name":"云you","type":1,"url":"http://cache.json.icu/home/api?type=ys&uid=6611298&key=cdekmxyzCGOSYZ0259&url="},
+    {"name":"Parwix","type":1,"url":"https://jx.bozrc.com:4433/player/?url="},
     { "name": "OKjx嗅探", "type": 1, "url": "https://okjx.cc/?url=" },
     {
       "name": "神1",
@@ -1836,6 +1834,30 @@
     "renrenmi"
   ],
   "ijk": [
+        {
+      "group": "硬解码",
+      "options": [
+        { "category": 4, "name": "opensles", "value": "0" },
+        { "category": 4, "name": "overlay-format", "value": "842225234" },
+        { "category": 4, "name": "framedrop", "value": "1" },
+        { "category": 4, "name": "soundtouch", "value": "1" },
+        { "category": 4, "name": "start-on-prepared", "value": "1" },
+        { "category": 1, "name": "http-detect-range-support", "value": "0" },
+        { "category": 1, "name": "fflags", "value": "fastseek" },
+        { "category": 2, "name": "skip_loop_filter", "value": "48" },
+        { "category": 4, "name": "reconnect", "value": "1" },
+        { "category": 4, "name": "enable-accurate-seek", "value": "0" },
+        { "category": 4, "name": "mediacodec", "value": "1" },
+        { "category": 4, "name": "mediacodec-auto-rotate", "value": "1" },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        { "category": 4, "name": "mediacodec-hevc", "value": "1" },
+        { "category": 1, "name": "dns_cache_timeout", "value": "600000000" }
+      ]
+    },
     {
       "group": "软解码",
       "options": [
@@ -1857,30 +1879,6 @@
           "value": "0"
         },
         { "category": 4, "name": "mediacodec-hevc", "value": "0" },
-        { "category": 1, "name": "dns_cache_timeout", "value": "600000000" }
-      ]
-    },
-    {
-      "group": "硬解码",
-      "options": [
-        { "category": 4, "name": "opensles", "value": "0" },
-        { "category": 4, "name": "overlay-format", "value": "842225234" },
-        { "category": 4, "name": "framedrop", "value": "1" },
-        { "category": 4, "name": "soundtouch", "value": "1" },
-        { "category": 4, "name": "start-on-prepared", "value": "1" },
-        { "category": 1, "name": "http-detect-range-support", "value": "0" },
-        { "category": 1, "name": "fflags", "value": "fastseek" },
-        { "category": 2, "name": "skip_loop_filter", "value": "48" },
-        { "category": 4, "name": "reconnect", "value": "1" },
-        { "category": 4, "name": "enable-accurate-seek", "value": "0" },
-        { "category": 4, "name": "mediacodec", "value": "1" },
-        { "category": 4, "name": "mediacodec-auto-rotate", "value": "1" },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "1"
-        },
-        { "category": 4, "name": "mediacodec-hevc", "value": "1" },
         { "category": 1, "name": "dns_cache_timeout", "value": "600000000" }
       ]
     }
