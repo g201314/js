@@ -11,4 +11,4 @@ https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.gi
 
 
 ##### 国内访问地址四:
-https://raw.iqiq.io/Amanchi1208/amanchi1208.github.io/main/mao.json
+https://gh.api.99988866.xyz/Amanchi1208/amanchi1208.github.io/main/mao.json
