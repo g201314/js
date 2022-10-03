@@ -235,7 +235,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "Amanchi1208/amanchi1208.github.io/main/json/Alist.json"
+      "ext": "https://raw.iqiq.io/Amanchi1208/amanchi1208.github.io/main/json/Alist.json"
     },
     {
       "key": "csp_Nbys",
@@ -1834,7 +1834,7 @@
     "renrenmi"
   ],
   "ijk": [
-        {
+     {
       "group": "硬解码",
       "options": [
         { "category": 4, "name": "opensles", "value": "0" },
