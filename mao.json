@@ -15,6 +15,15 @@
     }
   ],
   "sites": [
+     {
+      "key": "T4(2)",
+      "name": "T4",
+      "type": 4,
+      "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "csp_77",
       "name": "酷云七七",
@@ -118,15 +127,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_LibVio",
-      "name": "LibVio",
-      "type": 3,
-      "api": "csp_Lib",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "9E03",
       "name": "9E03",
       "type": 3,
@@ -135,15 +135,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
-    },
-    {
-      "key": "Smdyy",
-      "name": "神马影院",
-      "type": 3,
-      "api": "csp_Smdyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "小苹果",
@@ -335,15 +326,6 @@
       "ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"
     },
     {
-      "key": "T4(2)",
-      "name": "T4",
-      "type": 4,
-      "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_xBPQ_巨人",
       "name": "巨人",
       "type": 3,
@@ -409,36 +391,6 @@
       "jar": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/xuetang.js"
     },
     {
-      "key": "csp_xpath_喵乐",
-      "name": "喵乐(XPF)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/pfi2yiqk.json"
-    },
-    {
-      "key": "csp_xpath_网络搜集库qiumi",
-      "name": "球迷看球️",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"
-    },
-    {
-      "key": "csp_xpath_wmkk",
-      "name": "完美看看(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/s3vhd97q.json"
-    },
-    {
       "key": "csp_xpath_huya",
       "name": "虎牙(XPF)",
       "type": 3,
@@ -467,16 +419,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/gnik4z64.json"
-    },
-    {
-      "key": "csp_biubiu_厂长资源-蓝光",
-      "name": "厂长资源-蓝光(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/no0e3ppw.json"
     },
     {
       "key": "csp_biubiu_在线之家",
@@ -557,16 +499,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/042hla4n.json"
-    },
-    {
-      "key": "csp_biubiu_荣耀Glory",
-      "name": "荣耀Glory(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/ctvn79pm.json"
     },
     {
       "key": "csp_biubiu_大米星球",
@@ -1267,14 +1199,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://phoebe.cf/api.php/iptv/vod/"
-    },
-    {
-      "key": "8090资源",
-      "name": "8090资源(官)",
-      "type": 1,
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
     },
     {
       "key": "6U资源",
