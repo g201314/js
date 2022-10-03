@@ -1219,56 +1219,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/ueqwdv26.json"
     },
     {
-      "key": "csp_appysv2_熊猫动漫",
-      "name": "熊猫动漫(萝卜)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://dongman.k8aa.com/mogai_api.php/v1.vod"
-    },
-    {
-      "key": "csp_appysv2_万能影院",
-      "name": "万能影院(萝卜)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://app.wnvod.net/lvdou_api.php/v1.vod"
-    },
-    {
-      "key": "csp_appysv2_群鑫影视",
-      "name": "群鑫影视(萝卜)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.qunxinys.com/api.php/v1.vod"
-    },
-    {
-      "key": "csp_appysv2_极酷影视",
-      "name": "极酷影视(萝卜)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jiku.vip/mogai_api.php/v1.vod"
-    },
-    {
-      "key": "csp_appysv2_百淘影视",
-      "name": "百淘影视(萝卜)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ys.58g8.com/lvdou_api.php/v1.vod"
-    },
-    {
       "key": "csp_appysv2_小南TV",
       "name": "小南TV(神马)",
       "type": 3,
@@ -1339,22 +1289,6 @@
       "name": "天堂资源(官)",
       "type": 1,
       "api": "http://vipmv.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "M3U8.TV资源",
-      "name": "M3U8.TV资源(官)",
-      "type": 1,
-      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "八戒官采",
-      "name": "八戒官采(官)",
-      "type": 1,
-      "api": "https://www.bajiezy.xyz/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1667,46 +1601,6 @@
       "name": "影图(聚)",
       "type": 1,
       "api": "https://cj.vodimg.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "天天影视",
-      "name": "天天影视(聚)",
-      "type": 1,
-      "api": "http://tt2022.ga/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "艾思影院",
-      "name": "艾思影院(聚)",
-      "type": 1,
-      "api": "https://www.aitee.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "橘猫影视",
-      "name": "橘猫影视(聚)",
-      "type": 1,
-      "api": "http://www.zitv.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "速影",
-      "name": "速影(聚)",
-      "type": 1,
-      "api": "https://速影128.xyz/inc/apijson.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "千寻时光",
-      "name": "千寻时光(聚)",
-      "type": 1,
-      "api": "http://wy.dqyhg.cn/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
