@@ -7,7 +7,7 @@ https://raw.iqiq.io/Amanchi1208/amanchi1208.github.io/main/mao.txt
 https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/Tmain/mao.txt
 
 ##### 国内访问地址三:
-https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/mao.txt
+https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/mao.json
 
 
 ##### 国内访问地址四:
