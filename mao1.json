@@ -16,15 +16,6 @@
   ],
   "sites": [
     {
-      "key": "T4",
-      "name": "T4",
-      "type": 4,
-      "api": "http://top.fuqizhishi.com/vod?sites=all&timeout=7",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
       "key": "T4(2)",
       "name": "T4",
       "type": 4,
