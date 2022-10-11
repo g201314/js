@@ -210,7 +210,7 @@
     },
         {
       "key": "唐人街",
-      "name": "唐人街",
+      "name": "唐人街(墙外)",
       "type": 0,
       "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml",
       "searchable": 1,
