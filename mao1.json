@@ -197,7 +197,8 @@
       "api": "csp_Nbys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      'ext':"https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/1003.jar"
     },
     {
       "key": "If101",
