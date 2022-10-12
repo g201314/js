@@ -101,26 +101,6 @@
       "filterable": 1
     },
     {
-      "key": "py_voflix",
-      "name": "Voflix",
-      "type": 3,
-      "api": "py_voflix",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_voflix.py"
-    },
-    {
-      "key": "py_cup",
-      "name": "茶杯狐",
-      "type": 3,
-      "api": "py_cup",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_cup.py"
-    },
-    {
       "key": "csp_DiDuan",
       "name": "低端影视(EXO)",
       "type": 3,
@@ -170,15 +150,6 @@
       "name": "Auete",
       "type": 3,
       "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Bd",
-      "name": "bidi",
-      "type": 3,
-      "api": "csp_Bdys01",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
