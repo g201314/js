@@ -80,7 +80,7 @@
       "searchable": 1,
       "ext": ""
     },
-    {
+    //{
       "key": "csp_Jianying",
       "name": "简影",
       "api": "csp_JianYing",
@@ -101,6 +101,16 @@
       "ext": ""
     },
     {
+      "key": "csp_xpath_libv",
+      "name": "Libvio(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/json/libvp.json"
+    },
+    {
       "key": "追剧喵",
       "name": "追剧喵",
       "type": 3,
@@ -111,7 +121,7 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "低端影视",
+      "name": "低端影视(EXO)",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
