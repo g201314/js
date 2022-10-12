@@ -72,14 +72,14 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/hi88fmwr.json"
     },
     {
-      "key": "Lezhu_spider",
+      "key": "py_lezhu",
       "name": "乐猪影视",
-      "api": "csp_Lezhu",
       "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
+      "api": "py_lezhu",
       "searchable": 1,
-      "ext": ""
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_lezhu.py"
     },
     {
       "key": "drpy_js_看视界",
@@ -247,15 +247,6 @@
       "name": "Auete",
       "type": 3,
       "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Bd",
-      "name": "bidi",
-      "type": 3,
-      "api": "csp_Bdys01",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
