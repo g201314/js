@@ -62,13 +62,14 @@
       "filterable": 1
     },
     {
-      "key": "csp_剧荒",
+      "key": "csp_xpath_juhuang",
       "name": "剧荒",
       "type": 3,
-      "api": "csp_Juhuang",
+      "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/hi88fmwr.json"
     },
     {
       "key": "Lezhu_spider",
