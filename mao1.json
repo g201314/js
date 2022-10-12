@@ -62,28 +62,19 @@
       "filterable": 1
     },
     {
-      "key": "csp_剧荒",
+      "key": "csp_xpath_juhuang",
       "name": "剧荒",
       "type": 3,
-      "api": "csp_Juhuang",
+      "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/hi88fmwr.json"
     },
     {
       "key": "Lezhu_spider",
       "name": "乐猪影视",
       "api": "csp_Lezhu",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
-    {
-      "key": "KanSJ_spider",
-      "name": "看视界",
-      "api": "csp_KanSJ",
       "type": 3,
       "filterable": 1,
       "quickSearch": 1,
@@ -108,6 +99,26 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "py_voflix",
+      "name": "Voflix",
+      "type": 3,
+      "api": "py_voflix",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_voflix.py"
+    },
+    {
+      "key": "py_cup",
+      "name": "茶杯狐",
+      "type": 3,
+      "api": "py_cup",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_cup.py"
     },
     {
       "key": "csp_DiDuan",
@@ -150,6 +161,33 @@
       "name": "快看",
       "type": 3,
       "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Auete",
+      "name": "Auete",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Bd",
+      "name": "bidi",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Zxzj",
+      "name": "在线之家",
+      "type": 3,
+      "api": "csp_Zxzj",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -239,6 +277,66 @@
       "ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"
     },
     {
+      "key": "Bili",
+      "name": "Bili",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/8yl5ly1g.json"
+    },
+    {
+      "key": "知识",
+      "name": "知识学堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/tcn8nmpl.json"
+    },
+    {
+      "key": "儿童",
+      "name": "儿童",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/8lut3hti.json"
+    },
+    {
+      "key": "小学",
+      "name": "小学",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/v8fi80fz.json"
+    },
+    {
+      "key": "初中",
+      "name": "初中",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/ph2bhhup.json"
+    },
+    {
+      "key": "高中",
+      "name": "高中",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/e92x0znf.json"
+    },
+    {
       "key": "AliPS",
       "name": "盘搜",
       "type": 3,
@@ -308,36 +406,21 @@
       "type": 1,
       "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
     },
-    { "name": "未知", "type": 1, "url": "http://api.ckflv.cn/?url=" },
     {
-      "name": "BT5V",
+      "name": "GGTV自用",
       "type": 1,
-      "url": "https://rx.bt5v.com/json/jsonindex.php/?url="
-    },
-    {
-      "name": "江湖",
-      "type": 1,
-      "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
-    },
-    {
-      "name": "GGTV",
-      "type": 1,
-      "url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="
+      "url": "https://play.fuqizhishi.com/jx/API.php?appkey=ixiaobai&url="
     },
     {
       "name": "云you",
       "type": 1,
-      "url": "http://cache.json.icu/home/api?type=ys&uid=6611298&key=cdekmxyzCGOSYZ0259&url="
+      "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="
     },
-    {
-      "name": "Parwix",
-      "type": 1,
-      "url": "https://jx.bozrc.com:4433/player/?url="
-    },
+    { "name": "未知", "type": 1, "url": "http://api.ckflv.cn/?url=" },
     { "name": "OKjx嗅探", "type": 1, "url": "https://okjx.cc/?url=" },
     {
       "name": "神1",
-      "type": 0,
+      "type": 1,
       "url": "http://newjiexi.gotka.top/keyu3.php?url=",
       "ext": {
         "flag": [
