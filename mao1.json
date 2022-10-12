@@ -72,16 +72,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/hi88fmwr.json"
     },
     {
-      "key": "Lezhu_spider",
-      "name": "乐猪影视",
-      "api": "csp_Lezhu",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
-    {
       "key": "csp_xpath_libv",
       "name": "Libvio(XP)",
       "type": 3,
@@ -90,6 +80,16 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/json/libvp.json"
+    },
+     {
+      "key": "Lezhu_spider",
+      "name": "乐猪影视",
+      "api": "csp_Lezhu",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": ""
     },
     {
       "key": "追剧喵",
