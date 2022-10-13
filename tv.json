@@ -72,23 +72,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/hi88fmwr.json"
     },
     {
-      "key": "py_lezhu",
-      "name": "乐猪影视",
-      "type": 3,
-      "api": "py_lezhu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_lezhu.py"
-    },
-    {
-      "key": "drpy_js_看视界",
-      "name": " 看视界",
-      "type": 3,
-      "api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js",
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Js/看视界.js"
-    },
-    {
       "key": "csp_xpath_libv",
       "name": "Libvio(XP)",
       "type": 3,
@@ -98,6 +81,16 @@
       "filterable": 1,
       "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/json/libvp.json"
     },
+     {
+      "key": "Lezhu_spider",
+      "name": "乐猪影视",
+      "api": "csp_Lezhu",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": ""
+    },
     {
       "key": "追剧喵",
       "name": "追剧喵",
@@ -106,96 +99,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "py_voflix",
-      "name": "Voflix",
-      "type": 3,
-      "api": "py_voflix",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_voflix.py"
-    },
-    {
-      "key": "py_cctv",
-      "name": "央视自选",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_cctv.py"
-    },
-    {
-      "key": "py_cctv_full",
-      "name": "央视大全",
-      "type": 3,
-      "api": "py_cctv_full",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_cctv_full.py"
-    },
-    {
-      "key": " py_bilibili",
-      "name": "哔哩",
-      "type": 3,
-      "api": "py_bilibili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_bilibili.py"
-    },
-    {
-      "key": " py_bilimd",
-      "name": "哔哩影视",
-      "type": 3,
-      "api": "py_bilimd",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_bilimd.py"
-    },
-    {
-      "key": " py_中医药",
-      "name": "中医药",
-      "type": 3,
-      "api": "py_中医药",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_中医药.py"
-    },
-    {
-      "key": " py_中国文化",
-      "name": "中国文化",
-      "type": 3,
-      "api": "py_中国文化",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_中国文化.py"
-    },
-    {
-      "key": " py_yixi",
-      "name": "一席",
-      "type": 3,
-      "api": "py_yixi",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_yixi.py"
-    },
-    {
-      "key": "py_cup",
-      "name": "茶杯狐",
-      "type": 3,
-      "api": "py_cup",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_cup.py"
     },
     {
       "key": "csp_DiDuan",
@@ -688,4 +591,3 @@
     "cms.qdwght.com"
   ]
 }
-
