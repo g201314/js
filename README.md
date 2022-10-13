@@ -7,5 +7,7 @@ https://amanchi1208.github.io/mao.json
 ##### 国内访问地址二:
 https://amanchi1208.github.io/tv.json
 
-##### 国内访问地址三:
-https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/mao1.json
+##### TVbox:
+https://wwu.lanzoub.com/b02jpwaed
+password：7ms6
+
