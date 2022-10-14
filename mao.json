@@ -95,7 +95,8 @@
       "api": "csp_Lib",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "https://amanchi1208.github.io/jar/liv.jar"
     },
     {
       "key": "追剧喵",
