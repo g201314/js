@@ -89,14 +89,13 @@
       "ext": "https://github.com/heroaku/TVboxo/raw/main/Js/看视界.js"
     },
     {
-      "key": "csp_xpath_libv",
-      "name": "Libvio(XP)",
+      "key": "Lib",
+      "name": "Libvio",
       "type": 3,
-      "api": "csp_XPathMacFilter",
+      "api": "csp_Lib",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/json/libvp.json"
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "追剧喵",
