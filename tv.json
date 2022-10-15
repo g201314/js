@@ -91,16 +91,6 @@
       "filterable": 1
     },
     {
-       "key": "dr_有声小说吧",
-       "name": "有声小说吧(drpy)",
-       "type": 3,
-       "api": "http://3.34.11.171:55224/libs/drpy.ym.js",
-       "searchable": 2,
-       "quickSearch": 0,
-       "filterable": 0,
-       "ext": "http://3.34.11.171:55224/admin/view/有声小说吧.js"
-    },
-    {
       "key": "csp_DiDuan",
       "name": "低端影视(EXO)",
       "type": 3,
