@@ -8,3 +8,6 @@ https://amanchi1208.github.io/tv.json
 https://wwu.lanzoub.com/b02jpwaed
 password：7ms6
 
+##### software:
+https://wwu.lanzoub.com/b02j6hjfe
+密码:9w1z
