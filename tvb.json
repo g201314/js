@@ -1,6 +1,6 @@
 {
-  "wallpaper": "http://www.kf666888.cn/api/tvbox/img"
-  "spider": "htpps://amanchi1208.github.io/jar/top97.jar",
+  "wallpaper":"http://www.kf666888.cn/api/tvbox/img"
+  "spider": "https://amanchi1208.github.io/jar/top97.jar",
   "lives": [
     {
       "group": "redirect",
