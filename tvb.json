@@ -206,8 +206,19 @@
       "key": "drpy_js_360影视",
       "name": "360影视[DRPY]",
       "type": 3,
-      "api": "https://amanchi1208.github.io/js/drapy.js",
-      "ext": "https://amanchi1208.github.io/js/360.js"
+      "api": "http://home.jundie.top:666/JS/dr_py/libs/drpy.js",
+      "ext": "http://home.jundie.top:666/JS/dr_py/js/360影视.js"
+    },
+    {
+      "key": "csp_biubiu_ting",
+      "name": "听书┃无画面",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://amanchi1208.github.io/json/tingshu.json",
+      "jar": "http://刚刚.live/jar2/gg0925.jar"
     },
     {
       "key": "csp_xBPQ_爱看影视",
