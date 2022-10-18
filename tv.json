@@ -327,7 +327,8 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
+      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt",
+      "jar ":"https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "找资源",
@@ -338,7 +339,8 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
+      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt",
+      "jar ":"https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "upyunsou",
@@ -349,7 +351,8 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
+      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt",
+      "jar ":"https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "yisou",
@@ -360,7 +363,8 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
+      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt",
+      "jar ":"https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "AliPS",
@@ -371,7 +375,8 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
+      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt",
+      "jar ":"https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "push_agent",
@@ -382,7 +387,8 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
+      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt",
+      "jar ":"https://amanchi1208.github.io/jar/top97.jar"
     }
   ],
   "parses": [
