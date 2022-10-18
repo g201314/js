@@ -421,6 +421,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "ext":"https://amanchi1208.github.io/json/taken.txt",
       "jar":"https://amanchi1208.github.io/jar/top97.jar"
     },
     {
@@ -432,6 +433,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "ext":"https://amanchi1208.github.io/json/taken.txt",
       "jar":"https://amanchi1208.github.io/jar/top97.jar"
     },
     {
@@ -443,6 +445,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
+      "ext":"https://amanchi1208.github.io/json/taken.txt",
       "jar":"https://amanchi1208.github.io/jar/top97.jar"
     },
     {
@@ -454,6 +457,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
+      "ext":"https://amanchi1208.github.io/json/taken.txt",
       "jar":"https://amanchi1208.github.io/jar/top97.jar"
     },
     {
@@ -465,6 +469,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "ext":"https://amanchi1208.github.io/json/taken.txt",
       "jar":"https://amanchi1208.github.io/jar/top97.jar"
     },
     {
@@ -476,8 +481,8 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "jar":"https://amanchi1208.github.io/jar/top97.jar",
-      "ext": ""
+      "ext":"https://amanchi1208.github.io/json/taken.txt",
+      "jar":"https://amanchi1208.github.io/jar/top97.jar"
     }
   ],
   "parses": [
