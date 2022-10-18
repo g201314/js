@@ -413,16 +413,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/e92x0znf.json"
     },
     {
-      "key": "AliPS",
-      "name": "盘搜",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://amanchi1208.github.io/json/taken.txt"
-    },
-    {
       "key": "Gitcafe",
       "name": "小纸条(新)",
       "type": 3,
@@ -430,7 +420,8 @@
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "找资源",
@@ -440,7 +431,8 @@
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "upyunsou",
@@ -450,7 +442,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 1,
-      "filterable": 0
+      "filterable": 0,
+      "jar":"https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "yisou",
@@ -460,7 +453,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 1,
-      "filterable": 0
+      "filterable": 0,
+      "jar":"https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "AliPS",
@@ -470,7 +464,8 @@
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "push_agent",
@@ -481,6 +476,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
+      "jar":"https://amanchi1208.github.io/jar/top97.jar"
       "ext": ""
     }
   ],
