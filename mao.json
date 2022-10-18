@@ -14,17 +14,14 @@
       ]
     }
   ],
-    "rules": [
+  "rules": [
     {
       "host": "*",
       "rule": ["default.365yg.com"]
     },
     {
       "host": "dyxs20.com",
-      "rule": [
-        "player/",
-        ".m3u8"
-      ]
+      "rule": ["player/", ".m3u8"]
     },
     {
       "host": "www.agemys.cc",
@@ -326,7 +323,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-        {
+    {
       "key": "唐人街",
       "name": "唐人街(墙外)",
       "type": 0,
@@ -423,7 +420,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"
+      "ext": "https://amanchi1208.github.io/json/taken.txt"
     },
     {
       "key": "Gitcafe",
@@ -433,7 +430,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"
+      "ext": "https://amanchi1208.github.io/json/taken.txt"
     },
     {
       "key": "FindZY",
@@ -443,7 +440,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"
+      "ext": "https://amanchi1208.github.io/json/taken.txt"
     },
     {
       "key": "csp_Yiso",
@@ -453,7 +450,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"
+      "ext": "https://amanchi1208.github.io/json/taken.txt"
     },
     {
       "key": "csp_Upyunso",
@@ -463,7 +460,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"
+      "ext": "https://amanchi1208.github.io/json/taken.txt"
     },
     {
       "key": "push_agent",
@@ -473,7 +470,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"
+      "ext": "https://amanchi1208.github.io/json/taken.txt"
     }
   ],
   "parses": [
@@ -551,7 +548,7 @@
         "header": { "User-Agent": "okhttp/4.1.0" }
       }
     },
-        {
+    {
       "name": "思古3",
       "url": "https://jsap.attakids.com/?url=",
       "type": 0,
