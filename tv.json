@@ -326,7 +326,8 @@
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext":"https://amanchi1208.github.io/json/token.txt"
     },
     {
       "key": "找资源",
@@ -336,7 +337,8 @@
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext":"https://amanchi1208.github.io/json/token.txt"
     },
     {
       "key": "upyunsou",
@@ -346,7 +348,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 1,
-      "filterable": 0
+      "filterable": 0,
+      "ext":"https://amanchi1208.github.io/json/token.txt"
     },
     {
       "key": "yisou",
@@ -356,7 +359,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 1,
-      "filterable": 0
+      "filterable": 0,
+      "ext":"https://amanchi1208.github.io/json/token.txt"
     },
     {
       "key": "AliPS",
@@ -366,7 +370,8 @@
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext":"https://amanchi1208.github.io/json/token.txt"
     },
     {
       "key": "push_agent",
@@ -377,7 +382,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext": ""
+      "ext":"https://amanchi1208.github.io/json/token.txt"
     }
   ],
   "parses": [
