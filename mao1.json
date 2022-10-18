@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/1008.jar",
+  "spider": "https://amanchi1208.github.io/jar/custom_spider.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -25,128 +25,8 @@
       "filterable": 1
     },
     {
-      "key": "csp_77",
-      "name": "酷云七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "360_spider",
-      "name": "360影视",
-      "api": "csp_SP360",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
-    {
-      "key": "csp_CZSPP",
-      "name": "厂长资源",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "csp_Yj1211",
-      "name": "️在线直播",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "csp_xpath_juhuang",
-      "name": "剧荒",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/hi88fmwr.json"
-    },
-    {
-      "key": "Lib",
-      "name": "Libvio",
-      "type": 3,
-      "api": "csp_Lib",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-     {
-      "key": "Lezhu_spider",
-      "name": "乐猪影视",
-      "api": "csp_Lezhu",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
-    {
-      "key": "追剧喵",
-      "name": "追剧喵",
-      "type": 3,
-      "api": "csp_ZJMiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_DiDuan",
-      "name": "低端影视(EXO)",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "3EDY",
-      "name": "3EDY(EXO)",
-      "type": 3,
-      "api": "csp_EEEDY",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "小苹果",
-      "name": "小苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "mjxq_spider",
-      "name": "美剧星球",
-      "type": 3,
-      "api": "csp_Mjxq",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "快看",
-      "name": "快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Auete",
-      "name": "Auete",
+      "key": "Auete",
+      "name": "奥特",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -154,47 +34,38 @@
       "filterable": 1
     },
     {
-      "key": "csp_Zxzj",
-      "name": "在线之家",
+      "key": "Bili",
+      "name": "哔哩",
       "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Bttoo",
-      "name": "两个BT",
-      "type": 3,
-      "api": "csp_Bttoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_AppTT",
-      "name": "图图",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Nmys",
-      "name": "农民",
-      "type": 3,
-      "api": "csp_Nmys",
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/8gl6nas9.json"
+      "ext": "地址"
     },
     {
-      "key": "csp_Anime1",
-      "name": "动漫",
+      "key": "Cokemv",
+      "name": "可乐",
       "type": 3,
-      "api": "csp_Anime1",
+      "api": "csp_Cokemv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Czsapp",
+      "name": "厂长",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Gitcafe",
+      "name": "纸条",
+      "type": 3,
+      "api": "csp_Gitcafe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -210,101 +81,94 @@
     },
     {
       "key": "If101",
-      "name": "If101(墙外)",
+      "name": "101(墙外)",
       "type": 3,
       "api": "csp_If101",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-        {
-      "key": "唐人街",
-      "name": "唐人街(墙外)",
-      "type": 0,
-      "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml",
+    {
+      "key": "IKan",
+      "name": "爱看",
+      "type": 3,
+      "api": "csp_IKan",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": []
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "key": "csp_biubiu_小宝影院",
-      "name": "小宝影院XB(墙外)",
+      "key": "Kuaikan",
+      "name": "快看",
       "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/bym0uaa2.json"
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "key": "csp_xpath_qiumi",
-      "name": "球赛直播",
+      "key": "Kunyu",
+      "name": "七七",
       "type": 3,
-      "api": "csp_XPathFilter",
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Lib",
+      "name": "Libvio",
+      "type": 3,
+      "api": "csp_Lib",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "LiteApple",
+      "name": "苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Smdyy",
+      "name": "神马",
+      "type": 3,
+      "api": "csp_Smdyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "SP360",
+      "name": "SP360",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Xiaoh",
+      "name": "Xiaoh",
+      "type": 3,
+      "api": "csp_Xiaoh",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Zhaozy",
+      "name": "资源(挂)",
+      "type": 3,
+      "api": "csp_Zhaozy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"
-    },
-    {
-      "key": "Bili",
-      "name": "Bili",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/8yl5ly1g.json"
-    },
-    {
-      "key": "知识",
-      "name": "知识学堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/tcn8nmpl.json"
-    },
-    {
-      "key": "儿童",
-      "name": "儿童",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/8lut3hti.json"
-    },
-    {
-      "key": "小学",
-      "name": "小学",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/v8fi80fz.json"
-    },
-    {
-      "key": "初中",
-      "name": "初中",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/ph2bhhup.json"
-    },
-    {
-      "key": "高中",
-      "name": "高中",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/e92x0znf.json"
+      "ext": "token"
     },
     {
       "key": "AliPS",
@@ -314,57 +178,26 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"
+      "ext": "token"
     },
     {
-      "key": "Gitcafe",
-      "name": "小纸条",
+      "key": "Zxzj",
+      "name": "在线",
       "type": 3,
-      "api": "csp_Gitcafe",
+      "api": "csp_Zxzj",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"
-    },
-    {
-      "key": "FindZY",
-      "name": "找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"
-    },
-    {
-      "key": "csp_Yiso",
-      "name": "易搜",
-      "type": 3,
-      "api": "csp_Yiso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"
-    },
-    {
-      "key": "csp_Upyunso",
-      "name": "Up云搜",
-      "type": 3,
-      "api": "csp_Upyunso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"
+      "filterable": 1
     },
     {
       "key": "push_agent",
-      "name": "推送",
+      "name": "PushAgent",
       "type": 3,
       "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/token.txt"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "token"
     }
   ],
   "parses": [
