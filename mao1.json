@@ -25,10 +25,10 @@
       "filterable": 1
     },
     {
-      "key": "Zjdr",
-      "name": "追剧达人",
+      "key": "Kunyu",
+      "name": "七七",
       "type": 3,
-      "api": "csp_Zjdr",
+      "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -43,14 +43,13 @@
       "filterable": 1
     },
     {
-      "key": "Bili",
-      "name": "哔哩",
+      "key": "Zxzj",
+      "name": "在线",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_Zxzj",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://amanchi1208.github.io/json/bilibili.json"
+      "filterable": 1
     },
     {
       "key": "Cokemv",
@@ -71,10 +70,19 @@
       "filterable": 1
     },
     {
-      "key": "Gitcafe",
-      "name": "纸条",
+      "key": "SP360",
+      "name": "SP360",
       "type": 3,
-      "api": "csp_Gitcafe",
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Zjdr",
+      "name": "追剧达人",
+      "type": 3,
+      "api": "csp_Zjdr",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -84,6 +92,15 @@
       "name": "101(墙外)",
       "type": 3,
       "api": "csp_If101",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Xiaoh",
+      "name": "Xiaoh(墙外)",
+      "type": 3,
+      "api": "csp_Xiaoh",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -107,15 +124,6 @@
       "filterable": 1
     },
     {
-      "key": "Kunyu",
-      "name": "七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "Lib",
       "name": "Libvio",
       "type": 3,
@@ -124,6 +132,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+
     {
       "key": "LiteApple",
       "name": "苹果",
@@ -143,19 +152,20 @@
       "filterable": 1
     },
     {
-      "key": "SP360",
-      "name": "SP360",
+      "key": "Bili",
+      "name": "哔哩",
       "type": 3,
-      "api": "csp_SP360",
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "地址"
     },
     {
-      "key": "Xiaoh",
-      "name": "Xiaoh(墙外)",
+      "key": "Gitcafe",
+      "name": "纸条",
       "type": 3,
-      "api": "csp_Xiaoh",
+      "api": "csp_Gitcafe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -181,15 +191,6 @@
       "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
     },
     {
-      "key": "Zxzj",
-      "name": "在线",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "push_agent",
       "name": "PushAgent",
       "type": 3,
@@ -209,6 +210,12 @@
       "type": 1,
       "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
     },
+    {
+      "name": "刘兵",
+      "type": 1,
+      "url": "http://newjiexi.gotka.top/keyu3.php?url="
+    },
+
     {
       "name": "GGTV自用",
       "type": 1,
