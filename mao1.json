@@ -81,7 +81,7 @@
     },
     {
       "key": "If101",
-      "name": "101",
+      "name": "101(墙外)",
       "type": 3,
       "api": "csp_If101",
       "searchable": 1,
@@ -153,7 +153,7 @@
     },
     {
       "key": "Xiaoh",
-      "name": "Xiaoh",
+      "name": "Xiaoh(墙外)",
       "type": 3,
       "api": "csp_Xiaoh",
       "searchable": 1,
