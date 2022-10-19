@@ -1,5 +1,5 @@
 {
-  "spider": "https://amanchi1208.github.io/jar/custom_spider.jar",
+  "spider": "https://amanchi1208.github.io/main/jar/custom_spider.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -15,12 +15,21 @@
     }
   ],
   "sites": [
-     {
+    {
       "key": "T4vod",
       "name": "T4主页",
       "type": 4,
       "api": "https://cn-cd-dx-2.natfrp.cloud:21108/vod?sites=all&timeout=7",
       "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Zjdr",
+      "name": "追剧达人",
+      "type": 3,
+      "api": "csp_Zjdr",
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
@@ -34,19 +43,20 @@
       "filterable": 1
     },
     {
+      "key": "Bili",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "地址"
+    },
+    {
       "key": "Cokemv",
       "name": "可乐",
       "type": 3,
       "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-     {
-      "key": "Zjdr",
-      "name": "追剧达人",
-      "type": 3,
-      "api": "csp_Zjdr",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -71,7 +81,7 @@
     },
     {
       "key": "If101",
-      "name": "101(墙外)",
+      "name": "101",
       "type": 3,
       "api": "csp_If101",
       "searchable": 1,
@@ -101,6 +111,15 @@
       "name": "七七",
       "type": 3,
       "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Lib",
+      "name": "Libvio",
+      "type": 3,
+      "api": "csp_Lib",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -140,6 +159,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "Zhaozy",
+      "name": "资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/txt/https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt.txt"
     },
     {
       "key": "AliPS",
