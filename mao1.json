@@ -34,16 +34,6 @@
       "filterable": 1
     },
     {
-      "key": "Bili",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "地址"
-    },
-    {
       "key": "Cokemv",
       "name": "可乐",
       "type": 3,
@@ -107,15 +97,6 @@
       "filterable": 1
     },
     {
-      "key": "Lib",
-      "name": "Libvio",
-      "type": 3,
-      "api": "csp_Lib",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "LiteApple",
       "name": "苹果",
       "type": 3,
@@ -150,16 +131,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "Zhaozy",
-      "name": "资源(挂)",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "token"
     },
     {
       "key": "AliPS",
