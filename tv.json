@@ -259,16 +259,6 @@
       "ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"
     },
     {
-      "key": "Bili",
-      "name": "Bili",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/8yl5ly1g.json"
-    },
-    {
       "key": "知识",
       "name": "知识学堂",
       "type": 3,
