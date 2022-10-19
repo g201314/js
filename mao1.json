@@ -15,12 +15,12 @@
     }
   ],
   "sites": [
-    {
-      "key": "T4(2)",
-      "name": "T4",
+     {
+      "key": "T4vod",
+      "name": "T4主页",
       "type": 4,
-      "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
-      "searchable": 1,
+      "api": "https://cn-cd-dx-2.natfrp.cloud:21108/vod?sites=all&timeout=7",
+      "searchable": 0,
       "quickSearch": 1,
       "filterable": 1
     },
@@ -140,7 +140,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "token"
+      "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
     },
     {
       "key": "Zxzj",
@@ -159,7 +159,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "token"
+      "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
     }
   ],
   "parses": [
