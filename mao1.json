@@ -158,7 +158,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://amanchi1208.github.io/json/token.json"
+      "ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"
     },
     {
       "key": "AliPS",
@@ -168,7 +168,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://amanchi1208.github.io/json/token.json"
+      "ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"
     },
     {
       "key": "push_agent",
@@ -178,7 +178,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://amanchi1208.github.io/json/token.json"
+      "ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"
     }
   ],
   "parses": [
