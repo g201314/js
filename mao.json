@@ -405,7 +405,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://amanchi1208.github.io/json/token.json"
+      "ext":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"
     },
     {
       "key": "找资源",
@@ -416,7 +416,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://amanchi1208.github.io/json/token.json"
+      "ext":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"
     },
     {
       "key": "upyunsou",
@@ -427,7 +427,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"https://amanchi1208.github.io/json/token.json"
+      "ext":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"
     },
     {
       "key": "yisou",
@@ -438,7 +438,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"https://amanchi1208.github.io/json/token.json"
+      "ext":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"
     },
     {
       "key": "AliPS",
@@ -449,7 +449,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://amanchi1208.github.io/json/token.json"
+      "ext":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"
     },
     {
       "key": "push_agent",
@@ -460,7 +460,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
+      "ext":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"
     }
   ],
   "parses": [
