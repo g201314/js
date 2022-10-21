@@ -142,16 +142,6 @@
       "filterable": 1
     },
     {
-      "key": "Bili",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "地址"
-    },
-    {
       "key": "Gitcafe",
       "name": "纸条",
       "type": 3,
