@@ -405,7 +405,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
+      "ext":"https://amanchi1208.github.io/json/token.json"
     },
     {
       "key": "找资源",
@@ -416,7 +416,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
+      "ext":"https://amanchi1208.github.io/json/token.json"
     },
     {
       "key": "upyunsou",
@@ -427,7 +427,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
+      "ext":"https://amanchi1208.github.io/json/token.json"
     },
     {
       "key": "yisou",
@@ -438,7 +438,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
+      "ext":"https://amanchi1208.github.io/json/token.json"
     },
     {
       "key": "AliPS",
@@ -449,7 +449,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
+      "ext":"https://amanchi1208.github.io/json/token.json"
     },
     {
       "key": "push_agent",
