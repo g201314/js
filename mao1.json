@@ -158,7 +158,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
+      "ext": "0e6e4ab3f631487290bf4dcddee04ce9"
     },
     {
       "key": "AliPS",
@@ -168,7 +168,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
+      "ext": "0e6e4ab3f631487290bf4dcddee04ce9"
     },
     {
       "key": "push_agent",
@@ -178,7 +178,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
+      "ext": "0e6e4ab3f631487290bf4dcddee04ce9"
     }
   ],
   "parses": [
