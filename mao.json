@@ -44,7 +44,7 @@
     },
     {
       "key": "csp_77",
-      "name": "酷云七七",
+      "name": "七七",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -53,32 +53,13 @@
     },
     {
       "key": "360_spider",
-      "name": "360影视",
+      "name": "360",
       "api": "csp_SP360",
       "type": 3,
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
       "ext": ""
-    },
-    {
-      "key": "csp_CZSPP",
-      "name": "厂长资源(爬虫)",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "http://shuyuan.miaogongzi.net/shuyuan/1666146659.txt"
-    },
-    {
-      "key": "csp_Yj1211",
-      "name": "️在线直播",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
     },
     {
       "key": "csp_xpath_juhuang",
@@ -91,14 +72,32 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/hi88fmwr.json"
     },
     {
-      "key": "dr_有声小说吧", 
-      "name": "有声小说吧(drpy)", 
-      "type": 3, 
-      "api": "http://www.fenwe.tk:5705/libs/drpy.min.js", 
-      "searchable": 2, 
-      "quickSearch": 0, 
-      "filterable": 0, 
-      "ext": "http://www.fenwe.tk:5705/admin/view/有声小说吧.js"
+      "key": "csp_Yj1211",
+      "name": "️在线直播",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "csp_CZSPP",
+      "name": "厂长资源",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "http://shuyuan.miaogongzi.net/shuyuan/1666146659.txt"
+    },
+    {
+      "key": "csp_DiDuan",
+      "name": "低端影视(EXO)",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "py_lezhu",
@@ -115,105 +114,6 @@
       "name": "追剧喵",
       "type": 3,
       "api": "csp_ZJMiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_voflix",
-      "name": "Voflix",
-      "type": 3,
-      "api": "py_voflix",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_voflix.py"
-    },
-    {
-      "key": "py_cctv",
-      "name": "央视自选",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_cctv.py"
-    },
-    {
-      "key": "py_cctv_full",
-      "name": "央视大全",
-      "type": 3,
-      "api": "py_cctv_full",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_cctv_full.py"
-    },
-    {
-      "key": " py_bilibili",
-      "name": "哔哩",
-      "type": 3,
-      "api": "py_bilibili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_bilibili.py"
-    },
-    {
-      "key": " py_bilimd",
-      "name": "哔哩影视",
-      "type": 3,
-      "api": "py_bilimd",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_bilimd.py"
-    },
-    {
-      "key": " py_中医药",
-      "name": "中医药",
-      "type": 3,
-      "api": "py_中医药",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_中医药.py"
-    },
-    {
-      "key": " py_中国文化",
-      "name": "中国文化",
-      "type": 3,
-      "api": "py_中国文化",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_中国文化.py"
-    },
-    {
-      "key": " py_yixi",
-      "name": "一席",
-      "type": 3,
-      "api": "py_yixi",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_yixi.py"
-    },
-    {
-      "key": "py_cup",
-      "name": "茶杯狐",
-      "type": 3,
-      "api": "py_cup",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_cup.py"
-    },
-    {
-      "key": "csp_DiDuan",
-      "name": "低端影视(EXO)",
-      "type": 3,
-      "api": "csp_Ddrk",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -345,6 +245,96 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/bym0uaa2.json"
+    },
+    {
+      "key": "py_voflix",
+      "name": "Voflix",
+      "type": 3,
+      "api": "py_voflix",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_voflix.py"
+    },
+    {
+      "key": "py_cctv",
+      "name": "央视自选",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_cctv.py"
+    },
+    {
+      "key": "py_cctv_full",
+      "name": "央视大全",
+      "type": 3,
+      "api": "py_cctv_full",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_cctv_full.py"
+    },
+    {
+      "key": " py_bilibili",
+      "name": "哔哩",
+      "type": 3,
+      "api": "py_bilibili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_bilibili.py"
+    },
+    {
+      "key": " py_bilimd",
+      "name": "哔哩影视",
+      "type": 3,
+      "api": "py_bilimd",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_bilimd.py"
+    },
+    {
+      "key": " py_中医药",
+      "name": "中医药",
+      "type": 3,
+      "api": "py_中医药",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_中医药.py"
+    },
+    {
+      "key": " py_中国文化",
+      "name": "中国文化",
+      "type": 3,
+      "api": "py_中国文化",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_中国文化.py"
+    },
+    {
+      "key": " py_yixi",
+      "name": "一席",
+      "type": 3,
+      "api": "py_yixi",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_yixi.py"
+    },
+    {
+      "key": "py_cup",
+      "name": "茶杯狐",
+      "type": 3,
+      "api": "py_cup",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_cup.py"
     },
     {
       "key": "csp_xpath_qiumi",
@@ -494,6 +484,103 @@
     },
     { "name": "未知", "type": 1, "url": "http://api.ckflv.cn/?url=" },
     { "name": "OKjx嗅探", "type": 1, "url": "https://okjx.cc/?url=" },
+    {
+      "name": "可与",
+      "type": 1,
+      "url": "http://newjiexi.gotka.top/keyu3.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": { "User-Agent": "okhttp/4.1.0" }
+      }
+    },
+    {
+      "name": "融兴",
+      "type": 1,
+      "url": "https://svip.rongxingvr.top/api/?key=4gb6ui9qfap4kLrvb2&url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "iqiyi",
+          "奇艺",
+          "爱奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "xigua",
+          "西瓜",
+          "sohu",
+          "搜狐",
+          "cntv",
+          "cctv",
+          "央视",
+          "1905",
+          "m1905"
+        ]
+      }
+    },
+    {
+      "name": "猫咪",
+      "type": 1,
+      "url": "http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "iqiyi",
+          "奇艺",
+          "爱奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "xigua",
+          "西瓜",
+          "sohu",
+          "搜狐",
+          "cntv",
+          "cctv",
+          "央视",
+          "1905",
+          "m1905"
+        ]
+      }
+    },
     {
       "name": "神1",
       "type": 1,
