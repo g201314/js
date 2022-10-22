@@ -168,7 +168,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"
+      "ext": "http://刚刚.live/json/alitoken.json"
     },
     {
       "key": "AliPS",
@@ -178,7 +178,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"
+      "ext": "http://刚刚.live/json/alitoken.json"
     },
     {
       "key": "push_agent",
@@ -188,7 +188,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"
+      "ext": "http://刚刚.live/json/alitoken.json"
     }
   ],
   "parses": [
