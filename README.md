@@ -17,6 +17,10 @@ https://amanchi1208.github.io/tvb.json
 ```
 https://amanchi1208.github.io.mao1.json
 ```
+##### 配置地址五:
+```
+http://home.jundie.top:81/top97.json
+```
 
 ##### TVbox:
 ```
