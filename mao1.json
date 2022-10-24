@@ -25,10 +25,37 @@
       "filterable": 1
     },
     {
-      "key": "Kunyu",
-      "name": "七七",
+      "key": "Zjdr",
+      "name": "追剧达人",
       "type": 3,
-      "api": "csp_Kunyu77",
+      "api": "csp_Zjdr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Dy555",
+      "name": "555",
+      "type": 3,
+      "api": "csp_Dy555",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Ddys",
+      "name": "低端",
+      "type": 3,
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AppTT",
+      "name": "图图",
+      "type": 3,
+      "api": "csp_AppTT",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -43,13 +70,14 @@
       "filterable": 1
     },
     {
-      "key": "Zxzj",
-      "name": "在线",
+      "key": "Bili",
+      "name": "哔哩",
       "type": 3,
-      "api": "csp_Zxzj",
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "http://home.jundie.top:81/ray/json/bili.json"
     },
     {
       "key": "Cokemv",
@@ -70,46 +98,20 @@
       "filterable": 1
     },
     {
-      "key": "Lib",
-      "name": "Libvio",
+      "key": "Gitcafe",
+      "name": "纸条",
       "type": 3,
-      "api": "csp_Lib",
+      "api": "csp_Gitcafe",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "SP360",
-      "name": "SP360",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Zjdr",
-      "name": "追剧达人",
-      "type": 3,
-      "api": "csp_Zjdr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "http://刚刚.live/json/alitoken.json"
     },
     {
       "key": "If101",
-      "name": "101(墙外)",
+      "name": "101",
       "type": 3,
       "api": "csp_If101",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Xiaoh",
-      "name": "Xiaoh(墙外)",
-      "type": 3,
-      "api": "csp_Xiaoh",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -133,6 +135,24 @@
       "filterable": 1
     },
     {
+      "key": "Kunyu",
+      "name": "七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Lib",
+      "name": "Libvio",
+      "type": 3,
+      "api": "csp_Lib",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "LiteApple",
       "name": "苹果",
       "type": 3,
@@ -151,14 +171,22 @@
       "filterable": 1
     },
     {
-      "key": "Gitcafe",
-      "name": "纸条",
+      "key": "SP360",
+      "name": "SP360",
       "type": 3,
-      "api": "csp_Gitcafe",
+      "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://刚刚.live/json/alitoken.json"
+      "filterable": 1
+    },
+    {
+      "key": "Xiaoh",
+      "name": "Xiaoh",
+      "type": 3,
+      "api": "csp_Xiaoh",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "Zhaozy",
@@ -179,6 +207,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://刚刚.live/json/alitoken.json"
+    },
+    {
+      "key": "Zxzj",
+      "name": "在线",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "push_agent",
@@ -390,22 +427,15 @@
     "renrenmi"
   ],
   "rules": [
-    {
-      "host": "*",
-      "rule": ["livehls.ltjuq.top", "ofmatch"]
-    },
-    {
-      "host": "*",
-      "rule": ["douyinvod.com", "/video/tos/cn/"]
-    },
-    {
-      "host": "*",
-      "rule": ["default.365yg.com", "/video/tos/cn/"]
-    },
-    {
-      "host": "zjmiao.com",
-      "rule": ["play.videomiao.vip/API.php", "time=", "key=", "path="]
-    }
+    {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
+    {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
+    {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]},
+    {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mp4"]},
+    {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mkv"]},
+    {"host":"*", "rule":["/m3u8.php?path=", ".m3u8"]},
+    {"host":"*", "rule":["/API.php?time=", "key=", "path=", ".m3u8"]},
+    {"host":"*", "rule":["oss-cn-m3u8", "myqcloud.com.zh188.net", "?url=", ".m3u8"]},
+    {"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}
   ],
   "ijk": [
     {
