@@ -15,7 +15,7 @@ https://amanchi1208.github.io/tvb.json
 
 ##### 配置地址四:
 ```
-https://amanchi1208.github.io.mao1.json
+https://amanchi1208.github.io/mao1.json
 ```
 ##### 配置地址五:
 ```
