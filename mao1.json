@@ -126,7 +126,8 @@
       "api": "csp_Tbook",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "Bili",
