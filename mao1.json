@@ -96,7 +96,7 @@
       "key": "csp_Alist2",
       "name": "Alist",
       "type": 3,
-      "api": "csp_Alist",
+      "api": "csp_Alist3",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
