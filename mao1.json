@@ -93,6 +93,15 @@
       "filterable": 1
     },
     {
+      "key":"dora",
+      "name":"Dora",
+      "type":3,
+      "api":"csp_Dora",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },  
+    {
       "key": "Lgyy",
       "name": "蓝光",
       "type": 3,
