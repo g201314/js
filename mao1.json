@@ -72,7 +72,8 @@
       "api": "csp_Zjdr",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "Yanet",
@@ -81,7 +82,8 @@
       "api": "csp_Yanet",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "Dy555",
@@ -90,8 +92,9 @@
       "api": "csp_Dy555",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
+      "filterable": 1,
+      "playerType": 2
+    }, 
     {
       "key": "Lgyy",
       "name": "蓝光",
@@ -129,7 +132,8 @@
       "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "Tbook",
@@ -158,7 +162,8 @@
       "api": "csp_Cokemv",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "Czsapp",
@@ -198,7 +203,8 @@
       "api": "csp_IKan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "Kuaikan",
@@ -207,7 +213,8 @@
       "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "Kunyu",
@@ -216,7 +223,8 @@
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "Lib",
@@ -225,7 +233,8 @@
       "api": "csp_Lib",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "LiteApple",
@@ -234,7 +243,8 @@
       "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "Smdyy",
@@ -243,7 +253,8 @@
       "api": "csp_Smdyy",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "SP360",
@@ -252,7 +263,8 @@
       "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "Xiaoh",
@@ -261,7 +273,8 @@
       "api": "csp_Xiaoh",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "Zhaozy",
@@ -292,7 +305,8 @@
       "api": "csp_Zxzj",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "push_agent",
