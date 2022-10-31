@@ -8,7 +8,7 @@
         {
           "name": "live",
           "urls": [
-             "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="
           ]
         }
       ]
@@ -72,7 +72,8 @@
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "360_spider",
@@ -82,6 +83,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
+      "playerType": 2,
       "ext": ""
     },
     {
@@ -111,16 +113,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "playerType": 2,
       "jar": "http://shuyuan.miaogongzi.net/shuyuan/1666146659.txt"
     },
     {
       "key": "csp_DiDuan",
-      "name": "低端影视(EXO)",
+      "name": "低端影视",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "py_lezhu",
@@ -130,6 +134,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "playerType": 2,
       "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_lezhu.py"
     },
     {
@@ -139,16 +144,18 @@
       "api": "csp_ZJMiao",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "3EDY",
-      "name": "3EDY(EXO)",
+      "name": "3EDY",
       "type": 3,
       "api": "csp_EEEDY",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "小苹果",
@@ -157,7 +164,8 @@
       "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "mjxq_spider",
@@ -166,7 +174,8 @@
       "api": "csp_Mjxq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "快看",
@@ -175,7 +184,8 @@
       "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "csp_Auete",
@@ -184,7 +194,8 @@
       "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "csp_Zxzj",
@@ -193,7 +204,8 @@
       "api": "csp_Zxzj",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "csp_Bttoo",
@@ -202,7 +214,8 @@
       "api": "csp_Bttoo",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "csp_AppTT",
@@ -212,6 +225,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "playerType": 2,
       "jar": "https://amanchi1208.github.io/jar/1022.jar"
     },
     {
@@ -222,6 +236,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "playerType": 2,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/8gl6nas9.json"
     },
     {
@@ -231,33 +246,37 @@
       "api": "csp_Anime1",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "csp_Nbys",
-      "name": "泥巴(墙外)",
+      "name": "泥巴",
       "type": 3,
       "api": "csp_Nbys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "If101",
-      "name": "If101(墙外)",
+      "name": "If101",
       "type": 3,
       "api": "csp_If101",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "唐人街",
-      "name": "唐人街(墙外)",
+      "name": "唐人街",
       "type": 0,
       "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": []
     },
     {
@@ -268,6 +287,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
+      "playerType": 2,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/bym0uaa2.json"
     },
     {
@@ -288,6 +308,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "playerType": 2,
       "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_voflix.py"
     },
     {
@@ -298,6 +319,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
+      "playerType": 2,
       "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_yixi.py"
     },
     {
@@ -318,6 +340,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "playerType": 2,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/tcn8nmpl.json"
     },
     {
@@ -328,6 +351,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "playerType": 2,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/8lut3hti.json"
     },
     {
@@ -338,6 +362,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "playerType": 2,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/v8fi80fz.json"
     },
     {
@@ -348,6 +373,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "playerType": 2,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/ph2bhhup.json"
     },
     {
@@ -358,6 +384,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "playerType": 2,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/e92x0znf.json"
     },
     {
@@ -369,7 +396,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"http://刚刚.live/json/alitoken.json",
+      "ext": "http://刚刚.live/json/alitoken.json",
       "spider": "https://amanchi1208.github.io/jar/custom_spider.jar"
     },
     {
@@ -381,8 +408,8 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"http://刚刚.live/json/alitoken.json",
-      "spider": "https://amanchi1208.github.io/jar/custom_spider.jar"
+      "ext": "http://刚刚.live/json/alitoken.json",
+      "spider": "https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "upyunsou",
@@ -393,8 +420,8 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"http://刚刚.live/json/alitoken.json",
-      "spider": "https://amanchi1208.github.io/jar/custom_spider.jar"
+      "ext": "http://刚刚.live/json/alitoken.json",
+      "spider": "https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "yisou",
@@ -405,20 +432,8 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"http://刚刚.live/json/alitoken.json",
-      "spider": "https://amanchi1208.github.io/jar/custom_spider.jar"
-    },
-    {
-      "key": "AliPS",
-      "name": "AliPS",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"http://刚刚.live/json/alitoken.json",
-      "spider": "https://amanchi1208.github.io/jar/custom_spider.jar"
+      "ext": "http://刚刚.live/json/alitoken.json",
+      "spider": "https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "push_agent",
@@ -429,7 +444,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext":"http://刚刚.live/json/alitoken.json",
+      "ext": "http://刚刚.live/json/alitoken.json",
       "spider": "https://amanchi1208.github.io/jar/custom_spider.jar"
     }
   ],
