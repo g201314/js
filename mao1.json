@@ -56,15 +56,7 @@
     { "host": "*", "rule": ["m4a"] }
   ],
   "sites": [
-    {
-      "key": "T4vod",
-      "name": "T4主页",
-      "type": 4,
-      "api": "https://cn-cd-dx-2.natfrp.cloud:21108/vod?sites=all&timeout=7",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "Zjdr",
       "name": "追剧达人",
@@ -184,7 +176,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 1,
-      "ext": "http://刚刚.live/json/alitoken.json"
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
     },
     {
       "key": "If101",
@@ -277,28 +269,6 @@
       "playerType": 2
     },
     {
-      "key": "Zhaozy",
-      "name": "资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 1,
-      "ext": "http://刚刚.live/json/alitoken.json"
-    },
-    {
-      "key": "AliPS",
-      "name": "盘搜",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 1,
-      "ext": "http://刚刚.live/json/alitoken.json"
-    },
-    {
       "key": "Zxzj",
       "name": "在线",
       "type": 3,
@@ -309,6 +279,39 @@
       "playerType": 2
     },
     {
+      "key": "Zhaozy",
+      "name": "资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 1,
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+    },
+    {
+      "key": "AliPS",
+      "name": "盘搜",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 1,
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+    },
+    {
+      "key": "YiSo",
+      "name": "易搜",
+      "type": "3",
+      "api": "csp_YiSo",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "playerType": 1,
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+    },
+    {
       "key": "push_agent",
       "name": "PushAgent",
       "type": 3,
@@ -317,7 +320,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 1,
-      "ext": "http://刚刚.live/json/alitoken.json"
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
     }
   ],
   "parses": [
