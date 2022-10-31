@@ -19,7 +19,7 @@ https://amanchi1208.github.io/mao1.json
 ```
 ##### 配置地址五:
 ```
-http://home.jundie.top:81/top97.json
+https://gitea.com/Pandora2277/NoWar/raw/branch/main/tang.bmp
 ```
 
 ##### TVbox:
