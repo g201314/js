@@ -206,14 +206,6 @@
       "ext": "http://home.jundie.top:81/ray/json/bili.json"
     },
     {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
-    },
-    {
       "key": "Cokemv",
       "name": "可乐",
       "type": "3",
