@@ -298,7 +298,7 @@
       "api": "csp_Xiaoh",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
     },
     {
       "key": "py_voflix",
@@ -332,7 +332,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://刚刚.live/json/alitoken.json",
-      "spider": "https://amanchi1208.github.io/jar/top97.jar"
+      "jar": "https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "找资源",
@@ -344,7 +344,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://刚刚.live/json/alitoken.json",
-      "spider": "https://amanchi1208.github.io/jar/top97.jar"
+      "jar": "https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "upyunsou",
@@ -356,7 +356,7 @@
       "playerType": 1,
       "filterable": 0,
       "ext": "http://刚刚.live/json/alitoken.json",
-      "spider": "https://amanchi1208.github.io/jar/top97.jar"
+      "jar": "https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "yisou",
@@ -368,7 +368,7 @@
       "playerType": 1,
       "filterable": 0,
       "ext": "http://刚刚.live/json/alitoken.json",
-      "spider": "https://amanchi1208.github.io/jar/top97.jar"
+      "jar": "https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "知识",
