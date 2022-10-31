@@ -292,15 +292,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/bym0uaa2.json"
     },
     {
-      "key": "Xiaoh",
-      "name": "Xiaoh",
-      "type": 3,
-      "api": "csp_Xiaoh",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "py_voflix",
       "name": "Voflix",
       "type": 3,
