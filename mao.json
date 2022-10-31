@@ -99,7 +99,7 @@
     },
     {
       "key": "csp_Yj1211",
-      "name": "️在线直播",
+      "name": "️在线",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 0,
@@ -108,7 +108,7 @@
     },
     {
       "key": "csp_CZSPP",
-      "name": "厂长资源",
+      "name": "厂长",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -119,7 +119,7 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "低端影视",
+      "name": "低端",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -129,7 +129,7 @@
     },
     {
       "key": "py_lezhu",
-      "name": "乐猪影视",
+      "name": "乐猪",
       "type": 3,
       "api": "py_lezhu",
       "searchable": 1,
@@ -170,7 +170,7 @@
     },
     {
       "key": "mjxq_spider",
-      "name": "美剧星球",
+      "name": "美剧",
       "type": 3,
       "api": "csp_Mjxq",
       "searchable": 1,
@@ -200,7 +200,7 @@
     },
     {
       "key": "csp_Zxzj",
-      "name": "在线之家",
+      "name": "在线",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -262,7 +262,7 @@
     },
     {
       "key": "If101",
-      "name": "If101",
+      "name": "101",
       "type": 3,
       "api": "csp_If101",
       "searchable": 1,
@@ -282,7 +282,7 @@
     },
     {
       "key": "csp_biubiu_小宝影院",
-      "name": "小宝影院XB",
+      "name": "小宝",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 0,
@@ -299,7 +299,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2
     },
     {
       "key": "py_voflix",
@@ -324,18 +323,56 @@
       "ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_yixi.py"
     },
     {
-      "key": "csp_xpath_qiumi",
-      "name": "球赛直播",
+      "key": "Gitcafe",
+      "name": "纸条",
       "type": 3,
-      "api": "csp_XPathFilter",
+      "api": "csp_Gitcafe",
       "searchable": 1,
+      "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"
+      "ext": "http://刚刚.live/json/alitoken.json",
+      "spider": "https://amanchi1208.github.io/jar/top97.jar"
+    },
+    {
+      "key": "找资源",
+      "name": "找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://刚刚.live/json/alitoken.json",
+      "spider": "https://amanchi1208.github.io/jar/top97.jar"
+    },
+    {
+      "key": "upyunsou",
+      "name": "Up云搜",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 0,
+      "ext": "http://刚刚.live/json/alitoken.json",
+      "spider": "https://amanchi1208.github.io/jar/top97.jar"
+    },
+    {
+      "key": "yisou",
+      "name": "宜搜",
+      "type": 3,
+      "api": "csp_Yisou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 0,
+      "ext": "http://刚刚.live/json/alitoken.json",
+      "spider": "https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "知识",
-      "name": "知识学堂",
+      "name": "知识",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -387,54 +424,6 @@
       "filterable": 1,
       "playerType": 2,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/e92x0znf.json"
-    },
-    {
-      "key": "Gitcafe",
-      "name": "小纸条(新)",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://刚刚.live/json/alitoken.json",
-      "spider": "https://amanchi1208.github.io/jar/custom_spider.jar"
-    },
-    {
-      "key": "找资源",
-      "name": "找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://刚刚.live/json/alitoken.json",
-      "spider": "https://amanchi1208.github.io/jar/top97.jar"
-    },
-    {
-      "key": "upyunsou",
-      "name": "Up云搜",
-      "type": 3,
-      "api": "csp_Upyunso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 0,
-      "ext": "http://刚刚.live/json/alitoken.json",
-      "spider": "https://amanchi1208.github.io/jar/top97.jar"
-    },
-    {
-      "key": "yisou",
-      "name": "宜搜",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 0,
-      "ext": "http://刚刚.live/json/alitoken.json",
-      "spider": "https://amanchi1208.github.io/jar/top97.jar"
     },
     {
       "key": "push_agent",
