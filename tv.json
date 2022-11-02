@@ -1,5 +1,5 @@
 {
-  "spider": "https://amanchi1208.github.io/jar/cs.jar",
+  "spider": "https://amanchi1208.github.io/jar/ts.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -73,7 +73,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "778e8966ec0e9c0ae0b4682ad3550f40"
     },
     {
@@ -84,7 +83,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "a369b1f623fe86605f1b029f0cf66349"
     },
     {
@@ -95,7 +93,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "c41fdb671b20925c76fa9b6ff8bad027"
     },
     {
@@ -116,7 +113,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "b2e573ff040fcd54b50475660ee1a7d1"
     },
     {
@@ -127,7 +123,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "16705ee9f4764be8499806f52d4bf1e7"
     },
     {
@@ -138,7 +133,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "1cc92323700909e7d46623bc85b958d6"
     },
     {
@@ -149,7 +143,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "572192a9fe2136041a58e7219a46fb2b"
     },
     {
@@ -160,7 +153,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "110c922de7d69804467fb83d3bb664b5"
     },
     {
@@ -171,7 +163,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
     },
     {
@@ -182,7 +173,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "459b1cb892e317546676a2c9dcec2bff"
     },
     {
@@ -193,7 +183,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"
     },
     {
@@ -204,7 +193,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b"
     },
     {
@@ -215,7 +203,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "d16d1517e9eaad9909cb35c55ba0b784"
     },
     {
@@ -226,8 +213,15 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "http://home.jundie.top:81/ray/json/bili.json"
+    },
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
     },
     {
       "key": "Cokemv",
@@ -237,7 +231,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "b88de1329655cca1beba45aa9776de70"
     },
     {
@@ -248,7 +241,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "8ee655f702d0d21f3643504783babbc3"
     },
     {
@@ -259,7 +251,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "6deed4548c44b18d268a5d828f04d86e"
     },
     {
@@ -270,7 +261,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "9248c57eb22ace4a3431fbd1a979465f"
     },
     {
@@ -281,7 +271,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 1,
       "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
     },
     {
@@ -292,7 +281,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "78d057e4d03e47cb62dce13d69b41d6f"
     },
     {
@@ -303,7 +291,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "f41992bd740145ed58cb212dc0876582"
     },
     {
@@ -314,7 +301,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "0842c1d2a8534ec62fb3a3ed848851a7"
     },
     {
@@ -325,7 +311,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "13441dbe4dee12dafffb93c56ec3e9e4"
     },
     {
@@ -336,7 +321,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 1,
       "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
     },
     {
@@ -347,7 +331,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 1,
       "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
     },
     {
@@ -358,7 +341,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 1,
       "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
     },
     {
@@ -369,7 +351,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
       "ext": "23a412dda32885ae2bcb97b956cd7ad4"
     },
     {
@@ -380,7 +361,6 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 1,
       "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
     }
   ],
