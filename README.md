@@ -10,7 +10,7 @@ https://amanchi1208.github.io/tv.json
 
 ##### 配置地址三:
 ```
-https://amanchi1208.github.io/tvb.json
+https://amanchi1208.github.io/am.json
 ```
 
 ##### 配置地址四:
