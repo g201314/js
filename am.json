@@ -99,6 +99,16 @@
         "ext": "c41fdb671b20925c76fa9b6ff8bad027"
       },
       {
+        "key": "Tian",
+        "name": "天天",
+        "type": "3",
+        "api": "csp_Dora",
+        "searchable": "1",
+        "quickSearch": "1",
+        "filterable": "1",
+        "ext": "bdc1c75081e5e477189a463baa47e392"
+      },
+      {
         "key": "Lgyy",
         "name": "蓝光",
         "type": "3",
