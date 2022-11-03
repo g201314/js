@@ -106,6 +106,7 @@
         "searchable": "1",
         "quickSearch": "1",
         "filterable": "1",
+        "playerType": 2,
         "ext": "bdc1c75081e5e477189a463baa47e392"
       },
       {
