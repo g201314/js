@@ -419,11 +419,6 @@
       "type": 1,
       "url": "https://play.fuqizhishi.com/jx/API.php?appkey=ixiaobai&url="
     },
-    {
-      "name": "云you",
-      "type": 1,
-      "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="
-    },
     { "name": "未知", "type": 1, "url": "http://api.ckflv.cn/?url=" },
     { "name": "OKjx嗅探", "type": 1, "url": "https://okjx.cc/?url=" },
     {
