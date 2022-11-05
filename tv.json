@@ -260,6 +260,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "playerType": 2,
       "categories": [
         "国产剧",
         "日韩剧",
@@ -343,6 +344,17 @@
       "filterable": "1",
       "playerType": 2,
       "ext": "78d057e4d03e47cb62dce13d69b41d6f"
+    },
+    {
+      "key": "Voflix",
+      "name": "Voflix",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "ext": "https://dxawi.github.io/1/json/voflix.json"
     },
     {
       "key": "Dy555",
