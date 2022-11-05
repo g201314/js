@@ -6,7 +6,7 @@
       "group": "redirect",
       "channels": [
         {
-          "name": "live",
+          "name": "redirect",
           "urls": [
             "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="
           ]
