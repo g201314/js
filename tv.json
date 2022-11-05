@@ -77,17 +77,6 @@
       "ext": "778e8966ec0e9c0ae0b4682ad3550f40"
     },
     {
-      "key": "Yanet",
-      "name": "Yanet",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "playerType": 2,
-      "ext": "a369b1f623fe86605f1b029f0cf66349"
-    },
-    {
       "key": "Tian",
       "name": "天天",
       "type": "3",
@@ -99,6 +88,17 @@
       "ext": "bdc1c75081e5e477189a463baa47e392"
     },
     {
+      "key": "Yanet",
+      "name": "鸭奶飞",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "playerType": 2,
+      "ext": "a369b1f623fe86605f1b029f0cf66349"
+    },
+    {
       "key": "Pang",
       "name": "胖虎",
       "type": "3",
@@ -108,6 +108,17 @@
       "filterable": "1",
       "playerType": 2,
       "ext": "c41fdb671b20925c76fa9b6ff8bad027"
+    },
+    {
+      "key": "Hei",
+      "name": "石榴",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "playerType": 2,
+      "ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
     },
     {
       "key": "Lgyy",
@@ -223,11 +234,12 @@
       "key": "Bili",
       "name": "哔哩",
       "type": "3",
-      "api": "csp_Bili",
+      "api": "csp_Dora",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "http://home.jundie.top:81/ray/json/bili.json"
+      "playerType": 2,
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#http://home.jundie.top:81/ray/json/bili.json"
     },
     {
       "key": "Cokemv",
@@ -241,14 +253,41 @@
       "ext": "b88de1329655cca1beba45aa9776de70"
     },
     {
-      "key": "Voflix",
-      "name": "Voflix(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
+      "key": "多多",
+      "name": "多多",
+      "type": 1,
+      "api": "https://www.ddzyz1.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://dxawi.github.io/1/json/voflix.json"
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "日韩剧",
+        "港台剧",
+        "欧美剧",
+        "泰国剧",
+        "海外剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "国内综艺",
+        "海外综艺",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "动画片",
+        "冒险片",
+        "武侠片",
+        "科幻片",
+        "战争片",
+        "恐怖片",
+        "灾难片",
+        "悬疑片",
+        "纪录片",
+        "惊悚片",
+        "奇幻片",
+        "剧情片"
+      ]
     },
     {
       "key": "Czsapp",
@@ -292,7 +331,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "playerType": 1,
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext": "http://home.jundie.top:666/token.txt"
     },
     {
       "key": "Lib",
@@ -328,28 +367,6 @@
       "ext": "0842c1d2a8534ec62fb3a3ed848851a7"
     },
     {
-      "key": "If101",
-      "name": "101",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "playerType": 2,
-      "ext": "13441dbe4dee12dafffb93c56ec3e9e4"
-    },
-    {
-      "key": "Hei",
-      "name": "石榴",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "playerType": 2,
-      "ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
-    },
-    {
       "key": "Zhaozy",
       "name": "资源",
       "type": "3",
@@ -358,7 +375,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "playerType": 1,
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext": "http://home.jundie.top:666/token.txt"
     },
     {
       "key": "YiSo",
@@ -369,7 +386,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "playerType": 1,
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext": "http://home.jundie.top:666/token.txt"
     },
     {
       "key": "AliPS",
@@ -380,7 +397,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "playerType": 1,
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext": "http://home.jundie.top:666/token.txt"
     },
     {
       "key": "Zxzj",
@@ -390,7 +407,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "playerType": 2,
+      "playerType": 1,
       "ext": "23a412dda32885ae2bcb97b956cd7ad4"
     },
     {
@@ -402,7 +419,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "playerType": 1,
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext": "http://home.jundie.top:666/token.txt"
     }
   ],
   "parses": [
