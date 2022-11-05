@@ -368,10 +368,10 @@
       "ext": "f41992bd740145ed58cb212dc0876582"
     },
     {
-      "key": "Nbys",
+      "key": "csp_Nbys",
       "name": "泥巴",
       "type": 3,
-      "api": "csp_Dora",
+      "api": "csp_Nbys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
