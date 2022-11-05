@@ -368,17 +368,6 @@
       "ext": "f41992bd740145ed58cb212dc0876582"
     },
     {
-      "key": "csp_Nbys",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_Nbys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "spider": "https://amanchi1208.github.io/jar/1008.jar"
-    },
-    {
       "key": "Xiaoh",
       "name": "Xiaoh",
       "type": "3",
