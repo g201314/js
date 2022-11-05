@@ -375,7 +375,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2
+      "playerType": 2,
+      "spider": "https://amanchi1208.github.io/jar/1008.jar"
     },
     {
       "key": "Xiaoh",
