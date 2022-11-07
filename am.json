@@ -57,15 +57,6 @@
   ],
   "sites": [
     {
-      "key": "T4vod",
-      "name": "T4主页",
-      "type": 4,
-      "api": "https://cn-cd-dx-2.natfrp.cloud:21108/vod?sites=all&timeout=7",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "Zjdr",
       "name": "追剧达人",
       "type": "3",
