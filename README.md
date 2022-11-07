@@ -18,6 +18,11 @@ https://amanchi1208.github.io/am.json
 https://amanchi1208.github.io/tv.bmp
 ```
 
+##### 配置地址五:
+```
+https://amanchi1208.github.io/ad.json
+```
+
 ##### TVbox:
 ```
 https://wwu.lanzoub.com/b02jpwaed
