@@ -57,6 +57,17 @@
   ],
   "sites": [
     {
+      "key": "Czsapp",
+      "name": "厂长",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "playerType": 2,
+      "ext": "8ee655f702d0d21f3643504783babbc3"
+    },
+    {
       "key": "Zjdr",
       "name": "追剧达人",
       "type": "3",
@@ -280,17 +291,6 @@
         "奇幻片",
         "剧情片"
       ]
-    },
-    {
-      "key": "Czsapp",
-      "name": "厂长",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "playerType": 2,
-      "ext": "8ee655f702d0d21f3643504783babbc3"
     },
     {
       "key": "LiteApple",

@@ -15,11 +15,6 @@ https://amanchi1208.github.io/am.json
 
 ##### 配置地址四:
 ```
-https://amanchi1208.github.io/tv.bmp
-```
-
-##### 配置地址五:
-```
 https://amanchi1208.github.io/ad.json
 ```
 
