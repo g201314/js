@@ -57,6 +57,15 @@
   ],
   "sites": [
     {
+      "key": "T4",
+      "name": "T4主页",
+      "type": 4,
+      "api": "http://top.fuqizhishi.com/vod?sites=all&timeout=7",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "Czsapp",
       "name": "厂长",
       "type": "3",
