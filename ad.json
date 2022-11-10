@@ -274,16 +274,9 @@
     }
   ],
   "parses": [
-    {
-      "name": "Web聚合",
-      "type": 3,
-      "url": "Web"
-    },
-    {
-      "name": "Json聚合",
-      "type": 3,
-      "url": "Demo"
-    },
+    { "name": "Json轮询", "type": 2, "url": "Sequence" },
+    {"name": "Web聚合","type": 3, "url": "Web"},
+    {"name": "Json聚合","type": 3,"url": "Demo"},
     {
       "name": "xmflv",
       "type": 0,
