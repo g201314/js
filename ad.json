@@ -6,9 +6,9 @@
       "group": "redirect",
       "channels": [
         {
-          "name": "live",
+          "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="
+            "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="
           ]
         }
       ]
@@ -275,8 +275,8 @@
   ],
   "parses": [
     { "name": "Json轮询", "type": 2, "url": "Sequence" },
-    {"name": "Web聚合","type": 3, "url": "Web"},
-    {"name": "Json聚合","type": 3,"url": "Demo"},
+    { "name": "Web聚合", "type": 3, "url": "Web" },
+    { "name": "Json聚合", "type": 3, "url": "Demo" },
     {
       "name": "xmflv",
       "type": 0,
