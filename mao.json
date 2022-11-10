@@ -69,17 +69,8 @@
       "filterable": 1
     },
     {
-      "key": "csp_Yj1211",
-      "name": "️在线直播",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
       "key": "csp_77",
-      "name": "酷云七七",
+      "name": "七七",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -89,7 +80,7 @@
     },
     {
       "key": "360_spider",
-      "name": "360影视",
+      "name": "360",
       "api": "csp_SP360",
       "type": 3,
       "filterable": 1,
@@ -109,7 +100,7 @@
     },
     {
       "key": "csp_CZSPP",
-      "name": "厂长资源",
+      "name": "厂长",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -119,7 +110,7 @@
     },
     {
       "key": "csp_dd5555",
-      "name": "555影视",
+      "name": "555",
       "api": "csp_Dy555",
       "type": 3,
       "filterable": 1,
@@ -129,7 +120,7 @@
     },
     {
       "key": "Lezhu_spider",
-      "name": "乐猪影视",
+      "name": "乐猪",
       "api": "csp_Lezhu",
       "type": 3,
       "filterable": 1,
@@ -189,7 +180,7 @@
     },
     {
       "key": "csp_Zxzj",
-      "name": "在线之家",
+      "name": "在线",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -219,7 +210,7 @@
     },
     {
       "key": "csp_Dy1010",
-      "name": "dy1010",
+      "name": "1010",
       "type": 3,
       "api": "csp_Dy1010",
       "searchable": 1,
@@ -239,7 +230,7 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "低端影视",
+      "name": "低端",
       "type": 3,
       "api": "csp_Ddrk",
       "click": "ddys.tv;#vjsp > button",
@@ -360,7 +351,7 @@
     },
     {
       "key": "csp_XYQBiu_凌云影视",
-      "name": "凌云影视",
+      "name": "凌云",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -371,7 +362,7 @@
     },
     {
       "key": "csp_XBPQ极品影视",
-      "name": "极品影视",
+      "name": "极品",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -404,7 +395,7 @@
     },
     {
       "key": "ysgc",
-      "name": "影视工厂",
+      "name": "影视",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -458,7 +449,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "小纸条",
+      "name": "纸条",
       "type": 3,
       "api": "csp_Gitcafe",
       "searchable": 1,
@@ -468,7 +459,7 @@
     },
     {
       "key": "FindZY",
-      "name": "找资源",
+      "name": "资源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -488,7 +479,7 @@
     },
     {
       "key": "csp_Upyunso",
-      "name": "UP云搜",
+      "name": "云搜",
       "type": 3,
       "api": "csp_Upyunso",
       "searchable": 1,
