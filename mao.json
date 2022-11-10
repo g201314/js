@@ -1,5 +1,5 @@
 {
-  "spider": "https:amanchi1208.github.io/jar/1109.jar",
+  "spider": "https://amanchi1208.github.io/jar/1109.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -84,6 +84,7 @@
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -93,6 +94,7 @@
       "type": 3,
       "filterable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "searchable": 1
     },
     {
@@ -102,6 +104,7 @@
       "type": 3,
       "filterable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "searchable": 1
     },
     {
@@ -111,6 +114,7 @@
       "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": 0
     },
     {
@@ -120,6 +124,7 @@
       "type": 3,
       "filterable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "searchable": 1
     },
     {
@@ -129,6 +134,7 @@
       "type": 3,
       "filterable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "searchable": 0
     },
     {
@@ -138,6 +144,7 @@
       "api": "csp_Lib",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": 0
     },
     {
@@ -147,6 +154,7 @@
       "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -156,6 +164,7 @@
       "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -165,6 +174,7 @@
       "api": "csp_AppTT",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -174,6 +184,7 @@
       "api": "csp_Bdys01",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -183,6 +194,7 @@
       "api": "csp_Zxzj",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -192,6 +204,7 @@
       "api": "csp_Nkdy",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -201,15 +214,7 @@
       "api": "csp_Zjdr",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Ysgc",
-      "name": "影视工厂",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -219,6 +224,7 @@
       "api": "csp_Dy1010",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -228,6 +234,7 @@
       "type": 3,
       "filterable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "searchable": 1
     },
     {
@@ -238,6 +245,7 @@
       "click": "ddys.tv;#vjsp > button",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 0
     },
     {
@@ -257,6 +265,7 @@
       "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -266,6 +275,7 @@
       "api": "csp_Juhuang",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -275,6 +285,7 @@
       "api": "csp_ZJMiao",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -284,6 +295,7 @@
       "api": "csp_Mjxq",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -293,6 +305,7 @@
       "api": "csp_Bdys01",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -302,6 +315,7 @@
       "api": "csp_Nbys",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -311,6 +325,7 @@
       "api": "csp_If101",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -320,6 +335,7 @@
       "api": "csp_Tangrenjie",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -328,6 +344,7 @@
       "type": 1,
       "api": "https://www.ddzyz1.com/api.php/provide/vod/",
       "searchable": 1,
+      "playerType": 2,
       "quickSearch": 0
     },
     {
@@ -337,6 +354,7 @@
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": 1,
       "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/json/xyqqsp.json"
     },
@@ -347,6 +365,7 @@
       "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": 1,
       "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/json/xyqlyys.json"
     },
@@ -357,6 +376,7 @@
       "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": 1,
       "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/json/xbpqjpys.json"
     },
@@ -367,6 +387,7 @@
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": 0,
       "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/json/voflix.json"
     },
@@ -377,6 +398,7 @@
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": 0,
       "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/json/lgyy.json"
     },
@@ -387,6 +409,7 @@
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": 0,
       "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/json/ysgc.json"
     },
@@ -397,6 +420,7 @@
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": 0,
       "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/json/gptv.json"
     },
@@ -407,6 +431,7 @@
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": 0,
       "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/json/kdyy.json"
     },
@@ -417,6 +442,7 @@
       "api": "csp_Nmys",
       "searchable": 1,
       "quickSearch": 0,
+      "playerType": 2,
       "filterable": 1,
       "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/json/Nmys.json"
     },
@@ -481,11 +507,10 @@
       "filterable": 0
     }
   ],
-
   "parses": [
+    { "name": "Json轮询", "type": 2, "url": "Sequence" },
     { "name": "解析聚合", "type": 3, "url": "Demo" },
     { "name": "Json并发", "type": 2, "url": "Parallel" },
-    { "name": "Json轮询", "type": 2, "url": "Sequence" },
     {
       "name": "可遇不可求",
       "type": 1,
