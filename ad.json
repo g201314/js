@@ -6,9 +6,9 @@
       "group": "redirect",
       "channels": [
         {
-          "name": "live",
+          "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="
+            "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="
           ]
         }
       ]
@@ -17,57 +17,35 @@
   "rules": [
     {
       "host": "www.6080dy1.com",
-      "rule": [
-        "m3u8.php",
-        ".m3u8"
-      ]
+      "rule": ["m3u8.php", ".m3u8"]
     },
     {
       "host": "*",
-      "rule": [
-        "default.365yg.com"
-      ]
+      "rule": ["default.365yg.com"]
     },
     {
       "host": "www.agemys.cc",
-      "rule": [
-        "cdn-tos",
-        "obj/tos-cn"
-      ]
+      "rule": ["cdn-tos", "obj/tos-cn"]
     },
     {
       "host": "zjmiao.com",
-      "rule": [
-        "play.videomiao.vip/API.php",
-        "time="
-      ]
+      "rule": ["play.videomiao.vip/API.php", "time="]
     },
     {
       "host": "www.sharenice.net",
-      "rule": [
-        "http.*?/play.{0,3}\\?[^url]{2,8}=.*"
-      ]
+      "rule": ["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]
     },
     {
       "host": "www.sharenice.net",
-      "rule": [
-        "qianpailive.com",
-        "vid="
-      ]
+      "rule": ["qianpailive.com", "vid="]
     },
     {
       "host": "*",
-      "rule": [
-        "douyin.com/aweme",
-        "video_id="
-      ]
+      "rule": ["douyin.com/aweme", "video_id="]
     },
     {
       "host": "*",
-      "rule": [
-        "huoshan.com",
-        "/item/video/"
-      ]
+      "rule": ["huoshan.com", "/item/video/"]
     },
     {
       "host": "*",
@@ -77,9 +55,7 @@
     },
     {
       "host": "*",
-      "rule": [
-        "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
-      ]
+      "rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]
     }
   ],
   "sites": [
@@ -121,7 +97,7 @@
     },
     {
       "key": "csp_xb_lez",
-      "name": "乐猪(XBiu)",
+      "name": "乐猪",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -129,22 +105,23 @@
       "filterable": 0,
       "ext": {
         "homeUrl": "http://www.lezhutv.com/type/{cateId}-{datePg}.html",
-        "playlist":{
-          "sort":1
+        "playlist": {
+          "sort": 1
         }
       }
     },
     {
       "key": "csp_XBPQ_6080",
-      "name": "6080电影(XBPQ)",
+      "name": "6080电影",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext":"https://amanchi1208.github.io/json/6080.json"
+      "ext": "https://amanchi1208.github.io/json/6080.json"
     },
-    {"key": "csp_XBPQ_南瓜影视",
+    {
+      "key": "csp_XBPQ_南瓜影视",
       "name": "南瓜影视",
       "type": 3,
       "api": "csp_XBPQ",
@@ -155,7 +132,7 @@
     },
     {
       "key": "csp_xb_zxzj",
-      "name": "在线之家(XBiu)",
+      "name": "在线之家",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -165,7 +142,7 @@
     },
     {
       "key": "csp_xb_auete",
-      "name": "AUETE(XBiu)",
+      "name": "Auete",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -175,7 +152,7 @@
     },
     {
       "key": "csp_xb_lib",
-      "name": "LIB(XBiu)",
+      "name": "libvio",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -185,7 +162,7 @@
     },
     {
       "key": "csp_xbpq_lgyy",
-      "name": "蓝光影院(XBPQ)",
+      "name": "蓝光影院",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -195,7 +172,7 @@
     },
     {
       "key": "csp_xb_lgyys",
-      "name": "蓝光影院(XBiu)",
+      "name": "蓝光影院",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -205,14 +182,14 @@
     },
     {
       "key": "drpy_js_ddys",
-      "name": "低端影视(DRPY)",
+      "name": "低端影视",
       "type": 3,
       "api": "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
       "ext": "http://home.jundie.top:666/JS/dr_py/js/ddys.js"
     },
     {
       "key": "csp_xb_zbk",
-      "name": "真不卡(XBiu)",
+      "name": "真不卡",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -222,7 +199,7 @@
     },
     {
       "key": "csp_xb_ysgc",
-      "name": "影视工厂(XBiu)",
+      "name": "影视工厂",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -232,7 +209,7 @@
     },
     {
       "key": "csp_xb_cokemv",
-      "name": "cokemv(XBiu)",
+      "name": "cokemv",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -242,7 +219,7 @@
     },
     {
       "key": "csp_XBPQ_98影院",
-      "name": "98影院(XBPQ)",
+      "name": "98影院",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -252,7 +229,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "小纸条(新)",
+      "name": "小纸条",
       "type": 3,
       "api": "csp_Gitcafe",
       "searchable": 1,
