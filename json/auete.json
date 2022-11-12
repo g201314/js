@@ -1,5 +1,5 @@
 {
-	"homeUrl": "https://auete.com/",
+	"homeUrl": "https://auete.com/{cateId}/index{catePg}.html",
 	"cateManual": {
 		"电影": "Movie",
 		"电视剧": "Tv",
@@ -22,7 +22,6 @@
 	}, 
 	"search":{
 		"url": "https://auete.com/search.php?searchword={wd}", 
-		//"region":["搜索列表", "点击排行"],
 		"vod_id": ["data-href=\"", "\"", 0, 0, 1]
 	
 	}
