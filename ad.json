@@ -75,6 +75,7 @@
       "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -84,6 +85,7 @@
       "api": "csp_QQ",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -93,6 +95,7 @@
       "api": "csp_IQIYI",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -102,6 +105,7 @@
       "api": "csp_MGTV",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 1
     },
     {
@@ -111,6 +115,7 @@
       "api": "csp_XBiu",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 0,
       "ext": {
         "homeUrl": "http://www.lezhutv.com/type/{cateId}-{datePg}.html",
@@ -126,6 +131,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 0,
       "ext": "https://amanchi1208.github.io/json/6080.json"
     },
@@ -136,6 +142,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 0,
       "ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"
     },
@@ -146,6 +153,7 @@
       "api": "csp_XBiu",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 0,
       "ext": "http://home.jundie.top:666/json/XBiu/zxzj.json"
     },
@@ -156,6 +164,7 @@
       "api": "csp_XBiu",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 0,
       "ext": "http://home.jundie.top:666/json/XBiu/auete.json"
     },
@@ -166,6 +175,7 @@
       "api": "csp_XBiu",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 0,
       "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"
     },
@@ -176,6 +186,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 0,
       "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
     },
@@ -186,6 +197,7 @@
       "api": "csp_XBiu",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 0,
       "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
     },
@@ -193,6 +205,7 @@
       "key": "drpy_js_ddys",
       "name": "低端影视",
       "type": 3,
+      "playerType": 2,
       "api": "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
       "ext": "http://home.jundie.top:666/JS/dr_py/js/ddys.js"
     },
@@ -203,6 +216,7 @@
       "api": "csp_XBiu",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 0,
       "ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"
     },
@@ -213,6 +227,7 @@
       "api": "csp_XBiu",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 0,
       "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"
     },
@@ -223,6 +238,7 @@
       "api": "csp_XBiu",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 1,
       "filterable": 0,
       "ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"
     },
@@ -233,6 +249,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType": 2,
       "filterable": 0,
       "ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}"
     },
