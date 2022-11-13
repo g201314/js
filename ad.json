@@ -109,6 +109,15 @@
       "filterable": 1
     },
     {
+      "key": "nbys",
+      "name": "泥巴(墙)",
+      "type": 3,
+      "api": "csp_Nbys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_xb_lez",
       "name": "乐猪",
       "type": 3,
