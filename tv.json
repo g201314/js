@@ -488,24 +488,7 @@
       "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
     }
   ],
-
-  "flags": [
-    "youku",
-    "qq",
-    "iqiyi",
-    "qiyi",
-    "letv",
-    "sohu",
-    "tudou",
-    "pptv",
-    "mgtv",
-    "wasu",
-    "bilibili",
-    "csm3u8"
-  ],
-
   "ijk": [
-   
     {
       "group": "硬解码",
       "options": [
@@ -554,6 +537,20 @@
         { "category": 1, "name": "dns_cache_timeout", "value": "600000000" }
       ]
     }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "csm3u8"
   ],
   "ads": [
     "mimg.0c1q0l.cn",
