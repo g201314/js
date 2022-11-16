@@ -57,11 +57,11 @@
   ],
   "sites": [
     {
-      "key": "T4",
-      "name": "T4主页",
+      "key": "T4vod",
+      "name": "T4",
       "type": 4,
-      "api": "http://top.fuqizhishi.com/vod?sites=all&timeout=7",
-      "searchable": 0,
+      "api": "https://cn-cd-dx-2.natfrp.cloud:21108/vod?sites=all&timeout=7",
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
@@ -209,6 +209,58 @@
       "ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"
     },
     {
+      "key": "Auete",
+      "name": "奥特",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "playerType": 2,
+      "filterable": "1",
+      "ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b"
+    },
+    {
+      "key": "Tbook",
+      "name": "听书网",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "playerType": 2,
+      "filterable": "1",
+      "ext": "d16d1517e9eaad9909cb35c55ba0b784"
+    },
+    {
+      "key": "Bili",
+      "name": "哔哩",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "playerType": 2,
+      "filterable": "1",
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#http://home.jundie.top:81/ray/json/bili.json"
+    },
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": "3",
+      "api": "csp_AList",
+      "searchable": "1",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+    },
+    {
+      "key": "Cokemv",
+      "name": "可乐",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "playerType": 1,
+      "filterable": "1",
+      "ext": "b88de1329655cca1beba45aa9776de70"
+    },
+    {
       "key": "多多",
       "name": "多多",
       "type": 1,
@@ -245,49 +297,6 @@
         "奇幻片",
         "剧情片"
       ]
-    },
-    {
-      "key": "Auete",
-      "name": "奥特",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b"
-    },
-    {
-      "key": "Tbook",
-      "name": "听书网",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "playerType": 2,
-      "filterable": "1",
-      "ext": "d16d1517e9eaad9909cb35c55ba0b784"
-    },
-    {
-      "key": "Bili",
-      "name": "哔哩",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "playerType": 2,
-      "filterable": "1",
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#http://home.jundie.top:81/ray/json/bili.json"
-    },
-    {
-      "key": "Cokemv",
-      "name": "可乐",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "playerType": 1,
-      "filterable": "1",
-      "ext": "b88de1329655cca1beba45aa9776de70"
     },
     {
       "key": "Czsapp",
@@ -329,7 +338,7 @@
       "api": "csp_Gitcafe",
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
+      "playerType": 1,
       "filterable": "1",
       "ext": "http://home.jundie.top:666/token.txt"
     },
@@ -378,13 +387,24 @@
       "ext": "http://home.jundie.top:666/token.txt"
     },
     {
+      "key": "AliPS",
+      "name": "盘搜",
+      "type": "3",
+      "api": "csp_AliPS",
+      "searchable": "1",
+      "quickSearch": "1",
+      "playerType": 1,
+      "filterable": "1",
+      "ext": "http://home.jundie.top:666/token.txt"
+    },
+    {
       "key": "Zxzj",
       "name": "在线",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
+      "playerType": 1,
       "filterable": "1",
       "ext": "23a412dda32885ae2bcb97b956cd7ad4"
     },
@@ -402,7 +422,7 @@
   ],
   "parses": [
     { "name": "Json轮询", "type": 2, "url": "Sequence" },
-    {"name":"Web解析聚合","type":3,"url":"Web"},
+    { "name": "Web解析聚合", "type": 3, "url": "Web" },
     { "name": "解析聚合", "type": 3, "url": "Demo" },
     { "name": "Json并发", "type": 2, "url": "Parallel" },
     {
