@@ -57,14 +57,13 @@
   ],
   "sites": [
     {
-      "key": "T4",
-      "name": "T4主页",
-      "type": 3,
-      "api": "http://xn--m7r412advb92j21st65a.tk/dr/影魔.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"
+      "key": "T4vod",
+      "name": "T4",
+      "type": 4,
+      "api": "https://cn-cd-dx-2.natfrp.cloud:21108/vod?sites=all&timeout=7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "Zjdr",
