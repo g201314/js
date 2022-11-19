@@ -57,13 +57,13 @@
   ],
   "sites": [
     {
-      "key": "T4vod",
-      "name": "T4",
+      "key": "T4",
+      "name": "T4主页",
       "type": 4,
-      "api": "https://cn-cd-dx-2.natfrp.cloud:21108/vod?sites=all&timeout=7",
+      "api": "http://t4.ganggang.live:3812/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "Zjdr",
@@ -438,32 +438,14 @@
     { "name": "解析聚合", "type": 3, "url": "Demo" },
     { "name": "Json并发", "type": 2, "url": "Parallel" },
     {
-      "name": "bozrc",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "leshi",
-          "LS",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": { "User-Agent": "" }
-      }
+      "name": "线路m9",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+    },
+    {
+      "name": "线路NX",
+      "type": 1,
+      "url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
     },
     {
       "name": "rx2",
@@ -698,6 +680,20 @@
       "url": "https://jx.parwix.com:4433/player/?url="
     }
   ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "csm3u8"
+  ],
   "ijk": [
     {
       "group": "硬解码",
@@ -747,20 +743,6 @@
         { "category": 1, "name": "dns_cache_timeout", "value": "600000000" }
       ]
     }
-  ],
-  "flags": [
-    "youku",
-    "qq",
-    "iqiyi",
-    "qiyi",
-    "letv",
-    "sohu",
-    "tudou",
-    "pptv",
-    "mgtv",
-    "wasu",
-    "bilibili",
-    "csm3u8"
   ],
   "ads": [
     "mimg.0c1q0l.cn",
