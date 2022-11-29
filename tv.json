@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=5",
-  "spider": "https://amanchi1208.github.io/jar/ts.jar;md5;45b1bee74341deaafbcf02616d1563f3",
+  "spider": "https://amanchi1208.github.io/jar/ts.jar;md5;458356fe604a494a078ec67300b5f3fe",
   "lives": [
     {
       "group": "redirect",
@@ -275,6 +275,7 @@
       "api": "csp_Dora",
       "searchable": "1",
       "quickSearch": "1",
+      "playerType": 1,
       "filterable": "1",
       "ext": "8ee655f702d0d21f3643504783babbc3"
     },
