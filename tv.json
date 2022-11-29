@@ -77,6 +77,17 @@
       "ext": "778e8966ec0e9c0ae0b4682ad3550f40"
     },
     {
+      "key": "世界杯",
+      "name": "一起看",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "playerType": 2,
+      "filterable": "1",
+      "ext": "8e3aefcba838d8dc5102ac786719d837"
+    },
+    {
       "key": "Tian",
       "name": "天天",
       "type": "3",
@@ -256,6 +267,16 @@
       "playerType": 1,
       "filterable": "1",
       "ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b"
+    },
+    {
+      "key": "Czsapp",
+      "name": "厂长",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "8ee655f702d0d21f3643504783babbc3"
     },
     {
       "key": "Tbook",
