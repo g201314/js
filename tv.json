@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=5",
-  "spider": "https://amanchi1208.github.io/jar/ts.jar;md5;458356fe604a494a078ec67300b5f3fe",
+  "spider": "https://amanchi1208.github.io/jar/ts.jar;md5;ac0a983b64a2513ee476b76b8fb0e3be",
   "lives": [
     {
       "group": "redirect",
@@ -459,6 +459,61 @@
     { "name": "Web解析聚合", "type": 3, "url": "Web" },
     { "name": "Json并发", "type": 2, "url": "Parallel" },
     { "name": "Json轮询", "type": 2, "url": "Sequence" },
+    {
+      "name": "Bt5v",
+      "type": 1,
+      "url": "proxy://do=jx&name=bt5v&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": { "User-Agent": "" }
+      }
+    },
+    {
+      "name": "PlayMv",
+      "type": 1,
+      "url": "proxy://do=jx&name=playmv&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "leshi",
+          "LS",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": { "User-Agent": "" }
+      }
+    },
     {
       "name": "可遇不可求",
       "type": 1,
