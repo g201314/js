@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/jar/ts.jar;md5;7573e5dee052b6b1661a0bc400f190cc",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/ts.jar;md5;7573e5dee052b6b1661a0bc400f190cc",
     "lives": [
       {
         "group": "redirect",
