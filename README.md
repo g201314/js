@@ -1,6 +1,6 @@
 ##### 配置地址一:
 ```
-https://amanchi1208.github.io/mao.json
+https://raw.fastgit.org/Amanchi1208/amanchi1208.github.io/main/m.json
 ```
 
 ##### 配置地址二:
