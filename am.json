@@ -139,7 +139,7 @@
     },
     {
       "key": "Ysgc",
-      "name": "影视工厂",
+      "name": "影视",
       "type": 3,
       "api": "csp_Ysgc",
       "searchable": 1,
@@ -179,7 +179,7 @@
     },
     {
       "key": "Lgyy",
-      "name": "蓝光影院",
+      "name": "蓝光",
       "type": 3,
       "api": "csp_Lgyy",
       "playerType": 2,
@@ -199,7 +199,7 @@
     },
     {
       "key": "Bdys01",
-      "name": "哔滴影视",
+      "name": "哔滴",
       "type": 3,
       "api": "csp_Bdys01",
       "playerType": 2,
@@ -260,7 +260,7 @@
     },
     {
       "key": "Nkdy",
-      "name": "难看电影",
+      "name": "NK",
       "type": 3,
       "api": "csp_Nkdy",
       "playerType": 2,
@@ -270,7 +270,7 @@
     },
     {
       "key": "Dy1010",
-      "name": "电影1010",
+      "name": "电影",
       "type": 3,
       "api": "csp_Dy1010",
       "playerType": 2,
@@ -280,7 +280,7 @@
     },
     {
       "key": "在线之家",
-      "name": "在线之家",
+      "name": "在线",
       "type": 3,
       "api": "csp_Zxzj",
       "playerType": 2,
@@ -290,7 +290,7 @@
     },
     {
       "key": "Dm84",
-      "name": "动漫巴士",
+      "name": "动漫",
       "type": 3,
       "api": "csp_Dm84",
       "playerType": 2,
@@ -320,7 +320,7 @@
     },
     {
       "key": "IQIYI",
-      "name": "奇异果(解析)",
+      "name": "QIYI",
       "type": 3,
       "api": "csp_IQIYI",
       "playerType": 2,
@@ -330,7 +330,7 @@
     },
     {
       "key": "QQ",
-      "name": "企鹅(解析)",
+      "name": "企鹅",
       "type": 3,
       "api": "csp_QQ",
       "playerType": 2,
@@ -340,7 +340,7 @@
     },
     {
       "key": "MGTV",
-      "name": "芒果(解析)",
+      "name": "芒果",
       "type": 3,
       "api": "csp_Mgtv",
       "playerType": 2,
@@ -350,19 +350,9 @@
     },
     {
       "key": "360",
-      "name": "360(解析)",
+      "name": "360",
       "type": 3,
       "api": "csp_SP360",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Nbys",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_Nbys",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -373,16 +363,6 @@
       "name": "Xiaoh",
       "type": 3,
       "api": "csp_Xiaoh",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "If101",
-      "name": "101",
-      "type": 3,
-      "api": "csp_If101",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -442,27 +422,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://ali.饭太硬.ml/tok"
-    },
-    {
-      "key": "Bili",
-      "name": "Bili",
-      "type": 3,
-      "api": "csp_Bili",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://amanchi1208.github.io/json/bl.json"
-    },
-    {
-      "key": "Yj1211",
-      "name": "Yj1211",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "推送",
