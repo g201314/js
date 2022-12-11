@@ -57,6 +57,13 @@
   ],
   "sites": [
     {
+      "key": "drpy_js_豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "https://cn-cd-dx-2.natfrp.cloud:44327/js/lib/drpy2.min.js",
+      "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/js/js/drpy.js"
+    },
+    {
       "key": "Kunyu77",
       "name": "77",
       "type": 3,
