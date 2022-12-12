@@ -145,16 +145,6 @@
       "filterable": 1
     },
     {
-      "key": "Ysgc",
-      "name": "影视",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Xinsj",
       "name": "新视觉",
       "type": 3,
@@ -209,7 +199,7 @@
       "name": "哔滴",
       "type": 3,
       "api": "csp_Bdys01",
-      "playerType": 2,
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -257,7 +247,7 @@
     },
     {
       "key": "Tkys",
-      "name": "天空影视",
+      "name": "天空",
       "type": 3,
       "api": "csp_Tkys",
       "playerType": 2,
