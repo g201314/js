@@ -10,7 +10,7 @@ https://amanchi1208.github.io/tv.json
 
 ##### 配置地址三:
 ```
-https://amanchi1208.github.io/am.json
+https://raw.fastgit.org/Amanchi1208/amanchi1208.github.io/main/am.json
 ```
 
 ##### 配置地址四:
