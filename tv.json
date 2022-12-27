@@ -3,15 +3,10 @@
   "spider": "https://amanchi1208.github.io/jar/ts.jar;md5;cd6bba3678a3ed775a185a730dc76716",
   "lives": [
     {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hbWFuY2hpMTIwOC5naXRodWIuaW8vbGl2ZS9saXZlLnR4dA=="
-          ]
-        }
-      ]
+      "name": "直播",
+      "type": 0,
+      "url": "https://amanchi1208.github.io/live/live.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
   ],
   "rules": [
