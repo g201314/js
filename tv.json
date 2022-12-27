@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://amanchi1208.github.io/jar/ts.jar;md5;8481717fcdfae2e4a375219222c32358",
+  "spider": "https://amanchi1208.github.io/jar/ts.jar;md5;cd6bba3678a3ed775a185a730dc76716",
   "lives": [
     {
       "group": "redirect",
@@ -63,6 +63,14 @@
       "api": "https://cn-cd-dx-2.natfrp.cloud:44327/js/lib/drpy2.min.js",
       "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/js/js/drpy.js"
     },
+
+    {
+      "key": "drpy_js_追剧达人",
+      "name": "追剧达人",
+      "type": 3,
+      "api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js",
+      "ext": "https://github.com/heroaku/TVboxo/raw/main/Js/追剧达人.js"
+    },
     {
       "key": "世界杯",
       "name": "一起看",
@@ -73,13 +81,6 @@
       "playerType": 2,
       "filterable": "1",
       "ext": "8e3aefcba838d8dc5102ac786719d837"
-    },
-    {
-      "key": "drpy_js_追剧达人",
-      "name": "追剧达人",
-      "type": 3,
-      "api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js",
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Js/追剧达人.js"
     },
     {
       "key": "Tian",
@@ -98,8 +99,8 @@
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
-      "playerType": 2,
       "quickSearch": "1",
+      "playerType": 2,
       "filterable": "1",
       "ext": "a369b1f623fe86605f1b029f0cf66349"
     },
@@ -154,7 +155,7 @@
       "api": "csp_Dora",
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 1,
+      "playerType": 2,
       "filterable": "1",
       "ext": "1cc92323700909e7d46623bc85b958d6"
     },
@@ -198,7 +199,7 @@
       "api": "csp_Dora",
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
+      "playerType": 1,
       "filterable": "1",
       "ext": "8ee655f702d0d21f3643504783babbc3"
     },
@@ -231,7 +232,7 @@
       "api": "csp_Dora",
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
+      "playerType": 1,
       "filterable": "1",
       "ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b"
     },
@@ -247,11 +248,23 @@
       "ext": "d16d1517e9eaad9909cb35c55ba0b784"
     },
     {
+      "key": "Bili",
+      "name": "哔哩",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "playerType": 2,
+      "filterable": "1",
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://amanchi1208.github.io/json/bl.json"
+    },
+    {
       "key": "AList",
       "name": "AList",
       "type": "3",
       "api": "csp_AList",
       "searchable": "1",
+      "playerType": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
     },
     {
@@ -272,6 +285,7 @@
       "api": "csp_Dora",
       "searchable": "1",
       "quickSearch": "1",
+      "playerType": 2,
       "filterable": "1",
       "ext": "6deed4548c44b18d268a5d828f04d86e"
     },
@@ -512,6 +526,11 @@
         ],
         "header": { "User-Agent": "" }
       }
+    },
+    {
+      "name": "rx2",
+      "type": 1,
+      "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
     },
     {
       "name": "rx2",
