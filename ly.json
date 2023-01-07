@@ -111,13 +111,6 @@
             "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/js/js/大师兄影视.js"
         },
         {
-            "key": "drpy_js_乐猪TV",
-            "name": "乐猪TV[js]",
-            "type": 3,
-            "api": "https://cn-cd-dx-2.natfrp.cloud:44327/js/lib/drpy2.min.js",
-            "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/js/js/乐猪TV.js"
-        },
-        {
             "key": "csp_77",
             "name": "酷云七七",
             "type": 3,
@@ -143,16 +136,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_AppTT",
-            "name": "图图",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://124.248.66.107:7799"
         },
         {
             "key": "csp_Czsapp",
@@ -246,7 +229,7 @@
         },
         {
             "key": "Lezhu_",
-            "name": "乐猪影视",
+            "name": "乐猪",
             "api": "csp_Lezhu",
             "type": 3,
             "filterable": 1,
