@@ -97,13 +97,6 @@
             "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/js/js/360影视.js"
         },
         {
-            "key": "drpy_js_乐猪TV",
-            "name": "乐猪TV[js]",
-            "type": 3,
-            "api": "https://cn-cd-dx-2.natfrp.cloud:44327/js/lib/drpy2.min.js",
-            "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/js/js/乐猪TV.js"
-        },
-        {
             "key": "drpy_js_大师兄影视",
             "name": "大师兄影视",
             "type": 3,
