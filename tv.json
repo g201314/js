@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://amanchi1208.github.io/jar/ts.jar;md5;cd6bba3678a3ed775a185a730dc76716",
+  "spider": "https://amanchi1208.github.io/jar/ts.jar;md5;bf623f68590d20d17b42daf164f77780",
   "lives": [
     {
       "name": "直播",
@@ -148,9 +148,9 @@
       "name": "一起看",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "8e3aefcba838d8dc5102ac786719d837"
     },
@@ -159,9 +159,9 @@
       "name": "天天",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "bdc1c75081e5e477189a463baa47e392"
     },
@@ -170,9 +170,9 @@
       "name": "Yanet",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "a369b1f623fe86605f1b029f0cf66349"
     },
@@ -181,9 +181,9 @@
       "name": "胖虎",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "c41fdb671b20925c76fa9b6ff8bad027"
     },
@@ -192,9 +192,9 @@
       "name": "石榴",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
     },
@@ -203,9 +203,9 @@
       "name": "蓝光",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "b2e573ff040fcd54b50475660ee1a7d1"
     },
@@ -214,9 +214,9 @@
       "name": "神马",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "16705ee9f4764be8499806f52d4bf1e7"
     },
@@ -225,9 +225,9 @@
       "name": "低端",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "1cc92323700909e7d46623bc85b958d6"
     },
@@ -236,31 +236,31 @@
       "name": "动漫",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "572192a9fe2136041a58e7219a46fb2b"
     },
-        {
-          "key": "csp_AppTT",
-          "name": "图图",
-          "type": 3,
-          "api": "csp_AppTT",
-          "playerType": 2,
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 1,
-          "ext": "http://124.248.66.107:9911"
-        },
+    {
+      "key": "AppTT",
+      "name": "图图",
+      "type": "3",
+      "api": "csp_Dora",
+      "playerType": 2,
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "110c922de7d69804467fb83d3bb664b5"
+    },
     {
       "key": "IKan",
       "name": "爱看",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
     },
@@ -269,9 +269,9 @@
       "name": "厂长",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 1,
       "filterable": "1",
       "ext": "8ee655f702d0d21f3643504783babbc3"
     },
@@ -280,9 +280,9 @@
       "name": "快看",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "459b1cb892e317546676a2c9dcec2bff"
     },
@@ -291,9 +291,9 @@
       "name": "七七",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"
     },
@@ -302,9 +302,9 @@
       "name": "奥特",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 1,
       "filterable": "1",
       "ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b"
     },
@@ -313,9 +313,9 @@
       "name": "听书网",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "d16d1517e9eaad9909cb35c55ba0b784"
     },
@@ -324,9 +324,9 @@
       "name": "哔哩",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://amanchi1208.github.io/json/bl.json"
     },
@@ -335,8 +335,8 @@
       "name": "AList",
       "type": "3",
       "api": "csp_AList",
-      "searchable": "1",
       "playerType": 1,
+      "searchable": "1",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
     },
     {
@@ -344,9 +344,9 @@
       "name": "可乐",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 1,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 1,
       "filterable": "1",
       "ext": "b88de1329655cca1beba45aa9776de70"
     },
@@ -355,9 +355,9 @@
       "name": "苹果",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "6deed4548c44b18d268a5d828f04d86e"
     },
@@ -366,9 +366,9 @@
       "name": "SP360",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "9248c57eb22ace4a3431fbd1a979465f"
     },
@@ -377,31 +377,31 @@
       "name": "纸条",
       "type": "3",
       "api": "csp_Gitcafe",
+      "playerType": 1,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 1,
       "filterable": "1",
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
     },
     {
       "key": "Upso",
       "name": "云搜",
       "type": "3",
       "api": "csp_Upso",
+      "playerType": 1,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 1,
       "filterable": "1",
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
     },
     {
       "key": "Lib",
       "name": "Libvio",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 1,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 1,
       "filterable": "1",
       "ext": "78d057e4d03e47cb62dce13d69b41d6f"
     },
@@ -410,9 +410,9 @@
       "name": "555",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "f41992bd740145ed58cb212dc0876582"
     },
@@ -421,9 +421,9 @@
       "name": "Xiaoh",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "0842c1d2a8534ec62fb3a3ed848851a7"
     },
@@ -432,42 +432,42 @@
       "name": "资源",
       "type": "3",
       "api": "csp_Zhaozy",
+      "playerType": 1,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 1,
       "filterable": "1",
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
     },
     {
       "key": "YiSo",
       "name": "易搜",
       "type": "3",
       "api": "csp_YiSo",
+      "playerType": 1,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 1,
       "filterable": "1",
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
     },
     {
       "key": "AliPS",
       "name": "盘搜",
       "type": "3",
       "api": "csp_AliPS",
+      "playerType": 1,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 1,
       "filterable": "1",
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
     },
     {
       "key": "Zxzj",
       "name": "在线",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 1,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 2,
       "filterable": "1",
       "ext": "23a412dda32885ae2bcb97b956cd7ad4"
     },
@@ -476,11 +476,11 @@
       "name": "PushAgent",
       "type": "3",
       "api": "csp_PushAgent",
+      "playerType": 1,
       "searchable": "1",
       "quickSearch": "1",
-      "playerType": 1,
       "filterable": "1",
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
     }
   ],
   "parses": [
