@@ -130,18 +130,13 @@
   ],
   "sites": [
     {
-      "key": "drpy_js_豆瓣",
-      "name": "豆瓣",
-      "type": 3,
-      "api": "https://cn-cd-dx-2.natfrp.cloud:44327/js/lib/drpy2.min.js",
-      "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/js/js/drpy.js"
-    },
-    {
-      "key": "drpy_js_追剧达人",
-      "name": "追剧达人",
-      "type": 3,
-      "api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js",
-      "ext": "https://github.com/heroaku/TVboxo/raw/main/Js/追剧达人.js"
+      "key": "T4vod",
+      "name": "T4主页",
+      "type": 4,
+      "api": "https://t4.饭太硬.ml/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "世界杯",
