@@ -57,11 +57,13 @@
   ],
   "sites": [
     {
-      "key": "drpy_js_豆瓣",
-      "name": "豆瓣",
-      "type": 3,
-      "api": "https://cn-cd-dx-2.natfrp.cloud:44327/js/lib/drpy2.min.js",
-      "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/js/js/drpy.js"
+      "key": "T4vod",
+      "name": "T4主页",
+      "type": 4,
+      "api": "https://t4.饭太硬.ml/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "Kunyu77",
