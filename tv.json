@@ -6,7 +6,8 @@
       "name": "直播",
       "type": 0,
       "url": "https://amanchi1208.github.io/live/live.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "http://epg.51zmt.top:8000/{logo}"
     }
   ],
   "rules": [
@@ -421,6 +422,17 @@
       "quickSearch": "1",
       "filterable": "1",
       "ext": "0842c1d2a8534ec62fb3a3ed848851a7"
+    },
+    {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "playerType": 2,
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 1,
+      "jar": "https://amanchi1208.github.io/jar/fm.jar"
     },
     {
       "key": "Zhaozy",

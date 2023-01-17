@@ -7,7 +7,6 @@
         "type": 0,
         "url": "https://amanchi1208.github.io/live/live.txt",
         "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-        "logo": "http://epg.51zmt.top:8000/{logo}"
       }
     ],
     "rules": [
@@ -423,6 +422,7 @@
         "filterable": "1",
         "ext": "0842c1d2a8534ec62fb3a3ed848851a7"
       },
+
       {
         "key": "Zhaozy",
         "name": "资源",
