@@ -5,7 +5,7 @@
     {
       "name": "直播",
       "type": 0,
-      "url": "https://amanchi1208.github.io/live/live.txt",
+      "url": "https://amanchi1208.github.io/live/live1.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
   ],
