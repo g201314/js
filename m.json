@@ -1,6 +1,6 @@
   {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/ts.jar;md5;6a9c7cc928036c39dba1ff98400ffa52",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/ts.jar;md5;4ab8ad5008d89d9101204dd5e54c4d47",
     "lives": [
       {
         "name": "直播",
@@ -422,7 +422,6 @@
         "filterable": "1",
         "ext": "0842c1d2a8534ec62fb3a3ed848851a7"
       },
-
       {
         "key": "Zhaozy",
         "name": "资源",
@@ -658,6 +657,22 @@
             "哔哩哔哩",
             "哔哩"
           ]
+        }
+      },
+      {
+        "name": "Q1解析",
+        "type": 1,
+        "url": "https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url=",
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      },
+      {
+        "name": "Q1官解",
+        "type": 1,
+        "url": "https://parse.ikunfk.cc/parse/sign/20221230?url=",
+        "header": {
+          "User-Agent": "Mozilla/5.0"
         }
       },
       {

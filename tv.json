@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://amanchi1208.github.io/jar/ts.jar;md5;6a9c7cc928036c39dba1ff98400ffa52",
+  "spider": "https://amanchi1208.github.io/jar/ts.jar;md5;4ab8ad5008d89d9101204dd5e54c4d47",
   "lives": [
     {
       "name": "直播",
@@ -540,6 +540,22 @@
       }
     },
     {
+      "name": "Q1解析",
+      "type": 1,
+      "url": "https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url=",
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "Q1官解",
+      "type": 1,
+      "url": "https://parse.ikunfk.cc/parse/sign/20221230?url=",
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
       "name": "PlayMv",
       "type": 1,
       "url": "proxy://do=jx&name=playmv&url=",
@@ -752,33 +768,6 @@
       }
     },
     {
-      "name": "夜幕",
-      "type": 0,
-      "url": "https://www.yemu.xyz/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
       "name": "8090",
       "url": "https://www.8090g.cn/?url="
     },
@@ -868,56 +857,6 @@
       "name": "酷享影视",
       "type": 1,
       "url": "http://pandown.pro/app/kxjx.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "CL4K",
-          "renrenmi",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
-    },
-    {
-      "name": "江湖",
-      "type": 1,
-      "url": "http://pandown.pro/app/ysmjx.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "qiyi",
-          "mgtv",
-          "youku",
-          "letv",
-          "sohu",
-          "xigua",
-          "1905",
-          "优播线路",
-          "腾播线路"
-        ],
-        "header": {
-          "User-Agent": "Dart/2.14 (dart:io)"
-        }
-      }
-    },
-    {
-      "name": "左岸",
-      "type": 1,
-      "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=",
       "ext": {
         "flag": [
           "qq",
