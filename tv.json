@@ -13,6 +13,18 @@
     {
       "host": "*",
       "rule": [
+        "mp3"
+      ]
+    },
+    {
+      "host": "*",
+      "rule": [
+        "m4a"
+      ]
+    },
+    {
+      "host": "*",
+      "rule": [
         "douyinvod.com",
         "/video/tos/cn/"
       ]
@@ -106,25 +118,7 @@
     {
       "host": "*",
       "rule": [
-        "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
-      ]
-    },
-    {
-      "host": "*",
-      "rule": [
-        "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
-      ]
-    },
-    {
-      "host": "*",
-      "rule": [
-        "mp3"
-      ]
-    },
-    {
-      "host": "*",
-      "rule": [
-        "m4a"
+        "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*|http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)|http((?!http).)*?xg.php\\?id=|http((?!http).)*?/m3/(.*)\\.css"
       ]
     }
   ],
