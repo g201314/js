@@ -414,10 +414,9 @@
       "type": 3,
       "api": "csp_Push",
       "playerType": 1,
-      "searchable": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0,
-      "switchable": 0,
-      "jar": "https://amanchi1208.github.io/jar/fm.jar",
       "ext": "http://我不是.肥猫.love:63/token.php"
     }
   ],
