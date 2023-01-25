@@ -221,6 +221,7 @@
       "name": "乐猪",
       "type": 3,
       "api": "csp_Lezhu",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -230,6 +231,7 @@
       "name": "Libvio",
       "type": 3,
       "api": "csp_Lib",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -249,6 +251,7 @@
       "name": "小苹果",
       "type": 3,
       "api": "csp_LiteApple",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -257,7 +260,7 @@
       "key": "Panghu",
       "name": "胖虎",
       "type": 3,
-      "api": "csp_Panghu",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -267,6 +270,7 @@
       "name": "影视工厂",
       "type": 3,
       "api": "csp_Ysgc",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -276,6 +280,7 @@
       "name": "Bttoo",
       "type": 3,
       "api": "csp_Bttoo",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -295,6 +300,7 @@
       "name": "蓝光影院",
       "type": 3,
       "api": "csp_Lgyy",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -304,6 +310,7 @@
       "name": "哔滴影视",
       "type": 3,
       "api": "csp_Bdys01",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -313,6 +320,7 @@
       "name": "低端",
       "type": 3,
       "api": "csp_Ddrk",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -322,6 +330,7 @@
       "name": "在线之家",
       "type": 3,
       "api": "csp_Zxzj",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -330,34 +339,7 @@
       "key": "Dm84",
       "name": "动漫巴士",
       "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Nbys",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_Nbys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Xiaoh",
-      "name": "Xiaoh",
-      "type": 3,
-      "api": "csp_Xiaoh",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "If101",
-      "name": "101",
-      "type": 3,
-      "api": "csp_If101",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -367,7 +349,7 @@
       "name": "小纸条",
       "type": 3,
       "api": "csp_Paper",
-      "playerType": 2,
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
