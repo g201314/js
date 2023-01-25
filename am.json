@@ -171,7 +171,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://amanchi1208.github.io/json/nm.json"
+      "ext": "https://amanchi.github.io/jsons/nm.json"
     },
     {
       "key": "AppTT",
@@ -210,6 +210,7 @@
       "name": "TT",
       "type": 3,
       "api": "csp_AppTT2",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -240,7 +241,7 @@
       "name": "Libvio",
       "type": 3,
       "api": "csp_Lib",
-      "playerType": 1,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -269,6 +270,7 @@
       "key": "Panghu",
       "name": "胖虎",
       "type": 3,
+      "api": "csp_Panghu",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -329,17 +331,6 @@
       "name": "低端",
       "type": 3,
       "api": "csp_Ddrk",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "在线之家",
-      "name": "在线之家",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -348,17 +339,27 @@
       "key": "Dm84",
       "name": "动漫巴士",
       "type": 3,
-      "playerType": 2,
+      "api": "csp_Dm84",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "Bili",
+      "name": "Bili",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://amanchi1208.github.io/json/bl.json"
     },
     {
       "key": "Gitcafe",
       "name": "小纸条",
       "type": 3,
       "api": "csp_Paper",
-      "playerType": 1,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
