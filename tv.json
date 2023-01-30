@@ -243,6 +243,16 @@
       "ext": "110c922de7d69804467fb83d3bb664b5"
     },
     {
+      "key": "csp_BuLei",
+      "name": "布雷",
+      "type": 3,
+      "api": "csp_BuLei",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://amanchi1208.github.io/jar/xo.jar"
+    },
+    {
       "key": "IKan",
       "name": "爱看",
       "type": "3",
