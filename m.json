@@ -124,15 +124,6 @@
   ],
   "sites": [
     {
-      "key": "T4vod",
-      "name": "T4主页",
-      "type": 4,
-      "api": "https://t4.饭太硬.ml/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "世界杯",
       "name": "一起看",
       "type": "3",
