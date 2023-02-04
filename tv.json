@@ -515,6 +515,21 @@
       "url": "Sequence"
     },
     {
+      "name": "三三解析",
+      "type": 1,
+      "url": "https://jiexi.parses.repl.co/api.php?url="
+    },
+    {
+      "name": "ikunfk1",
+      "type": 1,
+      "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url="
+    },
+    {
+      "name": "ikunfk2",
+      "type": 1,
+      "url": "https://parse.ikunfk.cc/parse/sign/20230117?url="
+    },
+    {
       "name": "未知1",
       "type": 1,
       "url": "http://15.165.180.3:57255/api.php?url="
