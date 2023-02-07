@@ -232,6 +232,28 @@
       "ext": "572192a9fe2136041a58e7219a46fb2b"
     },
     {
+      "key": "Bdys01",
+      "name": "哔滴影视",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://amanchi1208.github.io/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f"
+    },
+    {
+      "key": "csp_BuLei",
+      "name": "布雷",
+      "type": 3,
+      "api": "csp_BuLei",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://amanchi1208.github.io/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f"
+    },
+    {
       "key": "AppTT",
       "name": "图图",
       "type": "3",
@@ -241,16 +263,6 @@
       "quickSearch": "1",
       "filterable": "1",
       "ext": "110c922de7d69804467fb83d3bb664b5"
-    },
-    {
-      "key": "csp_BuLei",
-      "name": "布雷",
-      "type": 3,
-      "api": "csp_BuLei",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://amanchi1208.github.io/jar/xo.jar;md5;4bd2275690262e2b338920201a674539"
     },
     {
       "key": "IKan",
@@ -383,15 +395,15 @@
       "ext": "23a412dda32885ae2bcb97b956cd7ad4"
     },
     {
-      "key": "Lib",
-      "name": "Libvio",
-      "type": "3",
-      "api": "csp_Dora",
-      "playerType": 1,
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "78d057e4d03e47cb62dce13d69b41d6f"
+      "key": "csp_Lib",
+      "name": "LibVio",
+      "type": 3,
+      "api": "csp_Lib",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https: //cn-cd-dx-2.natfrp.cloud:44327/jar/0204.jar"
     },
     {
       "key": "Dy555",
@@ -886,6 +898,7 @@
     }
   ],
   "ads": [
+    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
     "www.google-analytics.com",
