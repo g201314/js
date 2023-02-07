@@ -348,7 +348,7 @@
       "api": "csp_AList",
       "playerType": 1,
       "searchable": "1",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+      "ext": "https://amanchi1208.github.io/json/alist.json"
     },
     {
       "key": "Cokemv",
@@ -399,11 +399,11 @@
       "name": "LibVio",
       "type": 3,
       "api": "csp_Lib",
-      "playerType": 2,
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https: //cn-cd-dx-2.natfrp.cloud:44327/jar/0204.jar"
+      "jar": "https://amanchi1208.github.io/jar/cn.jar"
     },
     {
       "key": "Dy555",
