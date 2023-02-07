@@ -425,7 +425,7 @@
       "searchable": 1,
       "filterable": 1,
       "switchable": 0,
-      "ext": "https://amanchi1208.github.io/txt/token.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
     },
     {
       "key": "Upso",
@@ -436,7 +436,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "https://amanchi1208.github.io/txt/token.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
     },
     {
       "key": "找資源",
@@ -447,7 +447,7 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "https://amanchi1208.github.io/txt/token.txt$$$yingshi$$$abcd1234"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt$$$yingshi$$$abcd1234"
     },
     {
       "key": "YiSo",
@@ -458,7 +458,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "https://amanchi1208.github.io/txt/token.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
     },
     {
       "key": "AliPS",
@@ -469,7 +469,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "https://amanchi1208.github.io/txt/token.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
     },
     {
       "key": "push_agent",
@@ -480,7 +480,7 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "https://amanchi1208.github.io/txt/token.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
     }
   ],
   "parses": [
