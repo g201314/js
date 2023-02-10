@@ -342,15 +342,6 @@
       "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://amanchi1208.github.io/json/bl.json"
     },
     {
-      "key": "AList",
-      "name": "AList",
-      "type": "3",
-      "api": "csp_AList",
-      "playerType": 2,
-      "searchable": "1",
-      "ext": "https://amanchi1208.github.io/json/alist.json"
-    },
-    {
       "key": "Cokemv",
       "name": "可乐",
       "type": "3",
