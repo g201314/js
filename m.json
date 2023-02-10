@@ -79,6 +79,13 @@
     {
       "host": "*",
       "rule": [
+        "iqiyi.hbuioo.com",
+        "vip.ffzyad.com"
+      ]
+    },
+    {
+      "host": "*",
+      "rule": [
         "/API.php?time=",
         "key=",
         "path=",
@@ -502,6 +509,17 @@
       "name": "rx2",
       "type": 1,
       "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+    },
+    {
+      "name": "看看",
+      "type": 1,
+      "url": "http://www.kankanpu.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯"
+        ]
+      }
     },
     {
       "name": "parwix稳定",
