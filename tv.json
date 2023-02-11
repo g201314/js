@@ -272,58 +272,6 @@
       "jar": "https://amanchi1208.github.io/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f"
     },
     {
-      "key": "忆梦",
-      "name": "忆梦",
-      "type": 1,
-      "api": "http://anltv.cn/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "电影(B站)",
-        "电视剧(B站)",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "奇幻片",
-        "冒险片",
-        "武侠片",
-        "动漫画",
-        "动画",
-        "番剧(B站)",
-        "国创(B站)",
-        "综艺",
-        "记录片(B站)",
-        "纪录片/微电影"
-      ]
-    },
-    {
-      "key": "木子看剧",
-      "name": "木子看剧",
-      "type": 1,
-      "api": "https://mzkj.maccms.cf/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
-        "哔哩哔哩",
-        "直播"
-      ]
-    },
-    {
       "key": "影图",
       "name": "影图",
       "type": 1,
