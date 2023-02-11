@@ -251,7 +251,7 @@
     },
     {
       "key": "Bdys01",
-      "name": "哔滴影视",
+      "name": "哔滴",
       "type": 3,
       "api": "csp_Bdys01",
       "playerType": 2,
@@ -281,7 +281,7 @@
     },
     {
       "key": "M3U8资源",
-      "name": "M3U8资源",
+      "name": "M3U8",
       "type": 1,
       "api": "https://www.zycaiji.net:7788/api.php/provide/vod/",
       "searchable": 1,
@@ -479,17 +479,6 @@
       "ext": "0842c1d2a8534ec62fb3a3ed848851a7"
     },
     {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "playerType": 2,
-      "searchable": 1,
-      "filterable": 1,
-      "switchable": 1,
-      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;e5b681f675bb3bde7f94196f60235829"
-    },
-    {
       "key": "紙條",
       "name": "纸条",
       "type": 3,
@@ -509,6 +498,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "switchable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
     },
     {
@@ -531,6 +521,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "switchable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
     },
     {
@@ -542,6 +533,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "switchable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
     },
     {
