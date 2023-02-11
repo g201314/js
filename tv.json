@@ -438,76 +438,72 @@
     },
     {
       "key": "紙條",
-      "name": "纸条",
+      "name": "紙條",
       "type": 3,
       "api": "csp_Paper",
-      "playerType": 2,
       "searchable": 1,
       "filterable": 1,
       "switchable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
+      "jar":"https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
-      "key": "Upso",
-      "name": "云搜",
-      "type": "3",
-      "api": "csp_Upso",
-      "playerType": 2,
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "switchable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
-    },
-    {
-      "key": "找資源",
-      "name": "找資源",
+      "key": "易搜",
+      "name": "易搜",
       "type": 3,
-      "api": "csp_Zhaozy",
-      "playerType": 2,
+      "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt$$$yingshi$$$abcd1234"
+      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
-      "key": "YiSo",
-      "name": "易搜",
-      "type": "3",
-      "api": "csp_YiSo",
-      "playerType": 2,
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "switchable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
-    },
-    {
-      "key": "AliPS",
+      "key": "盤搜",
       "name": "盘搜",
-      "type": "3",
-      "api": "csp_AliPS",
-      "playerType": 2,
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
       "switchable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
+      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+    },
+    {
+      "key": "UP雲搜",
+      "name": "云搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+    },
+    {
+      "key": "找資源",
+      "name": "找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
     },
     {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
       "api": "csp_Push",
-      "playerType": 2,
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
+      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     }
   ],
   "parses": [
-
     {
       "name": "Web解析聚合",
       "type": 3,
