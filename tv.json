@@ -506,9 +506,66 @@
   ],
   "parses": [
     {
-      "name": "Web解析聚合",
-      "type": 3,
-      "url": "Web"
+      "name": "蓝蓝",
+      "type": 1,
+      "url": "http://lanlan.ckflv.cn/?url=",
+      "ext": {
+        "flag": [
+          "iqiyi",
+          "qiyi",
+          "youku",
+          "mgtv",
+          "imgo",
+          "pptv",
+          "le",
+          "sohu",
+          "bilibili",
+          "xigua",
+          "1905"
+        ]
+      }
+    },
+    {
+      "name": "XM",
+      "type": 0,
+      "url": "https://dm.xmflv.com:4433/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "iqiyi",
+          "qiyi",
+          "youku",
+          "mgtv",
+          "imgo",
+          "pptv",
+          "le",
+          "sohu",
+          "bilibili",
+          "xigua",
+          "1905"
+        ]
+      }
+    },
+    {
+      "name": "Par",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "iqiyi",
+          "qiyi",
+          "youku",
+          "mgtv",
+          "imgo",
+          "pptv",
+          "le",
+          "sohu",
+          "bilibili",
+          "xigua",
+          "1905"
+        ]
+      }
     },
     {
       "name": "三三解析",
