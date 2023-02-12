@@ -349,15 +349,6 @@
       "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/bl.json"
     },
     {
-      "key": "AList",
-      "name": "AList",
-      "type": "3",
-      "api": "csp_AList",
-      "playerType": 1,
-      "searchable": "1",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/alist.json"
-    },
-    {
       "key": "Cokemv",
       "name": "可乐",
       "type": "3",
@@ -417,66 +408,66 @@
       "name": "纸条",
       "type": 3,
       "api": "csp_Paper",
-      "playerType": 1,
       "searchable": 1,
       "filterable": 1,
-      "switchable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
+      "changeable": 0,
+      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
-      "key": "Upso",
+      "key": "易搜",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+    },
+    {
+      "key": "盤搜",
+      "name": "盘搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+    },
+    {
+      "key": "UP雲搜",
       "name": "云搜",
-      "type": "3",
-      "api": "csp_Upso",
-      "playerType": 1,
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "找資源",
-      "name": "找資源",
+      "name": "找资源",
       "type": 3,
       "api": "csp_Zhaozy",
-      "playerType": 1,
       "searchable": 1,
       "filterable": 0,
-      "switchable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt$$$yingshi$$$abcd1234"
-    },
-    {
-      "key": "YiSo",
-      "name": "易搜",
-      "type": "3",
-      "api": "csp_YiSo",
-      "playerType": 1,
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
-    },
-    {
-      "key": "AliPS",
-      "name": "盘搜",
-      "type": "3",
-      "api": "csp_AliPS",
-      "playerType": 1,
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
+      "changeable": 0,
+      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
     },
     {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
       "api": "csp_Push",
-      "playerType": 1,
       "searchable": 1,
       "filterable": 0,
-      "switchable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
+      "changeable": 0,
+      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     }
   ],
   "parses": [
