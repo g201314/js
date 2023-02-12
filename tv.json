@@ -275,10 +275,11 @@
       "key": "csp_AppTT",
       "name": "图图",
       "type": 3,
-      "api": "csp_Dora",
+      "api": "csp_AppTT2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar":"https://amanchi1208.github.io/jar/xn.jar",
       "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="
     },
     {
