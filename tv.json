@@ -506,20 +506,19 @@
   ],
   "parses": [
     {
-      "name": "蓝蓝",
+      "name": "lanlan",
       "type": 1,
       "url": "http://lanlan.ckflv.cn/?url=",
       "ext": {
         "flag": [
-          "iqiyi",
           "qiyi",
+          "qq",
+          "letv",
+          "sohu",
           "youku",
           "mgtv",
-          "imgo",
-          "pptv",
-          "le",
-          "sohu",
           "bilibili",
+          "wasu",
           "xigua",
           "1905"
         ]
@@ -715,60 +714,6 @@
       }
     },
     {
-      "name": "parwix1",
-      "type": 0,
-      "url": "https://jx.parwix.com:4433/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "parwix2",
-      "type": 0,
-      "url": "https://jx.parwix.com:4433/player/analysis.php?v=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
       "name": "Bt5v",
       "type": 1,
       "url": "proxy://do=jx&name=bt5v&url=",
@@ -824,25 +769,6 @@
         "header": {
           "User-Agent": "okhttp/4.1.0"
         }
-      }
-    },
-    {
-      "name": "lanlan",
-      "type": 1,
-      "url": "http://lanlan.ckflv.cn/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "qq",
-          "letv",
-          "sohu",
-          "youku",
-          "mgtv",
-          "bilibili",
-          "wasu",
-          "xigua",
-          "1905"
-        ]
       }
     },
     {
