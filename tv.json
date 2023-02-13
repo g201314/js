@@ -438,6 +438,16 @@
       "ext": "0842c1d2a8534ec62fb3a3ed848851a7"
     },
     {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://amanchi1208.github.io/json/alist.json"
+    },
+    {
       "key": "紙條",
       "name": "纸条",
       "type": 3,
