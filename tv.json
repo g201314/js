@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://amanchi1208.github.io/jar/ts.jar;md5;b061493a35694916616fb2903324cfdf",
+  "spider": "https://amanchi1208.github.io/jar/ts.jar;md5;b2557d7fc0ce5bb0f616e26ff9f4daf2",
   "lives": [
     {
       "name": "直播",
@@ -272,15 +272,14 @@
       "jar": "https://amanchi1208.github.io/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f"
     },
     {
-      "key": "csp_AppTT",
+      "key": "AppTT",
       "name": "图图",
-      "type": 3,
-      "api": "csp_AppTT2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://amanchi1208.github.io/jar/xn.jar",
-      "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "110c922de7d69804467fb83d3bb664b5"
     },
     {
       "key": "IKan",
@@ -448,69 +447,69 @@
       "ext": "https://amanchi1208.github.io/json/alist.json"
     },
     {
-      "key": "紙條",
+      "key": "Gitcafe",
       "name": "纸条",
-      "type": 3,
+      "type": "3",
       "api": "csp_Paper",
-      "searchable": 1,
-      "filterable": 1,
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
       "changeable": 0,
-      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
-      "key": "易搜",
-      "name": "易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
-    },
-    {
-      "key": "盤搜",
-      "name": "盘搜",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
-    },
-    {
-      "key": "UP雲搜",
+      "key": "Upso",
       "name": "云搜",
-      "type": 3,
+      "type": "3",
       "api": "csp_UpYun",
-      "searchable": 1,
-      "filterable": 0,
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
       "changeable": 0,
-      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
-      "key": "找資源",
-      "name": "找资源",
-      "type": 3,
+      "key": "Zhaozy",
+      "name": "资源",
+      "type": "3",
       "api": "csp_Zhaozy",
-      "searchable": 1,
-      "filterable": 0,
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
       "changeable": 0,
-      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
     },
     {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "filterable": 0,
+      "key": "YiSo",
+      "name": "易搜",
+      "type": "3",
+      "api": "csp_YiSo",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
       "changeable": 0,
-      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+    },
+    {
+      "key": "AliPS",
+      "name": "盘搜",
+      "type": "3",
+      "api": "csp_PanSou",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "changeable": 0,
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+    },
+    {
+      "key": "push_agent",
+      "name": "PushAgent",
+      "type": "3",
+      "api": "csp_Push",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     }
   ],
