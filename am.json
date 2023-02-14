@@ -159,7 +159,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://amanchi1208.github.io/json/nm.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/nm.json"
     },
     {
       "key": "AppTT",
@@ -348,7 +348,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/token"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "YiSo",
@@ -359,7 +359,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/token"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "PanSou",
@@ -370,7 +370,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/token"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "UpYun",
@@ -381,7 +381,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/token"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "Zhaozy",
@@ -391,7 +391,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/token$$$xxooo$$$qq112233"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$xxooo$$$qq112233"
     },
     {
       "key": "push_agent",
@@ -402,7 +402,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/token"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     }
   ],
   "parses": [
