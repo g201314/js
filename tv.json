@@ -383,6 +383,11 @@
   ],
   "parses": [
     {
+      "name": "8号线",
+      "type": 0,
+      "url": "https://byg.ziqj5.shop/?url="
+    },
+    {
       "name": "lanlan",
       "type": 1,
       "url": "http://lanlan.ckflv.cn/?url="
