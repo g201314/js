@@ -428,24 +428,9 @@
       "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
     },
     {
-      "name": "parwix稳定",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url="
-    },
-    {
-      "name": "Bt5v",
-      "type": 1,
-      "url": "proxy://do=jx&name=bt5v&url="
-    },
-    {
       "name": "可遇不可求",
       "type": 1,
       "url": "http://newjiexi.gotka.top/keyu3.php?url="
-    },
-    {
-      "name": "bozrc",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url="
     }
   ],
   "flags": [
