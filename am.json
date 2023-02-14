@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;3af7eaf917576c6392ce1a07981895ef",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;3af7eaf917576c6392ce1a07981895ef",
   "lives": [
     {
       "name": "直播",
@@ -159,7 +159,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/nm.json"
+      "ext": "https://manchi1208.github.io/json/nm.json"
     },
     {
       "key": "AppTT",
