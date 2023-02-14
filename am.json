@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;3af7eaf917576c6392ce1a07981895ef",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;92a58defedc77459ca0139972fb05754",
   "lives": [
     {
       "name": "直播",
@@ -142,35 +142,84 @@
       "filterable": 1
     },
     {
-      "key": "Voflix",
+      "key": "csp_YQKAPP",
+      "name": "一起看",
+      "type": 3,
+      "api": "csp_YQKAPP",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://api-tx.shumaxc.xyz"
+    },
+    {
+      "key": "csp_AppTT",
+      "name": "图图",
+      "type": 3,
+      "api": "csp_AppTT2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
+    },
+    {
+      "key": "csp_BuLei",
+      "name": "布雷",
+      "type": 3,
+      "api": "csp_BuLei",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.bulei.cc"
+    },
+    {
+      "key": "csp_555",
+      "name": "555",
+      "type": 3,
+      "api": "csp_Ys555",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.555dyy1.com"
+    },
+    {
+      "key": "csp_Yht",
+      "name": "Yht",
+      "type": 3,
+      "api": "csp_Yht",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yehetang.cc"
+    },
+    {
+      "key": "csp_fantuan",
+      "name": "饭团",
+      "type": 3,
+      "api": "csp_Fantuan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.fantuanhd.com"
+    },
+    {
+      "key": "csp_Vofl",
       "name": "Voflix",
       "type": 3,
       "api": "csp_Voflix",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "农民",
-      "name": "农民",
+      "key": "csp_Xinsj",
+      "name": "新视觉",
       "type": 3,
-      "api": "csp_Nmys",
+      "api": "csp_Xinsj",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://manchi1208.github.io/json/nm.json"
-    },
-    {
-      "key": "AppTT",
-      "name": "图图",
-      "type": "3",
-      "api": "csp_Dora",
-      "playerType": 2,
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "110c922de7d69804467fb83d3bb664b5"
+      "ext": "https://www.6080dy2.com"
     },
     {
       "key": "csp_Czsapp",
@@ -183,49 +232,68 @@
       "filterable": 1
     },
     {
-      "key": "csp_BuLei",
-      "name": "布雷",
+      "key": "csp_Ysgc",
+      "name": "影视工厂",
       "type": 3,
-      "api": "csp_BuLei",
+      "api": "csp_Ysgc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.ysgc.fun"
+    },
+    {
+      "key": "csp_Lib",
+      "name": "Libvio",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://libvio.me"
+    },
+    {
+      "key": "csp_Auete",
+      "name": "Auete",
+      "type": 3,
+      "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "🐷",
-      "name": "乐猪",
+      "key": "csp_Lgyy",
+      "name": "蓝光影院",
       "type": 3,
-      "api": "csp_Lezhu",
+      "api": "csp_Lgyy",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://www.lgyy.tv"
     },
     {
-      "key": "csp_Xinsj",
-      "name": "新视觉",
+      "key": "农民",
+      "name": "农民",
       "type": 3,
-      "api": "csp_Xinsj",
-      "playerType": 2,
+      "api": "csp_Nmys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://amanchi1208.github.io/json/nm.json"
     },
     {
-      "key": "Tian",
-      "name": "天天",
-      "type": "3",
-      "api": "csp_Dora",
-      "playerType": 2,
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "bdc1c75081e5e477189a463baa47e392"
-    },
-    {
-      "key": "Ddrk",
+      "key": "csp_DiDuan",
       "name": "低端",
       "type": 3,
       "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "Bttoo",
+      "name": "Bttoo",
+      "type": 3,
+      "api": "csp_Bttoo",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -240,56 +308,29 @@
       "filterable": 1
     },
     {
-      "key": "Ysgc",
-      "name": "影视工厂",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Bttoo",
-      "name": "Bttoo",
-      "type": 3,
-      "api": "csp_Bttoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "Coke",
       "name": "Cokemv",
       "type": 3,
       "api": "csp_Cokemv",
-      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "Lgyy",
-      "name": "蓝光影院",
+      "key": "csp_Smdyy",
+      "name": "神马电影院",
       "type": 3,
-      "api": "csp_Lgyy",
+      "api": "csp_Smdyy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "Bdys01",
-      "name": "哔滴影视",
+      "key": "csp_Bd",
+      "name": "哔嘀影视",
       "type": 3,
       "api": "csp_Bdys01",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Lib",
-      "name": "Libvio",
-      "type": 3,
-      "api": "csp_Lib",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -305,7 +346,7 @@
     },
     {
       "key": "IQIYI",
-      "name": "奇异果",
+      "name": "奇异",
       "type": 3,
       "api": "csp_IQIYI",
       "searchable": 1,
@@ -314,7 +355,7 @@
     },
     {
       "key": "QQ",
-      "name": "企鹅",
+      "name": "腾讯",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
@@ -344,65 +385,54 @@
       "name": "小纸条",
       "type": 3,
       "api": "csp_Paper",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+      "ext": "http://ali.饭太硬.ml/token"
     },
     {
       "key": "YiSo",
-      "name": "易搜",
+      "name": "易搜┃搜索",
       "type": 3,
       "api": "csp_YiSo",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+      "ext": "http://ali.饭太硬.ml/token"
     },
     {
       "key": "PanSou",
-      "name": "盘搜",
+      "name": "盘搜┃搜索",
       "type": 3,
       "api": "csp_PanSou",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+      "ext": "http://ali.饭太硬.ml/token"
     },
     {
       "key": "UpYun",
-      "name": "Up搜",
+      "name": "Up搜┃搜索",
       "type": 3,
       "api": "csp_UpYun",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$xxooo$$$qq112233"
+      "ext": "http://ali.饭太硬.ml/token"
     },
     {
       "key": "push_agent",
-      "name": "推送",
+      "name": "手机┃推送",
       "type": 3,
       "api": "csp_Push",
       "playerType": 1,
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+      "ext": "http://ali.饭太硬.ml/token"
     }
   ],
   "parses": [

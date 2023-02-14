@@ -381,6 +381,11 @@
       "url": "https://jiexi.parses.repl.co/api.php?url="
     },
     {
+      "name": "tkys",
+      "type": 1,
+      "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="
+    },
+    {
       "name": "ikunfk1",
       "type": 1,
       "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url="
