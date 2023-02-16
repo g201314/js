@@ -243,7 +243,7 @@
       "name": "苹果",
       "type": "3",
       "api": "csp_Dora",
-      "playerType": 2,
+      "playerType": 1,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
@@ -260,6 +260,15 @@
       "filterable": "1",
       "changeable": 1,
       "ext": "9248c57eb22ace4a3431fbd1a979465f"
+    },
+    {
+      "key": "天空",
+      "name": "天空影视",
+      "type": 0,
+      "api": "http://tkznp.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "Zxzj",
