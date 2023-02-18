@@ -6,7 +6,8 @@
       "name": "直播",
       "type": 0,
       "url": "https://amanchi1208.github.io/txt/live.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+      "logo": "http://epg.51zmt.top:8000/{logo}"
     }
   ],
   "sites": [
@@ -211,7 +212,7 @@
       "type": "3",
       "api": "csp_Dora",
       "playerType": 2,
-      "searchable": "1",
+      "searchable": "0",
       "quickSearch": "1",
       "filterable": "1",
       "ext": "d16d1517e9eaad9909cb35c55ba0b784"
@@ -222,7 +223,7 @@
       "type": "3",
       "api": "csp_Dora",
       "playerType": 2,
-      "searchable": "1",
+      "searchable": "0",
       "quickSearch": "1",
       "filterable": "1",
       "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://amanchi1208.github.io/json/bl.json"
