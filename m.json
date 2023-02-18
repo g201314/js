@@ -15,9 +15,9 @@
       "name": "T4主页",
       "type": 4,
       "api": "https://t4.饭太硬.ml/vod",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1
+      "searchable": "0",
+      "quickSearch": "1",
+      "filterable": "1"
     },
     {
       "key": "世界杯",
