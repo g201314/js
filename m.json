@@ -120,7 +120,7 @@
     },
     {
       "key": "Bdys01",
-      "name": "哔滴影视",
+      "name": "哔滴",
       "type": 3,
       "api": "csp_Bdys01",
       "playerType": 2,
@@ -362,9 +362,19 @@
   ],
   "parses": [
     {
+      "name": "8号线",
+      "type": 0,
+      "url": "https://byg.ziqj5.shop/?url="
+    },
+    {
       "name": "lanlan",
       "type": 1,
       "url": "http://lanlan.ckflv.cn/?url="
+    },
+    {
+      "name": "tkys",
+      "type": 1,
+      "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="
     },
     {
       "name": "XM",
@@ -382,11 +392,6 @@
       "url": "https://jiexi.parses.repl.co/api.php?url="
     },
     {
-      "name": "tkys",
-      "type": 1,
-      "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="
-    },
-    {
       "name": "ikunfk1",
       "type": 1,
       "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url="
@@ -402,24 +407,14 @@
       "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
     },
     {
-      "name": "parwix稳定",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url="
-    },
-    {
-      "name": "Bt5v",
-      "type": 1,
-      "url": "proxy://do=jx&name=bt5v&url="
-    },
-    {
       "name": "可遇不可求",
       "type": 1,
       "url": "http://newjiexi.gotka.top/keyu3.php?url="
     },
     {
-      "name": "bozrc",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url="
+      "name": "love",
+      "type": 1,
+      "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v="
     }
   ],
   "flags": [
