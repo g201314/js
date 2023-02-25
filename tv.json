@@ -239,18 +239,6 @@
       "ext": "b88de1329655cca1beba45aa9776de70"
     },
     {
-      "key": "獨播",
-      "name": "独播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "playerType": 1,
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://amanchi1208.github.io/json/duboku.json",
-      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;69ef6396eb2400c03529c7714d96841a"
-    },
-    {
       "key": "LiteApple",
       "name": "苹果",
       "type": "3",
@@ -326,6 +314,18 @@
       "quickSearch": "1",
       "filterable": "1",
       "ext": "0842c1d2a8534ec62fb3a3ed848851a7"
+    },
+    {
+      "key": "獨播",
+      "name": "独播",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "playerType": 1,
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://amanchi1208.github.io/json/duboku.json",
+      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;69ef6396eb2400c03529c7714d96841a"
     },
     {
       "key": "AList",

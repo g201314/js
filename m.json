@@ -240,18 +240,6 @@
       "ext": "b88de1329655cca1beba45aa9776de70"
     },
     {
-      "key": "獨播",
-      "name": "独播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "playerType": 1,
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/duboku.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/fm.jar;md5;69ef6396eb2400c03529c7714d96841a"
-    },
-    {
       "key": "LiteApple",
       "name": "苹果",
       "type": "3",
