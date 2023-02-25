@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/ts.jar;md5;fbacd3ee3b4e0d823dbc574ef7765471",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/ts.jar;md5;fbacd3ee3b4e0d823dbc574ef7765471",
   "lives": [
     {
       "name": "直播",
@@ -127,7 +127,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f"
     },
     {
       "key": "csp_BuLei",
@@ -138,7 +138,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f"
     },
     {
       "key": "AppTT",
@@ -226,7 +226,7 @@
       "searchable": "0",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://gh-proxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/bl.json"
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/bl.json"
     },
     {
       "key": "Cokemv",
@@ -291,7 +291,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/alist.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/alist.json"
     },
     {
       "key": "Gitcafe",
