@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;5e95879c0d1cd5c5e97d7840efcc74e7",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;eb433f3b00e991e6ba6509cffc99672c",
   "lives": [
     {
       "name": "直播",
@@ -169,7 +169,7 @@
     },
     {
       "key": "csp_Lgyy",
-      "name": "蓝光影院",
+      "name": "蓝光",
       "type": 3,
       "api": "csp_Lgyy",
       "searchable": 1,
