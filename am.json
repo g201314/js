@@ -1,6 +1,6 @@
 {
-  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;eb433f3b00e991e6ba6509cffc99672c",
+  "wallpaper": "https://jianbian.chuqiuyu.tk",
+  "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;eb433f3b00e991e6ba6509cffc99672c",
   "lives": [
     {
       "name": "直播",
@@ -10,6 +10,15 @@
     }
   ],
   "sites": [
+    {
+      "key": "T4vod",
+      "name": "T4主页",
+      "type": 4,
+      "api": "https://t4.饭太硬.ml/vod",
+      "searchable": "0",
+      "quickSearch": "1",
+      "filterable": "1"
+    },
     {
       "key": "Kunyu77",
       "name": "七七",
@@ -36,7 +45,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gst163.github.io/s/nongminyingshi.json"
+      "ext": "https://amanchi1208.github.io/json/nm.json"
     },
     {
       "key": "csp_AppTT",
@@ -149,7 +158,7 @@
     },
     {
       "key": "csp_Ysgc",
-      "name": "影视工厂",
+      "name": "影视",
       "type": 3,
       "api": "csp_Ysgc",
       "searchable": 1,
@@ -261,7 +270,7 @@
     },
     {
       "key": "MGTV",
-      "name": "芒果(解析)",
+      "name": "芒果",
       "type": 3,
       "api": "csp_Mgtv",
       "searchable": 1,
@@ -278,54 +287,31 @@
       "filterable": 1
     },
     {
-      "key": "dr_兔小贝",
-      "name": "儿童启蒙",
+      "key": "csp_If101",
+      "name": "If101",
       "type": 3,
-      "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
-      "ext": "http://ftyyy.tk/JS/js/兔小贝.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "api": "csp_If101",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "key": "少儿教育",
-      "name": "少儿教育",
+      "key": "csp_Nbys",
+      "name": "泥巴",
       "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://cdn.饭太硬.ga/x/json/少儿教育.json"
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "key": "小学课堂",
-      "name": "小学课堂",
+      "key": "csp_trj",
+      "name": "唐人街",
       "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://cdn.饭太硬.ga/x/json/小学课堂.json"
-    },
-    {
-      "key": "初中课堂",
-      "name": "初中课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://cdn.饭太硬.ga/x/json/初中课堂.json"
-    },
-    {
-      "key": "高中教育",
-      "name": "高中课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://cdn.饭太硬.ga/x/json/高中课堂.json"
+      "api": "csp_Tangrenjie",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "Dm84",
@@ -344,7 +330,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
     {
       "key": "YiSo",
@@ -355,7 +341,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
     {
       "key": "PanSou",
@@ -366,7 +352,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
     {
       "key": "UpYun",
@@ -377,7 +363,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
     {
       "key": "push_agent",
@@ -388,7 +374,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "https://amanchi1208.github.io/txt/token.txt"
     }
   ],
   "parses": [

@@ -10,7 +10,7 @@ https://amanchi1208.github.io/tv.json
 
 ##### 配置地址三:
 ```
-https://raw.iqiq.io/Amanchi1208/amanchi1208.github.io/main/am.json
+https://amanchi1208.github.io/am.json
 ```
 
 ##### TVbox:
