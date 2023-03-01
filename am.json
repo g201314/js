@@ -148,7 +148,7 @@
     },
     {
       "key": "csp_Xinsj",
-      "name": "新视觉",
+      "name": "视觉",
       "type": 3,
       "api": "csp_Xinsj",
       "searchable": 1,
@@ -197,7 +197,7 @@
     },
     {
       "key": "csp_Auete",
-      "name": "Auete",
+      "name": "奥特",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -288,7 +288,7 @@
     },
     {
       "key": "csp_trj",
-      "name": "唐人街",
+      "name": "唐人",
       "type": 3,
       "api": "csp_Tangrenjie",
       "searchable": 1,
