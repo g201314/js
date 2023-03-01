@@ -270,7 +270,7 @@
     },
     {
       "key": "csp_If101",
-      "name": "If101",
+      "name": "101",
       "type": 3,
       "api": "csp_If101",
       "searchable": 1,
@@ -297,7 +297,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "小纸条",
+      "name": "纸条",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
