@@ -20,6 +20,17 @@
       "filterable": "1"
     },
     {
+      "key": "csp_YQKAPP",
+      "name": "一起看",
+      "type": 3,
+      "api": "csp_YQKAPP",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://api-tx.shumaxc.xyz"
+    },
+    {
       "key": "Kunyu77",
       "name": "七七",
       "type": 3,
@@ -86,17 +97,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_YQKAPP",
-      "name": "一起看",
-      "type": 3,
-      "api": "csp_YQKAPP",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://api-tx.shumaxc.xyz"
-    },
-    {
       "key": "csp_BuLei",
       "name": "布雷",
       "type": 3,
@@ -134,7 +134,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://cdn.饭太硬.ga/x/json/石榴.json"
+      "ext": "https://amanchi1208.github.io/json/shiliu.json"
     },
     {
       "key": "csp_fantuan",
@@ -215,7 +215,7 @@
     },
     {
       "key": "LiteApple",
-      "name": "小苹果",
+      "name": "苹果",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -224,7 +224,7 @@
     },
     {
       "key": "Coke",
-      "name": "Cokemv",
+      "name": "可乐",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
@@ -251,28 +251,10 @@
       "filterable": 1
     },
     {
-      "key": "IQIYI",
-      "name": "奇异",
+      "key": "Dm84",
+      "name": "动漫",
       "type": 3,
-      "api": "csp_IQIYI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "QQ",
-      "name": "腾讯",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "MGTV",
-      "name": "芒果",
-      "type": 3,
-      "api": "csp_Mgtv",
+      "api": "csp_Dm84",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -309,15 +291,6 @@
       "name": "唐人街",
       "type": 3,
       "api": "csp_Tangrenjie",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Dm84",
-      "name": "动漫",
-      "type": 3,
-      "api": "csp_Dm84",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
