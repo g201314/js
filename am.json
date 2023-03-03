@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;eb433f3b00e991e6ba6509cffc99672c",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;eb433f3b00e991e6ba6509cffc99672c",
   "lives": [
     {
       "name": "直播",
@@ -59,16 +59,6 @@
       "ext": "https://amanchi1208.github.io/json/nm.json"
     },
     {
-      "key": "csp_AppTT",
-      "name": "图图",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://154.39.64.151:3311/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="
-    },
-    {
       "key": "csp_Czsapp",
       "name": "厂长",
       "type": 3,
@@ -125,16 +115,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yehetang.cc"
-    },
-    {
-      "key": "csp_Slsp",
-      "name": "石榴",
-      "type": 3,
-      "api": "csp_Slsp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://amanchi1208.github.io/json/shiliu.json"
     },
     {
       "key": "csp_fantuan",
@@ -264,33 +244,6 @@
       "name": "360",
       "type": 3,
       "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_If101",
-      "name": "101",
-      "type": 3,
-      "api": "csp_If101",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Nbys",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_trj",
-      "name": "唐人",
-      "type": 3,
-      "api": "csp_Tangrenjie",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
