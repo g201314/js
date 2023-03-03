@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;eb433f3b00e991e6ba6509cffc99672c",
+  "spider": "https://amanchi1208.gitub.io/jar/cc.jar;md5;eb433f3b00e991e6ba6509cffc99672c",
   "lives": [
     {
       "name": "直播",
@@ -31,19 +31,11 @@
       "ext": "https://api-tx.shumaxc.xyz"
     },
     {
-      "key": "Kunyu77",
-      "name": "七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "Kuaikan",
       "name": "快看",
       "type": 3,
       "api": "csp_Kuaikan",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -53,10 +45,11 @@
       "name": "农民",
       "type": 3,
       "api": "csp_Nmys",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://amanchi1208.github.io/json/nm.json"
+      "ext": "https://gst163.github.io/s/nongminyingshi.json"
     },
     {
       "key": "csp_Czsapp",
@@ -73,44 +66,27 @@
       "name": "低端",
       "type": 3,
       "api": "csp_Ddrk",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "csp_Bttoo",
-      "name": "Btto",
+      "name": "Bttoo",
       "type": 3,
       "api": "csp_Bttwoo",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "csp_BuLei",
-      "name": "布雷",
-      "type": 3,
-      "api": "csp_BuLei",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.bulei.cc"
-    },
-    {
-      "key": "csp_555",
-      "name": "555",
-      "type": 3,
-      "api": "csp_Ys555",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.555dyy1.com"
-    },
-    {
       "key": "csp_Yht",
-      "name": "Yanet",
+      "name": "Yhanet",
       "type": 3,
       "api": "csp_Yht",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -121,6 +97,7 @@
       "name": "饭团",
       "type": 3,
       "api": "csp_Fantuan",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -128,9 +105,10 @@
     },
     {
       "key": "csp_Xinsj",
-      "name": "视觉",
+      "name": "新视觉",
       "type": 3,
       "api": "csp_Xinsj",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -141,6 +119,7 @@
       "name": "影视",
       "type": 3,
       "api": "csp_Ysgc",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -151,35 +130,38 @@
       "name": "Libvio",
       "type": 3,
       "api": "csp_Libvio",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://libvio.me"
     },
     {
-      "key": "csp_Lgyy",
-      "name": "蓝光",
-      "type": 3,
-      "api": "csp_Lgyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.lgyy.tv"
-    },
-    {
       "key": "csp_Vofl",
       "name": "Voflix",
       "type": 3,
       "api": "csp_Voflix",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "Bili",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://amanchi1208.github.io/json/bl.json"
     },
     {
       "key": "csp_Auete",
       "name": "奥特",
       "type": 3,
       "api": "csp_Auete",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -189,6 +171,7 @@
       "name": "胖虎",
       "type": 3,
       "api": "csp_Panghu",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -198,6 +181,7 @@
       "name": "苹果",
       "type": 3,
       "api": "csp_LiteApple",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -207,15 +191,7 @@
       "name": "可乐",
       "type": 3,
       "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Smdyy",
-      "name": "神马",
-      "type": 3,
-      "api": "csp_Smdyy",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -225,7 +201,7 @@
       "name": "哔嘀",
       "type": 3,
       "api": "csp_Bdys01",
-      "playerType": 1,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -235,6 +211,37 @@
       "name": "动漫",
       "type": 3,
       "api": "csp_Dm84",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "IQIYI",
+      "name": "奇异",
+      "type": 3,
+      "api": "csp_IQIYI",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "QQ",
+      "name": "腾讯",
+      "type": 3,
+      "api": "csp_QQ",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "MGTV",
+      "name": "芒果",
+      "type": 3,
+      "api": "csp_Mgtv",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -244,6 +251,37 @@
       "name": "360",
       "type": 3,
       "api": "csp_SP360",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_If101",
+      "name": "101",
+      "type": 3,
+      "api": "csp_If101",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Nbys",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_trj",
+      "name": "唐人",
+      "type": 3,
+      "api": "csp_Tangrenjie",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -253,6 +291,7 @@
       "name": "纸条",
       "type": 3,
       "api": "csp_Paper",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -263,7 +302,7 @@
       "name": "易搜",
       "type": 3,
       "api": "csp_YiSo",
-      "playerType": 1,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -274,7 +313,7 @@
       "name": "盘搜",
       "type": 3,
       "api": "csp_PanSou",
-      "playerType": 1,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -285,7 +324,7 @@
       "name": "云搜",
       "type": 3,
       "api": "csp_UpYun",
-      "playerType": 1,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
