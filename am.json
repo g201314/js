@@ -207,46 +207,6 @@
       "filterable": 1
     },
     {
-      "key": "Dm84",
-      "name": "动漫",
-      "type": 3,
-      "api": "csp_Dm84",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "IQIYI",
-      "name": "奇异",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "QQ",
-      "name": "腾讯",
-      "type": 3,
-      "api": "csp_QQ",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "MGTV",
-      "name": "芒果",
-      "type": 3,
-      "api": "csp_Mgtv",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "360",
       "name": "360",
       "type": 3,
