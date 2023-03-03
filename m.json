@@ -265,6 +265,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "changeable": 0,
       "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
     {
@@ -276,6 +277,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "changeable": 0,
       "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
     {
@@ -287,6 +289,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "changeable": 0,
       "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
     {
@@ -298,6 +301,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "changeable": 0,
       "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
     {
@@ -309,6 +313,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
+      "changeable": 0,
       "ext": "https://amanchi1208.github.io/txt/token.txt"
     }
   ],
