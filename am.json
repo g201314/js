@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;eb433f3b00e991e6ba6509cffc99672c",
+  "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;c7a548f950e99c50a3465918f2aab475",
   "lives": [
     {
       "name": "直播",
@@ -52,6 +52,37 @@
       "ext": "https://gst163.github.io/s/nongminyingshi.json"
     },
     {
+      "key": "csp_AppMr",
+      "name": "Mr",
+      "type": 3,
+      "api": "csp_AppMr",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_AppTT",
+      "name": "图图",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "tv$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+    },
+    {
+      "key": "csp_Kunyu77",
+      "name": "七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_Czsapp",
       "name": "厂长",
       "type": 3,
@@ -83,7 +114,7 @@
     },
     {
       "key": "csp_Yht",
-      "name": "Yhanet",
+      "name": "Yanet",
       "type": 3,
       "api": "csp_Yht",
       "playerType": 2,
@@ -316,7 +347,55 @@
     {
       "name": "lanlan",
       "type": 1,
-      "url": "http://lanlan.ckflv.cn/?url="
+      "url": "http://lanlan.ckflv.cn/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Dart/2.14(dart:io)"
+        }
+      }
+    },
+    {
+      "name": "blbo",
+      "type": 1,
+      "url": "https://vip.blbo.cc:2222/api/?key=9f230d947680de53b544be747efa8e54&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "企鹅",
+          "IQiYi",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "YouKu",
+          "优酷",
+          "sohu",
+          "SoHu",
+          "搜狐",
+          "letv",
+          "LeShi",
+          "乐视",
+          "imgo",
+          "mgtv",
+          "MangGuo",
+          "芒果",
+          "SLYS4k",
+          "BYGA",
+          "luanzi",
+          "AliS",
+          "dxzy",
+          "bilibili",
+          "QEYSS",
+          "xigua",
+          "西瓜视频",
+          "腾讯视频",
+          "奇艺视频",
+          "优酷视频",
+          "芒果视频",
+          "乐视视频"
+        ]
+      }
     },
     {
       "name": "tkys",
@@ -339,14 +418,9 @@
       "url": "https://jiexi.parses.repl.co/api.php?url="
     },
     {
-      "name": "ikunfk1",
+      "name": "art1",
       "type": 1,
-      "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url="
-    },
-    {
-      "name": "ikunfk2",
-      "type": 1,
-      "url": "https://parse.ikunfk.cc/parse/sign/20230117?url="
+      "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="
     },
     {
       "name": "rx2",
