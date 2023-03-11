@@ -314,61 +314,6 @@
       "changeable": 1
     },
     {
-      "key": "jianying",
-      "name": "剪影",
-      "type": 3,
-      "api": "csp_jianying",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "HIsp",
-      "name": "HI",
-      "type": 3,
-      "api": "csp_HIsp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Anime1",
-      "name": "Anime",
-      "type": 3,
-      "api": "csp_Anime1",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Hg",
-      "name": "Hg",
-      "type": 3,
-      "api": "csp_hg",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Inint",
-      "name": "Init",
-      "type": 3,
-      "api": "csp_Init",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
       "key": "csp_Bd",
       "name": "哔嘀",
       "type": 3,
