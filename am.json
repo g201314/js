@@ -119,7 +119,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "changeable": 1
     },
     {
@@ -346,7 +346,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "changeable": 0,
       "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
@@ -358,7 +358,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "changeable": 0,
       "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
@@ -370,7 +370,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "changeable": 0,
       "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
@@ -381,8 +381,8 @@
       "api": "csp_Zhaozy",
       "playerType": 2,
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
       "changeable": 0,
       "ext": "https://amanchi1208.github.io/txt/token.txt$$$自己去注册$$$qq112233"
     },
@@ -391,9 +391,11 @@
       "name": "推送",
       "type": 3,
       "api": "csp_Push",
+      "playerType": 2,
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
+      "changeable": 0,
       "ext": "https://amanchi1208.github.io/txt/token.txt"
     }
   ],

@@ -18,7 +18,7 @@
       "searchable": "0",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": 0
+      "changeable": 1
     },
     {
       "key": "csp_YQKAPP",
@@ -119,7 +119,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "changeable": 1
     },
     {
@@ -287,10 +287,10 @@
       "name": "动漫",
       "type": 3,
       "api": "csp_Dm84",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2,
       "changeable": 1
     },
     {
@@ -301,7 +301,8 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "changeable": 1
     },
     {
       "key": "QQ",
@@ -311,7 +312,8 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "changeable": 1
     },
     {
       "key": "MGTV",
@@ -321,7 +323,8 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "changeable": 1
     },
     {
       "key": "360",
@@ -353,8 +356,8 @@
       "api": "csp_Zhaozy",
       "playerType": 2,
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
       "changeable": 0,
       "ext": "https://amanchi1208.github.io/txt/token.txt$$$自己去注册$$$qq112233"
     },
@@ -366,7 +369,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "changeable": 0,
       "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
@@ -378,7 +381,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "changeable": 0,
       "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
@@ -390,7 +393,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "changeable": 0,
       "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
@@ -399,10 +402,10 @@
       "name": "推送",
       "type": 3,
       "api": "csp_Push",
+      "playerType": 2,
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": 2,
       "ext": "https://amanchi1208.github.io/txt/token.txt"
     }
   ],
