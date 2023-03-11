@@ -205,6 +205,48 @@
       "changeable": 1
     },
     {
+      "key": "csp_Lgyy",
+      "name": "蓝光",
+      "type": 3,
+      "api": "csp_Lgyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.lgyy.vip"
+    },
+    {
+      "key": "Smdyy",
+      "name": "神马",
+      "type": 3,
+      "api": "csp_Smdyy",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Nkdy",
+      "name": "耐看",
+      "type": 3,
+      "api": "csp_Nkdy",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_XBPQ_乐猪",
+      "name": "乐猪",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://amanchi1208.github.io/json/lz.json"
+    },
+    {
       "key": "Bili",
       "name": "哔哩",
       "type": 3,
