@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;a636612fad3f047f7df1690f8b4cfde4",
+  "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;21b08989bf6fec5203e7726180d77082",
   "lives": [
     {
       "name": "直播",
@@ -347,6 +347,15 @@
       "changeable": 1
     },
     {
+      "key": "csp_If101",
+      "name": "101",
+      "type": 3,
+      "api": "csp_If101",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_Nbys",
       "name": "泥巴",
       "type": 3,
@@ -521,9 +530,9 @@
       "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="
     },
     {
-      "name": "rx2",
+      "name": "key",
       "type": 1,
-      "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+      "url": "http://svip.key521.cn/analysis/json/?uid=22&my=acdgimotxCHLNOTX16&url="
     },
     {
       "name": "可遇不可求",
