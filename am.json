@@ -283,6 +283,17 @@
       "changeable": 1
     },
     {
+      "key": "Dm84",
+      "name": "动漫",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "changeable": 1
+    },
+    {
       "key": "360",
       "name": "360",
       "type": 3,
@@ -315,76 +326,76 @@
       "filterable": 1,
       "changeable": 1
     },
-{
-  "key": "csp_Paper",
-  "name": "纸条",
-  "type": 3,
-  "api": "csp_Paper",
-  "playerType": 2,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "changeable": 0,
-  "ext": "https://amanchi1208.github.io/txt/token.txt"
-},
-{
-  "key": "YiSo",
-  "name": "一搜",
-  "type": 3,
-  "api": "csp_YiSo",
-  "playerType": 2,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "changeable": 0,
-  "ext": "https://amanchi1208.github.io/txt/token.txt"
-},
-{
-  "key": "PanSou",
-  "name": "盘搜",
-  "type": 3,
-  "api": "csp_PanSou",
-  "playerType": 2,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "changeable": 0,
-  "ext": "https://amanchi1208.github.io/txt/token.txt"
-},
-{
-  "key": "UpYun",
-  "name": "云搜",
-  "type": 3,
-  "api": "csp_UpYun",
-  "playerType": 2,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "changeable": 0,
-  "ext": "https://amanchi1208.github.io/txt/token.txt"
-},
-{
-  "key": "Zhaozy",
-  "name": "找资源",
-  "type": 3,
-  "api": "csp_Zhaozy",
-  "playerType": 2,
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 0,
-  "changeable": 0,
-  "ext": "https://amanchi1208.github.io/txt/token.txt$$$自己去注册$$$qq112233"
-},
-{
-  "key": "push_agent",
-  "name": "推送",
-  "type": 3,
-  "api": "csp_Push",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": "https://amanchi1208.github.io/txt/token.txt"
-}
+    {
+      "key": "csp_Paper",
+      "name": "纸条",
+      "type": 3,
+      "api": "csp_Paper",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://amanchi1208.github.io/txt/token.txt"
+    },
+    {
+      "key": "YiSo",
+      "name": "一搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "https://amanchi1208.github.io/txt/token.txt"
+    },
+    {
+      "key": "PanSou",
+      "name": "盘搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "https://amanchi1208.github.io/txt/token.txt"
+    },
+    {
+      "key": "UpYun",
+      "name": "云搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "https://amanchi1208.github.io/txt/token.txt"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "https://amanchi1208.github.io/txt/token.txt$$$自己去注册$$$qq112233"
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://amanchi1208.github.io/txt/token.txt"
+    }
   ],
   "parses": [
     {
