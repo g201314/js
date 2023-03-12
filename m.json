@@ -237,16 +237,6 @@
       "changeable": 1
     },
     {
-      "key": "csp_zxzjH3",
-      "name": "在线H3",
-      "type": 3,
-      "api": "csp_ZxzjH3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.zxzjhd.com"
-    },
-    {
       "key": "csp_XBPQ_乐猪",
       "name": "乐猪",
       "type": 3,
