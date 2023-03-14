@@ -10,13 +10,25 @@
   ],
   "sites": [
     {
+      "key": "T4vod",
+      "name": "T4主页",
+      "type": 4,
+      "api": "https://t4.饭太硬.ml/vod",
+      "searchable": "0",
+      "quickSearch": "1",
+      "filterable": "1",
+      "changeable": 0
+    },
+    {
       "key": "世界杯",
       "name": "一起看",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "8e3aefcba838d8dc5102ac786719d837"
     },
     {
@@ -24,9 +36,11 @@
       "name": "天天",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "bdc1c75081e5e477189a463baa47e392"
     },
     {
@@ -34,9 +48,11 @@
       "name": "石榴",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
     },
     {
@@ -44,9 +60,11 @@
       "name": "胖虎",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "c41fdb671b20925c76fa9b6ff8bad027"
     },
     {
@@ -54,9 +72,11 @@
       "name": "蓝光",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "b2e573ff040fcd54b50475660ee1a7d1"
     },
     {
@@ -64,9 +84,11 @@
       "name": "神马",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "16705ee9f4764be8499806f52d4bf1e7"
     },
     {
@@ -74,9 +96,11 @@
       "name": "低端",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "1cc92323700909e7d46623bc85b958d6"
     },
     {
@@ -84,9 +108,11 @@
       "name": "图图",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "110c922de7d69804467fb83d3bb664b5"
     },
     {
@@ -94,9 +120,11 @@
       "name": "爱看",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
     },
     {
@@ -104,9 +132,11 @@
       "name": "厂长",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "8ee655f702d0d21f3643504783babbc3"
     },
     {
@@ -114,9 +144,11 @@
       "name": "快看",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "459b1cb892e317546676a2c9dcec2bff"
     },
     {
@@ -124,9 +156,11 @@
       "name": "七七",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"
     },
     {
@@ -134,9 +168,11 @@
       "name": "奥特",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b"
     },
     {
@@ -144,9 +180,11 @@
       "name": "听书网",
       "type": "3",
       "api": "csp_Dora",
-      "searchable": "1",
+      "playerType": 2,
+      "searchable": "0",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 0,
       "ext": "d16d1517e9eaad9909cb35c55ba0b784"
     },
     {
@@ -154,9 +192,11 @@
       "name": "哔哩",
       "type": "3",
       "api": "csp_Dora",
-      "searchable": "1",
+      "playerType": 2,
+      "searchable": "0",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://amanchi1208.github.io/json/bl.json"
     },
     {
@@ -164,9 +204,11 @@
       "name": "可乐",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "b88de1329655cca1beba45aa9776de70"
     },
     {
@@ -174,9 +216,11 @@
       "name": "苹果",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "6deed4548c44b18d268a5d828f04d86e"
     },
     {
@@ -184,9 +228,11 @@
       "name": "SP360",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "9248c57eb22ace4a3431fbd1a979465f"
     },
     {
@@ -194,9 +240,11 @@
       "name": "Libvio",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "78d057e4d03e47cb62dce13d69b41d6f"
     },
     {
@@ -204,9 +252,11 @@
       "name": "555",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "f41992bd740145ed58cb212dc0876582"
     },
     {
@@ -214,9 +264,11 @@
       "name": "在线",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "23a412dda32885ae2bcb97b956cd7ad4"
     },
     {
@@ -224,9 +276,11 @@
       "name": "Xiaoh",
       "type": "3",
       "api": "csp_Dora",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 1,
       "ext": "0842c1d2a8534ec62fb3a3ed848851a7"
     },
     {
@@ -234,9 +288,11 @@
       "name": "纸条",
       "type": "3",
       "api": "csp_Paper",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken"
     },
     {
@@ -244,9 +300,11 @@
       "name": "云搜",
       "type": "3",
       "api": "csp_UpYun",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken"
     },
     {
@@ -254,9 +312,11 @@
       "name": "资源",
       "type": "3",
       "api": "csp_Zhaozy",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"
     },
     {
@@ -264,9 +324,11 @@
       "name": "易搜",
       "type": "3",
       "api": "csp_YiSo",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken"
     },
     {
@@ -274,9 +336,11 @@
       "name": "盘搜",
       "type": "3",
       "api": "csp_PanSou",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken"
     },
     {
@@ -284,22 +348,67 @@
       "name": "PushAgent",
       "type": "3",
       "api": "csp_Push",
+      "playerType": 2,
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "changeable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken"
     }
   ],
   "parses": [
     {
-      "name": "8号线",
-      "type": 0,
-      "url": "https://byg.ziqj5.shop/?url="
-    },
-    {
       "name": "lanlan",
       "type": 1,
-      "url": "http://lanlan.ckflv.cn/?url="
+      "url": "http://lanlan.ckflv.cn/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Dart/2.14(dart:io)"
+        }
+      }
+    },
+    {
+      "name": "blbo",
+      "type": 1,
+      "url": "https://vip.blbo.cc:2222/api/?key=9f230d947680de53b544be747efa8e54&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "企鹅",
+          "IQiYi",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "YouKu",
+          "优酷",
+          "sohu",
+          "SoHu",
+          "搜狐",
+          "letv",
+          "LeShi",
+          "乐视",
+          "imgo",
+          "mgtv",
+          "MangGuo",
+          "芒果",
+          "SLYS4k",
+          "BYGA",
+          "luanzi",
+          "AliS",
+          "dxzy",
+          "bilibili",
+          "QEYSS",
+          "xigua",
+          "西瓜视频",
+          "腾讯视频",
+          "奇艺视频",
+          "优酷视频",
+          "芒果视频",
+          "乐视视频"
+        ]
+      }
     },
     {
       "name": "tkys",
@@ -322,19 +431,24 @@
       "url": "https://jiexi.parses.repl.co/api.php?url="
     },
     {
-      "name": "rx2",
+      "name": "art1",
       "type": 1,
-      "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+      "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="
     },
     {
-      "name": "可遇不可求",
+      "name": "key",
       "type": 1,
-      "url": "http://newjiexi.gotka.top/keyu3.php?url="
+      "url": "http://svip.key521.cn/analysis/json/?uid=22&my=acdgimotxCHLNOTX16&url="
     },
     {
       "name": "love",
       "type": 1,
       "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v="
+    },
+    {
+      "name": "1",
+      "type": 1,
+      "url": "http://j.grelighting.cn/parser/?url="
     }
   ],
   "flags": [
