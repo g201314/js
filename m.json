@@ -3,10 +3,18 @@
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;4e0bfc64c903656d3d41a5744abd78e3",
   "lives": [
     {
-      "name": "直播",
+      "name": "txt",
       "type": 0,
       "url": "https://amanchi1208.github.io/txt/live.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "Json",
+      "type": 1,
+      "url": "https://amanchi1208.github.io/json/live.json",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+      "logo": "http://epg.51zmt.top:8000/{logo}"
     }
   ],
   "sites": [
