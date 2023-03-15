@@ -357,6 +357,15 @@
       "filterable": 1
     },
     {
+      "key": "独播库",
+      "name": "独播库",
+      "type": "4",
+      "api": "https://tang.run.goorm.app/duboku",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1"
+    },
+    {
       "key": "csp_Nbys",
       "name": "泥巴",
       "type": 3,
