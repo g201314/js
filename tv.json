@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://amanchi1208.github.io/jar/ts.jar;md5;b06a90986a4e4b7d4cfa18a4a68fca16",
+  "spider": "https://amanchi1208.github.io/jar/ts.jar;md5;28ed333efe635e98ddd64ab99e38c7e8",
   "lives": [
     {
       "name": "txt",
@@ -18,16 +18,6 @@
     }
   ],
   "sites": [
-    {
-      "key": "T4vod",
-      "name": "T4主页",
-      "type": 4,
-      "api": "https://t4.饭太硬.ml/vod",
-      "searchable": "0",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": 0
-    },
     {
       "key": "世界杯",
       "name": "一起看",
@@ -51,6 +41,15 @@
       "filterable": "1",
       "changeable": "1",
       "ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
+    },
+    {
+      "key": "独播库",
+      "name": "独播库",
+      "type": "4",
+      "api": "https://tang.run.goorm.app/duboku",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1"
     },
     {
       "key": "Lgyy",
