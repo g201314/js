@@ -19,16 +19,6 @@
   ],
   "sites": [
     {
-      "key": "T4vod",
-      "name": "T4主页",
-      "type": 4,
-      "api": "https://t4.饭太硬.ml/vod",
-      "searchable": "0",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "0"
-    },
-    {
       "key": "csp_YQKAPP",
       "name": "一起看",
       "type": 3,
@@ -139,18 +129,6 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "1"
-    },
-    {
-      "key": "csp_Yht",
-      "name": "Yanet",
-      "type": 3,
-      "api": "csp_Yht",
-      "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "1",
-      "ext": "https://yehetang.cc"
     },
     {
       "key": "csp_fantuan",
