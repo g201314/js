@@ -141,18 +141,6 @@
       "changeable": "1"
     },
     {
-      "key": "csp_Yht",
-      "name": "Yanet",
-      "type": 3,
-      "api": "csp_Yht",
-      "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "1",
-      "ext": "https://yehetang.cc"
-    },
-    {
       "key": "csp_fantuan",
       "name": "饭团",
       "type": 3,
@@ -288,17 +276,6 @@
       "ext": "https://www.555dyy1.com"
     },
     {
-      "key": "csp_panghu",
-      "name": "胖虎",
-      "type": 3,
-      "api": "csp_Panghu",
-      "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "1"
-    },
-    {
       "key": "LiteApple",
       "name": "苹果",
       "type": 3,
@@ -412,7 +389,7 @@
     },
     {
       "key": "YiSo",
-      "name": "一搜",
+      "name": "易搜",
       "type": 3,
       "api": "csp_YiSo",
       "playerType": "2",
