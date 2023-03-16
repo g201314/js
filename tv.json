@@ -268,6 +268,16 @@
       "ext": "23a412dda32885ae2bcb97b956cd7ad4"
     },
     {
+      "key": "Gitcafe",
+      "name": "纸条",
+      "type": "3",
+      "api": "csp_Paper",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "http://ali.饭太硬.ml/alitoken"
+    },
+    {
       "key": "Zhaozy",
       "name": "资源",
       "type": "3",
