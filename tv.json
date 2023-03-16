@@ -290,6 +290,16 @@
       "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"
     },
     {
+      "key": "Upso",
+      "name": "云搜",
+      "type": "3",
+      "api": "csp_UpYun",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "http://ali.饭太硬.ml/alitoken"
+    },
+    {
       "key": "YiSo",
       "name": "易搜",
       "type": "3",
