@@ -276,7 +276,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
     },
     {
       "key": "Zhaozy",
@@ -288,7 +288,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "0",
-      "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"
     },
     {
       "key": "Upso",
@@ -299,7 +299,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
     },
     {
       "key": "YiSo",
@@ -311,7 +311,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "0",
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
     },
     {
       "key": "AliPS",
@@ -323,7 +323,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "0",
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
     },
     {
       "key": "push_agent",
@@ -335,7 +335,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "0",
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
     }
   ],
   "parses": [
