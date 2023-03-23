@@ -396,7 +396,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": 0,
-      "ext": "https://amanchi1208.github.io/txt/token.txt"
+      "ext": "http://ali.饭太硬.ml/alitoken"
     },
     {
       "key": "Zhaozy",
@@ -408,7 +408,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": 0,
-      "ext": "https://amanchi1208.github.io/txt/token.txt$$$yingshi$$$abcd1234"
+      "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"
     },
     {
       "key": "YiSo",
@@ -420,7 +420,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": 0,
-      "ext": "https://amanchi1208.github.io/txt/token.txt"
+      "ext": "http://ali.饭太硬.ml/alitoken"
     },
     {
       "key": "PanSou",
@@ -432,7 +432,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": 0,
-      "ext": "https://amanchi1208.github.io/txt/token.txt"
+      "ext": "http://ali.饭太硬.ml/alitoken"
     },
     {
       "key": "UpYun",
@@ -444,7 +444,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": 0,
-      "ext": "https://amanchi1208.github.io/txt/token.txt"
+      "ext": "http://ali.饭太硬.ml/alitoken"
     },
     {
       "key": "push_agent",
@@ -455,7 +455,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://amanchi1208.github.io/txt/token.txt"
+      "ext": "http://ali.饭太硬.ml/alitoken"
     }
   ],
   "parses": [
