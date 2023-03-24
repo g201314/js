@@ -482,45 +482,7 @@
     {
       "name": "blbo",
       "type": 1,
-      "url": "https://vip.blbo.cc:2222/api/?key=9f230d947680de53b544be747efa8e54&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
-          "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "MangGuo",
-          "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
-          "bilibili",
-          "QEYSS",
-          "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
-        ]
-      }
+      "url": "https://vip.blbo.cc:2222/api/?key=9f230d947680de53b544be747efa8e54&url="
     },
     {
       "name": "tkys",
@@ -561,6 +523,26 @@
       "name": "love",
       "type": 1,
       "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v="
+    },
+    {
+      "name": "a",
+      "type": 1,
+      "url": "https://api.json.icu/api/?key=9a820717fcc751d583a6bb36a15a5b6a&url="
+    },
+    {
+      "name": "b",
+      "type": 1,
+      "url": "http://110.42.2.115:880/analysis/json/?uid=2351&my=abefklvwxABDINTY79&url="
+    },
+    {
+      "name": "c",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "d",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
     }
   ],
   "flags": [
@@ -575,7 +557,26 @@
     "mgtv",
     "wasu",
     "bilibili",
-    "csm3u8"
+    "csm3u8",
+    "QQ",
+    "PPTV",
+    "ltnb",
+    "rx",
+    "CL4K",
+    "xfyun",
+    "wuduzy",
+    "renrenmi",
+    "xmm",
+    "xigua",
+    "m1905",
+    "funshion",
+    "优酷",
+    "芒果",
+    "腾讯",
+    "爱奇艺",
+    "奇艺",
+    "哔哩哔哩",
+    "哔哩"
   ],
   "ijk": [
     {
