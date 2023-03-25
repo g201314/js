@@ -427,7 +427,7 @@
       "name": "影音",
       "type": 3,
       "api": "csp_FanYY",
-      "playerType": "2",
+      "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
