@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;af94cc4d3c30f6cee8b8b20e7b70a0bc",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;61bca6e5fd49bef5a2834109f23303a9",
   "lives": [
     {
       "name": "txt",
@@ -343,48 +343,48 @@
       "changeable": "1"
     },
     {
-      "key": "IQIYI",
-      "name": "奇异",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "1"
-    },
-    {
-      "key": "QQ",
-      "name": "腾讯",
-      "type": 3,
-      "api": "csp_QQ",
-      "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "1"
-    },
-    {
-      "key": "MGTV",
-      "name": "芒果",
-      "type": 3,
-      "api": "csp_Mgtv",
-      "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "1"
-    },
-    {
-      "key": "360",
+      "key": "csp_SP33",
       "name": "360",
       "type": 3,
-      "api": "csp_SP360",
+      "api": "csp_SP33",
       "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "1"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Qtv",
+      "name": "腾讯",
+      "type": 3,
+      "api": "csp_Qtv",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Itv",
+      "name": "爱奇艺",
+      "type": 3,
+      "api": "csp_Itv",
+      "playerType": "2",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Mtv",
+      "name": "芒果",
+      "type": 3,
+      "api": "csp_Mtv",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
     },
     {
       "key": "csp_Paper",
