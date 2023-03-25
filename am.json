@@ -358,7 +358,7 @@
     },
     {
       "key": "Itv",
-      "name": "爱奇艺",
+      "name": "奇艺",
       "type": 3,
       "api": "csp_Itv",
       "playerType": "2",
@@ -380,7 +380,7 @@
     },
     {
       "key": "独播库",
-      "name": "独播库",
+      "name": "独播",
       "type": "4",
       "api": "https://tang.run.goorm.app/duboku",
       "playerType": "2",
