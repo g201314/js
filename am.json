@@ -224,6 +224,16 @@
       "changeable": "1"
     },
     {
+      "key": "csp_BuLei",
+      "name": "布雷",
+      "type": 3,
+      "api": "csp_BuLei",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://v.bulei.cc/"
+    },
+    {
       "key": "csp_panghu",
       "name": "胖虎",
       "type": 3,
@@ -527,11 +537,6 @@
       "url": "https://jx.777jiexi.com/player/?url="
     },
     {
-      "name": "三三解析",
-      "type": 1,
-      "url": "https://jiexi.parses.repl.co/api.php?url="
-    },
-    {
       "name": "art1",
       "type": 1,
       "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="
@@ -568,6 +573,26 @@
     },
     {
       "name": "d",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "999",
+      "type": 1,
+      "url": "http://124.221.180.169:999/api/?key=d35d10afa9183bb0c777b94a1a7f71c2&url="
+    },
+    {
+      "name": "icu",
+      "type": 1,
+      "url": "https://api.json.icu/api/?key=9a820717fcc751d583a6bb36a15a5b6a&url="
+    },
+    {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "jsonplayer",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
     }
