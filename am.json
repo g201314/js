@@ -389,16 +389,6 @@
       "changeable": 0
     },
     {
-      "key": "独播库",
-      "name": "独播",
-      "type": "4",
-      "api": "https://tang.run.goorm.app/duboku",
-      "playerType": "2",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "0"
-    },
-    {
       "key": "csp_Nbys",
       "name": "泥巴",
       "type": 3,
