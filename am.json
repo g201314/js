@@ -577,11 +577,6 @@
       "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
-      "name": "999",
-      "type": 1,
-      "url": "http://124.221.180.169:999/api/?key=d35d10afa9183bb0c777b94a1a7f71c2&url="
-    },
-    {
       "name": "icu",
       "type": 1,
       "url": "https://api.json.icu/api/?key=9a820717fcc751d583a6bb36a15a5b6a&url="
