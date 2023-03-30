@@ -69,10 +69,11 @@
       "name": "图图",
       "type": 3,
       "api": "csp_AppTT",
-      "m3u8ads": "hd.youyhn.com",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": "1",
       "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
     },
     {
@@ -191,14 +192,14 @@
       "ext": "https://tv.libvio.cc/"
     },
     {
-      "key": "csp_Vofl",
+      "key": "csp_Voflix",
       "name": "Voflix",
       "type": 3,
       "api": "csp_Voflix",
       "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "changeable": "1"
     },
     {
@@ -206,6 +207,7 @@
       "name": "哔哩",
       "type": 3,
       "api": "csp_Bili",
+      "playerType": "2",
       "searchable": "0",
       "quickSearch": "0",
       "filterable": "1",
@@ -502,7 +504,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": "0",
-      "jar":"https://amanchi1208.github.io/jar/fm.jar",
+      "jar": "https://amanchi1208.github.io/jar/fm.jar",
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
     }
   ],

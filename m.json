@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;61bca6e5fd49bef5a2834109f23303a9",
+  "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;61bca6e5fd49bef5a2834109f23303a9",
   "lives": [
     {
       "name": "txt",
@@ -18,16 +18,6 @@
     }
   ],
   "sites": [
-    {
-      "key": "T4vod",
-      "name": "T4主页",
-      "type": 4,
-      "api": "https://t4.饭太硬.ml/vod",
-      "searchable": "0",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "1"
-    },
     {
       "key": "csp_YQKAPP",
       "name": "一起看",
@@ -64,17 +54,6 @@
       "ext": "https://gst163.github.io/s/nongminyingshi.json"
     },
     {
-      "key": "csp_panghu",
-      "name": "胖虎",
-      "type": 3,
-      "api": "csp_Panghu",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": "1"
-    },
-    {
       "key": "csp_AppMr",
       "name": "明明",
       "type": 3,
@@ -90,10 +69,11 @@
       "name": "图图",
       "type": 3,
       "api": "csp_AppTT",
-      "m3u8ads": "hd.youyhn.com",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": "1",
       "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
     },
     {
@@ -165,7 +145,7 @@
     },
     {
       "key": "csp_Xinsj",
-      "name": "新视觉",
+      "name": "视觉",
       "type": 3,
       "api": "csp_Xinsj",
       "playerType": "2",
@@ -176,8 +156,20 @@
       "ext": "https://www.6080dy3.com"
     },
     {
+      "key": "csp_MeiJu69",
+      "name": "69美剧",
+      "type": 3,
+      "api": "csp_MeiJu69",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": "1",
+      "ext": "https://www.69mj.com/"
+    },
+    {
       "key": "csp_Ysgc",
-      "name": "影视",
+      "name": "工厂",
       "type": 3,
       "api": "csp_Ysgc",
       "playerType": "2",
@@ -200,79 +192,26 @@
       "ext": "https://tv.libvio.cc/"
     },
     {
-      "key": "csp_Vofl",
+      "key": "csp_Voflix",
       "name": "Voflix",
       "type": 3,
       "api": "csp_Voflix",
       "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "1"
-    },
-    {
-      "key": "csp_Lgyy",
-      "name": "蓝光",
-      "type": 3,
-      "api": "csp_Lgyy",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "https://www.lgyy.vip"
-    },
-    {
-      "key": "csp_MeiJu69",
-      "name": "69美剧",
-      "type": 3,
-      "api": "csp_MeiJu69",
-      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": "1",
-      "ext": "https://www.69mj.com/"
-    },
-    {
-      "key": "Smdyy",
-      "name": "神马",
-      "type": 3,
-      "api": "csp_Smdyy",
-      "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
       "changeable": "1"
-    },
-    {
-      "key": "csp_Nkdy",
-      "name": "耐看",
-      "type": 3,
-      "api": "csp_Nkdy",
-      "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "1"
-    },
-    {
-      "key": "csp_XBPQ_乐猪",
-      "name": "乐猪",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/lz.json"
     },
     {
       "key": "Bili",
       "name": "哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
+      "playerType": "2",
+      "searchable": "0",
+      "quickSearch": "0",
       "filterable": "1",
-      "changeable": 0,
+      "changeable": "0",
       "ext": "https://amanchi1208.github.io/json/bl.json"
     },
     {
@@ -280,6 +219,38 @@
       "name": "奥特",
       "type": 3,
       "api": "csp_Auete",
+      "playerType": "2",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "changeable": "1"
+    },
+    {
+      "key": "csp_BuLei",
+      "name": "布雷",
+      "type": 3,
+      "api": "csp_BuLei",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://v.bulei.cc/"
+    },
+    {
+      "key": "csp_panghu",
+      "name": "胖虎",
+      "type": 3,
+      "api": "csp_Panghu",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": "1"
+    },
+    {
+      "key": "csp_Nkdy",
+      "name": "耐看",
+      "type": 3,
+      "api": "csp_Nkdy",
       "playerType": "2",
       "searchable": "1",
       "quickSearch": "1",
@@ -297,6 +268,39 @@
       "filterable": "1",
       "changeable": "1",
       "ext": "https://www.555dyy1.com"
+    },
+    {
+      "key": "csp_XBPQ_乐猪",
+      "name": "乐猪",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "2",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "changeable": "1",
+      "ext": "https://amanchi1208.github.io/json/lz.json"
+    },
+    {
+      "key": "Smdyy",
+      "name": "神马",
+      "type": 3,
+      "api": "csp_Smdyy",
+      "playerType": "2",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "changeable": "1"
+    },
+    {
+      "key": "csp_Lgyy",
+      "name": "蓝光",
+      "type": 3,
+      "api": "csp_Lgyy",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "https://www.lgyy.vip"
     },
     {
       "key": "LiteApple",
@@ -336,10 +340,10 @@
       "name": "动漫",
       "type": 3,
       "api": "csp_Dm84",
-      "playerType": "2",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
+      "playerType": "2",
       "changeable": "1"
     },
     {
@@ -366,7 +370,7 @@
     },
     {
       "key": "Itv",
-      "name": "爱奇艺",
+      "name": "奇艺",
       "type": 3,
       "api": "csp_Itv",
       "playerType": "2",
@@ -405,20 +409,20 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": 0,
+      "changeable": "0",
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
     },
     {
-      "key": "Zhaozy",
-      "name": "找资源",
+      "key": "csp_FanYY",
+      "name": "影音",
       "type": 3,
-      "api": "csp_Zhaozy",
+      "api": "csp_FanYY",
       "playerType": "1",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": "0",
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
     },
     {
       "key": "YiSo",
@@ -429,7 +433,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": 0,
+      "changeable": "0",
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
     },
     {
@@ -441,7 +445,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": 0,
+      "changeable": "0",
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
     },
     {
@@ -453,27 +457,36 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": 0,
+      "changeable": "0",
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "playerType": "1",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "changeable": "0",
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"
     },
     {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
       "api": "csp_Push",
-      "playerType": "1",
+      "playerType": "2",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
+      "changeable": "0",
+      "jar": "https://amanchi1208.github.io/jar/fm.jar",
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
     }
   ],
   "parses": [
-    {
-      "name": "8号线",
-      "type": 0,
-      "url": "https://byg.ziqj5.shop/?url="
-    },
     {
       "name": "lanlan",
       "type": 1,
@@ -483,11 +496,6 @@
           "User-Agent": "Dart/2.14(dart:io)"
         }
       }
-    },
-    {
-      "name": "1",
-      "type": 1,
-      "url": "http://j.grelighting.cn/parser/?url="
     },
     {
       "name": "blbo",
@@ -510,19 +518,9 @@
       "url": "https://jx.777jiexi.com/player/?url="
     },
     {
-      "name": "三三解析",
-      "type": 1,
-      "url": "https://jiexi.parses.repl.co/api.php?url="
-    },
-    {
       "name": "art1",
       "type": 1,
       "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="
-    },
-    {
-      "name": "rx2",
-      "type": 1,
-      "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
     },
     {
       "name": "key",
@@ -533,6 +531,11 @@
       "name": "love",
       "type": 1,
       "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v="
+    },
+    {
+      "name": "1",
+      "type": 1,
+      "url": "http://j.grelighting.cn/parser/?url="
     },
     {
       "name": "a",
@@ -551,6 +554,21 @@
     },
     {
       "name": "d",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "icu",
+      "type": 1,
+      "url": "https://api.json.icu/api/?key=9a820717fcc751d583a6bb36a15a5b6a&url="
+    },
+    {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "jsonplayer",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
     }
@@ -751,6 +769,7 @@
     }
   ],
   "ads": [
+    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
     "www.google-analytics.com",
