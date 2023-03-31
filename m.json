@@ -391,6 +391,39 @@
       "changeable": 0
     },
     {
+      "key": "直播转点播",
+      "name": "电视",
+      "type": 3,
+      "playerType": "2",
+      "changeable": 0,
+      "searchable": 0,
+      "filterable": 0,
+      "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
+      "ext": "http://我不是.肥猫.love:63/lives/直播仓.json"
+    },
+    {
+      "key": "drpy_js_有声小说吧",
+      "name": "听书",
+      "type": 3,
+      "playerType": "2",
+      "changeable": 0,
+      "searchable": 0,
+      "filterable": 0,
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "ext": "http://alist.xn--z7x900a.love:63/有声小说吧.js"
+    },
+    {
+      "key": "drpy_js_蜻蜓FM",
+      "name": "广播",
+      "type": 3,
+      "playerType": "2",
+      "changeable": 0,
+      "searchable": 0,
+      "filterable": 0,
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "ext": "http://alist.xn--z7x900a.love:63/蜻蜓FM.js"
+    },
+    {
       "key": "AList",
       "name": "AList",
       "type": 3,
