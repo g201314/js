@@ -19,6 +19,16 @@
   ],
   "sites": [
     {
+      "key": "js豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js",
+      "ext": "http://v.tvfan.top:88/tvbox/js/drpy.js"
+    },
+    {
       "key": "csp_YQKAPP",
       "name": "一起看",
       "type": 3,
@@ -180,16 +190,16 @@
       "ext": "https://www.ysgc.fun"
     },
     {
-      "key": "csp_Lib",
+      "key": "pyjsLib",
       "name": "Libvio",
       "type": 3,
-      "api": "csp_Libvio",
       "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "changeable": "1",
-      "ext": "https://tv.libvio.cc/"
+      "api": "http://vod.98nb.com/gzpz/tslib/drpy2.min.js",
+      "ext": "http://vod.98nb.com/gzpz/jspy/LIBVIO.js"
     },
     {
       "key": "csp_Voflix",
