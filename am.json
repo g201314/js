@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;61bca6e5fd49bef5a2834109f23303a9",
+  "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;295e3d68b91b30e3e690d0a3380e5da1",
   "lives": [
     {
       "name": "txt",
@@ -18,6 +18,16 @@
     }
   ],
   "sites": [
+    {
+      "key": "js豆瓣",
+      "name": "豆瓣推荐",
+      "type": 3,
+      "api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js",
+      "ext": "http://v.tvfan.top:88/tvbox/js/drpy.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
     {
       "key": "csp_YQKAPP",
       "name": "一起看",
