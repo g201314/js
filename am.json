@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;295e3d68b91b30e3e690d0a3380e5da1",
+  "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;2427acdd749c3d413e3c9d16d4bebce3",
   "lives": [
     {
       "name": "txt",
@@ -592,11 +592,6 @@
       "name": "key",
       "type": 1,
       "url": "http://svip.key521.cn/analysis/json/?uid=22&my=acdgimotxCHLNOTX16&url="
-    },
-    {
-      "name": "love",
-      "type": 1,
-      "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v="
     },
     {
       "name": "1",
