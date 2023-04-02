@@ -432,7 +432,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://amanchi1208.github.io/json/xx.json"
+      "ext": "https://amanchi1208.github.io/json/learn.json"
     },
     {
       "key": "直播转点播",
@@ -488,7 +488,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "0",
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
     {
       "key": "csp_FanYY",
@@ -500,7 +500,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": "0",
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
     {
       "key": "YiSo",
@@ -512,7 +512,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "0",
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
     {
       "key": "PanSou",
@@ -524,7 +524,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "0",
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
     {
       "key": "UpYun",
@@ -536,7 +536,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "0",
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
     {
       "key": "Zhaozy",
@@ -548,7 +548,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "0",
-      "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"
+      "ext": "https://amanchi1208.github.io/txt/token.txt$$$yingshi$$$abcd1234"
     },
     {
       "key": "push_agent",
@@ -561,7 +561,7 @@
       "filterable": 0,
       "changeable": "0",
       "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;3b702732dd7f792513d3f3cf006f8898",
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "ext": "https://amanchi1208.github.io/txt/token.txt"
     }
   ],
   "parses": [
