@@ -519,11 +519,11 @@
       "name": "资源",
       "type": 3,
       "api": "csp_Zhaozy",
-      "playerType": "1",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "0",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
       "ext": "https://amanchi1208.github.io/txt/token.txt$$$yingshi$$$abcd1234"
     },
     {
