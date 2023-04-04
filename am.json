@@ -468,17 +468,6 @@
       "ext": "http://alist.xn--z7x900a.love:63/蜻蜓FM.js"
     },
     {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "playerType": "2",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://amanchi1208.github.io/json/alist.json"
-    },
-    {
       "key": "csp_Paper",
       "name": "纸条",
       "type": 3,
