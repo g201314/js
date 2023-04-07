@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;2427acdd749c3d413e3c9d16d4bebce3",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;4e76031a18cb23b27867a2c0829492b7",
   "lives": [
     {
       "name": "txt",
@@ -131,6 +131,17 @@
       "changeable": "1"
     },
     {
+      "key": "csp_Dy1010",
+      "name": "1010",
+      "type": 3,
+      "api": "csp_Dy1010",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": "1"
+    },
+    {
       "key": "csp_Bttoo",
       "name": "Bttoo",
       "type": 3,
@@ -168,14 +179,14 @@
     {
       "key": "csp_MeiJu69",
       "name": "69美剧",
+      "api": "csp_AppYsV2",
       "type": 3,
-      "api": "csp_MeiJu69",
       "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
       "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
       "changeable": "1",
-      "ext": "https://www.69mj.com/"
+      "ext": "https://www.69mj.com/xgapp.php/v2/"
     },
     {
       "key": "csp_Ysgc",
@@ -195,8 +206,9 @@
       "type": 3,
       "api": "csp_Libvio",
       "playerType": "2",
-      "quickSearch": 1,
-      "filterable": 1,
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
       "changeable": "1",
       "ext": "https://tv.libvio.cc/"
     },
@@ -400,6 +412,40 @@
       "changeable": 0
     },
     {
+      "key": "csp_Nbys",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "playerType": "2",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "changeable": "0"
+    },
+    {
+      "key": "csp_trj",
+      "name": "唐人",
+      "type": 3,
+      "api": "csp_Tangrenjie",
+      "playerType": "2",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "changeable": "0"
+    },
+    {
+      "key": "学习",
+      "name": "学习",
+      "type": 3,
+      "api": "csp_Bili",
+      "playerType": "2",
+      "changeable": 0,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://amanchi1208.github.io/json/learn.json"
+    },
+    {
       "key": "直播转点播",
       "name": "电视",
       "type": 3,
@@ -433,26 +479,16 @@
       "ext": "http://alist.xn--z7x900a.love:63/蜻蜓FM.js"
     },
     {
-      "key": "学习",
-      "name": "学习",
+      "key": "Zhaozy",
+      "name": "资源",
       "type": 3,
-      "api": "csp_Bili",
-      "playerType": "2",
-      "changeable": 0,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://amanchi1208.github.io/json/learn.json"
-    },
-    {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
+      "api": "csp_Zhaozy",
+      "playerType": 1,
       "searchable": 1,
-      "filterable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
       "changeable": 0,
-      "ext": "https://amanchi1208.github.io/json/alist.json"
+      "ext": "https://amanchi1208.github.io/txt/token.txt$$$temp$$$abc123"
     },
     {
       "key": "csp_Paper",
@@ -524,7 +560,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://amanchi1208.github.io/txt/token.txt$$$temp$$$abc123"
+      "ext": "https://amanchi1208.github.io/txt/token.txt$$$yingshi$$$abcd1234"
     },
     {
       "key": "push_agent",
