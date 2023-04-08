@@ -479,18 +479,6 @@
       "ext": "http://alist.xn--z7x900a.love:63/蜻蜓FM.js"
     },
     {
-      "key": "Zhaozy",
-      "name": "资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "https://amanchi1208.github.io/txt/token.txt$$$temp$$$abc123"
-    },
-    {
       "key": "csp_Paper",
       "name": "纸条",
       "type": 3,
