@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;4e76031a18cb23b27867a2c0829492b7",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;613066b0150c902b3d51bde7a433be83",
   "lives": [
     {
       "name": "txt",
@@ -73,6 +73,18 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "1"
+    },
+    {
+      "key": "csp_AppTT",
+      "name": "图图",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": "1",
+      "ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
     },
     {
       "key": "csp_Kunyu77",
@@ -501,6 +513,18 @@
       "filterable": 1,
       "changeable": "0",
       "ext": "https://amanchi1208.github.io/txt/token.txt"
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "Wo",
+      "type": 3,
+      "api": "csp_WoGG",
+      "playerType": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": "0",
+      "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
     },
     {
       "key": "YiSo",
