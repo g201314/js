@@ -1,5 +1,5 @@
 {
-    "spider": "https://amanchi1208.github.io/jar/custom_spider.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a",
+    "spider": "https://amanchi1208.github.io/jar/custom_spider.jar;md5;b6ec08b3b229db2be16b5975104b7e56",
     "wallpaper": "https://gao.chuqiuyu.tk",
     "sites": [
         {
@@ -596,8 +596,7 @@
             "api": "csp_Push",
             "searchable": 1,
             "filterable": 1,
-            "changeable": 0,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+            "changeable": 0
         }
     ]
 }
