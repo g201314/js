@@ -424,19 +424,6 @@
       "changeable": 0
     },
     {
-      "key": "csp_Nbys",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "0",
-      "jar":"https://amanchi1208.github.io/jar/fm.jar;",
-      "ext":"0;http://43.207.229.151:443"
-    },
-    {
       "key": "学习",
       "name": "学习",
       "type": 3,
