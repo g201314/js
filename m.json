@@ -177,18 +177,6 @@
       "ext": "https://www.6080dy3.com"
     },
     {
-      "key": "csp_Jianying",
-      "name": "简影",
-      "type": 3,
-      "api": "csp_Jianying",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": "1",
-      "ext": "hjju123@qq.com$$$123456"
-    },
-    {
       "key": "csp_MeiJu69",
       "name": "69美剧",
       "api": "csp_AppYsV2",
@@ -199,6 +187,18 @@
       "searchable": 1,
       "changeable": "1",
       "ext": "https://www.69mj.com/xgapp.php/v2/"
+    },
+    {
+      "key": "csp_Jianying",
+      "name": "简影",
+      "type": 3,
+      "api": "csp_Jianying",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": "1",
+      "ext": "hjju123@qq.com$$$123456"
     },
     {
       "key": "csp_Ysgc",
@@ -424,28 +424,6 @@
       "changeable": 0
     },
     {
-      "key": "csp_Nbys",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "0"
-    },
-    {
-      "key": "csp_trj",
-      "name": "唐人",
-      "type": 3,
-      "api": "csp_Tangrenjie",
-      "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "0"
-    },
-    {
       "key": "学习",
       "name": "学习",
       "type": 3,
@@ -456,17 +434,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://amanchi1208.github.io/json/learn.json"
-    },
-    {
-      "key": "直播转点播",
-      "name": "电视",
-      "type": 3,
-      "playerType": "2",
-      "changeable": 0,
-      "searchable": 0,
-      "filterable": 0,
-      "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
-      "ext": "http://我不是.肥猫.love:63/lives/直播仓.json"
     },
     {
       "key": "drpy_js_有声小说吧",
