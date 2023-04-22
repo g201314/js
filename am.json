@@ -577,6 +577,11 @@
       }
     },
     {
+      "name":"iizny",
+      "type":1,
+      "url":"https://player.iizny.com/?url="
+    },
+    {
       "name": "blbo",
       "type": 1,
       "url": "https://vip.blbo.cc:2222/api/?key=9f230d947680de53b544be747efa8e54&url="
