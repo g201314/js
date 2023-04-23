@@ -424,6 +424,18 @@
       "changeable": 0
     },
     {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "playerType": "2",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "https://amanchi1208.github.io/jar/fm.jar",
+      "ext": "https://127.0.0.1:12589"
+    },
+    {
       "key": "学习",
       "name": "学习",
       "type": 3,
