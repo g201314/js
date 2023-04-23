@@ -433,7 +433,7 @@
       "filterable": 1,
       "changeable": 0,
       "jar": "https://amanchi1208.github.io/jar/fm.jar",
-      "ext": "https://127.0.0.1:12589"
+      "ext": "0;https://127.0.0.1:12589"
     },
     {
       "key": "学习",
