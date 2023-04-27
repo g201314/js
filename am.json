@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;43927c91e9c631d24057be2e400dc8a5",
+  "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;3fb7a166650cde24e9bf51bc5c76e73c",
   "lives": [
     {
       "name": "txt",
@@ -73,18 +73,6 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "1"
-    },
-    {
-      "key": "csp_AppTT",
-      "name": "图图",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": "1",
-      "ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
     },
     {
       "key": "csp_Kunyu77",
@@ -263,10 +251,12 @@
       "name": "布雷",
       "type": 3,
       "api": "csp_BuLei",
+      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://v.bulei.cc/"
+      "changeable": "1",
+      "ext": "http://v.ilime.cc$$$login$$$dxawi111$$$dxawi111"
     },
     {
       "key": "csp_panghu",
@@ -492,18 +482,6 @@
       "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
     {
-      "key": "csp_FanYY",
-      "name": "影音",
-      "type": 3,
-      "api": "csp_FanYY",
-      "playerType": "1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": "0",
-      "ext": "https://amanchi1208.github.io/txt/token.txt"
-    },
-    {
       "key": "csp_WoGG",
       "name": "Wo",
       "type": 3,
@@ -577,9 +555,9 @@
       }
     },
     {
-      "name":"iizny",
-      "type":1,
-      "url":"https://player.iizny.com/?url="
+      "name": "iizny",
+      "type": 1,
+      "url": "https://player.iizny.com/?url="
     },
     {
       "name": "blbo",
