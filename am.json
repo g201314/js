@@ -437,6 +437,18 @@
       "changeable": "0"
     },
     {
+      "key": "獨播",
+      "name": "獨播",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "playerType": "2",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "https://amanchi1208.github.io/jar/custom_spider.jar;md5;9eb909e7a180e28b617c5fd15bda5b22",
+      "ext": "https://amanchi1208.github.io/json/duboku.json"
+    },
+    {
       "key": "csp_trj",
       "name": "唐人",
       "type": 3,
