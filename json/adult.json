@@ -10,14 +10,13 @@
     ],
     "sites": [
         {
-            "key": "js豆瓣",
-            "name": "豆瓣",
+            "key": "櫻花",
+            "name": "櫻花",
             "type": 3,
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/豆瓣.js"
+            "api": "csp_Ying",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "泥巴",
