@@ -5,14 +5,14 @@
     {
       "name": "txt",
       "type": 0,
-      "url": "https://amanchi1208.github.io/txt/live.txt",
+      "url": "./txt/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "Json",
       "type": 1,
-      "url": "https://amanchi1208.github.io/json/live.json",
+      "url": "./json/live.json",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
       "logo": "http://epg.51zmt.top:8000/{logo}"
     }
@@ -25,8 +25,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js",
-      "ext": "http://v.tvfan.top:88/tvbox/js/drpy.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/豆瓣.js"
     },
     {
       "key": "csp_YQKAPP",
@@ -61,7 +61,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "1",
-      "ext": "https://amanchi1208.github.io/json/nm.json"
+      "ext": "./json/nm.json"
     },
     {
       "key": "csp_AppMr",
@@ -318,7 +318,7 @@
       "quickSearch": "0",
       "filterable": "1",
       "changeable": "0",
-      "ext": "https://amanchi1208.github.io/json/bl.json"
+      "ext": "./json/bl.json"
     },
     {
       "key": "csp_Auete",
@@ -485,18 +485,18 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://amanchi1208.github.io/json/learn.json"
+      "ext": "./json/learn.json"
     },
     {
-      "key": "drpy_js_有声小说吧",
+      "key": "drpy_js_有声小说",
       "name": "听书",
       "type": 3,
       "playerType": "2",
       "changeable": 0,
       "searchable": 0,
       "filterable": 0,
-      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-      "ext": "http://alist.xn--z7x900a.love:63/有声小说吧.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/有声小说网.js"
     },
     {
       "key": "drpy_js_蜻蜓FM",
@@ -506,8 +506,8 @@
       "changeable": 0,
       "searchable": 0,
       "filterable": 0,
-      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-      "ext": "http://alist.xn--z7x900a.love:63/蜻蜓FM.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": ".js/FM.js"
     },
     {
       "key": "csp_WoGG",
@@ -531,7 +531,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "0",
-      "ext": "https://amanchi1208.github.io/txt/token.txt"
+      "ext": "./txt/token.txt"
     },
     {
       "key": "PanSou",
@@ -543,7 +543,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "0",
-      "ext": "https://amanchi1208.github.io/txt/token.txt"
+      "ext": "./txt/token.txt"
     },
     {
       "key": "UpYun",
@@ -555,7 +555,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "0",
-      "ext": "https://amanchi1208.github.io/txt/token.txt"
+      "ext": "./txt/token.txt"
     },
     {
       "key": "push_agent",
@@ -567,8 +567,8 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": "0",
-      "jar": "https://amanchi1208.github.io/jar/fm.jar;md5;3b702732dd7f792513d3f3cf006f8898",
-      "ext": "https://amanchi1208.github.io/txt/token.txt"
+      "jar": "./jar/fm.jar;",
+      "ext": "./txt/token.txt"
     }
   ],
   "parses": [
