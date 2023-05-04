@@ -522,7 +522,7 @@
       "ext": "./json/learn.json"
     },
     {
-      "key": "drpy_js_有声小说网",
+      "key": "drpy_js_有声听书网",
       "name": "听书",
       "type": 3,
       "playerType": "2",
@@ -530,7 +530,7 @@
       "searchable": 0,
       "filterable": 0,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/有声小说网.js"
+      "ext": "./js/有声听书网.js"
     },
     {
       "key": "drpy_js_蜻蜓FM",
