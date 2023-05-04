@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;e911ef9b3f3c5101a90cdfd022f566f0",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;ef9c0413c4a3d077ee95325fb5d1d02b",
   "lives": [
     {
       "name": "txt",
@@ -118,6 +118,69 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "1"
+    },
+    {
+      "key": "drpy_js_LIBVIO",
+      "name": "LIBVIO[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/LIBVIO.js"
+    },
+    {
+      "key": "drpy_js_HDmoli",
+      "name": "HDmoli[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/HDmoli.js"
+    },
+    {
+      "key": "drpy_js_Voflix",
+      "name": "Voflix[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/Voflix.js"
+    },
+    {
+      "key": "drpy_js_人人",
+      "name": "人人[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/人人.js"
+    },
+    {
+      "key": "drpy_js_乐猪TV",
+      "name": "乐猪TV[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/乐猪TV.js"
+    },
+    {
+      "key": "drpy_js_花猫TV",
+      "name": "花猫TV[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/花猫TV.js"
+    },
+    {
+      "key": "drpy_js_新片场",
+      "name": "新片场[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/新片场.js"
+    },
+    {
+      "key": "drpy_js_达达龟",
+      "name": "达达龟[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/达达龟.js"
+    },
+    {
+      "key": "drpy_js_皮皮鸭",
+      "name": "皮皮鸭[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/皮皮鸭.js"
     },
     {
       "key": "csp_DiDuan",
