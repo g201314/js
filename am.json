@@ -556,6 +556,17 @@
       "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
     },
     {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "playerType": "1",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./json/alist.json"
+    },
+    {
       "key": "YiSo",
       "name": "易搜",
       "type": 3,
@@ -592,6 +603,16 @@
       "ext": "./txt/token.txt"
     },
     {
+      "key": "本地",
+      "name": "本地",
+      "type": 3,
+      "api": "csp_Local",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "jar ": "./jar/fm.jar"
+    },
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
@@ -601,7 +622,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": "0",
-      "jar": "./jar/fm.jar;",
+      "jar": "./jar/fm.jar",
       "ext": "./txt/token.txt"
     }
   ],
