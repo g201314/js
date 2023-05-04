@@ -1,6 +1,14 @@
 {
     "spider": "https://amanchi1208.github.io/jar/fm.jar;",
     "wallpaper": "https://gao.chuqiuyu.tk",
+    "lives": [
+        {
+            "name": "txt",
+            "type": 0,
+            "url": "./txt/adult.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        }
+    ],
     "sites": [
         {
             "key": "js豆瓣",
