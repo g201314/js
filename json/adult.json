@@ -10,13 +10,14 @@
     ],
     "sites": [
         {
-            "key": "櫻花",
-            "name": "櫻花",
+            "key": "js豆瓣",
+            "name": "豆瓣推荐",
             "type": 3,
-            "api": "csp_Ying",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
+            "api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js",
+            "ext": "http://v.tvfan.top:88/tvbox/js/drpy.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
         },
         {
             "key": "泥巴",
