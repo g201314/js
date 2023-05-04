@@ -1,4 +1,4 @@
-直播，#genre#
+直播,#genre#
 CCTV-1,http://cntv.sbs/live?id=cctv1
 CCTV-2,http://cntv.sbs/live?id=cctv2
 CCTV-3,http://cntv.sbs/live?id=cctv3
