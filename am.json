@@ -61,7 +61,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "1",
-      "ext": "https://gst163.github.io/s/nongminyingshi.json"
+      "ext": "https://amanchi1208.github.io/json/nm.json"
     },
     {
       "key": "csp_AppMr",
@@ -542,18 +542,6 @@
       "filterable": 0,
       "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
       "ext": "http://alist.xn--z7x900a.love:63/蜻蜓FM.js"
-    },
-    {
-      "key": "csp_Paper",
-      "name": "纸条",
-      "type": 3,
-      "api": "csp_Paper",
-      "playerType": "1",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "0",
-      "ext": "https://amanchi1208.github.io/txt/token.txt"
     },
     {
       "key": "csp_WoGG",
