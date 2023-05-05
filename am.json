@@ -600,7 +600,7 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
-      "jar ": "https://amanchi1208.github.io/jar/fm.jar"
+      "jar ": "./jar/fm.jar"
     },
     {
       "key": "push_agent",
