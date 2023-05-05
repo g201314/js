@@ -600,7 +600,7 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
-      "jar ": "./jar/fm.jar"
+      "jar ": "https://amanchi1208.github.io/jar/fm.jar;md5;e276d142b10b9f2c2971664d0b9dc9a3"
     },
     {
       "key": "push_agent",
@@ -612,7 +612,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": "0",
-      "jar": "./jar/fm.jar",
+      "jar": "./jar/fm.jar;md5;e276d142b10b9f2c2971664d0b9dc9a3",
       "ext": "./txt/token.txt"
     }
   ],
