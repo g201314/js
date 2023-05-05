@@ -444,7 +444,7 @@
     },
     {
       "key": "drpy_js_爱",
-      "name": "爱奇艺",
+      "name": "奇艺",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/iqiyi.js",
@@ -627,6 +627,16 @@
       "name": "XM",
       "type": 0,
       "url": "https://dm.xmflv.com:4433/?url="
+    },
+    {
+      "name": "zlb",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url="
+    },
+    {
+      "name": "m3u8",
+      "type": 0,
+      "url": "https://jx.m3u8.pw/?url="
     },
     {
       "name": "Par",
