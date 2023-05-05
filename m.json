@@ -558,6 +558,17 @@
       "ext": "./txt/token.txt"
     },
     {
+      "key": "本地",
+      "name": "本地",
+      "type": 3,
+      "api": "csp_Local",
+      "playerType": "2",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "jar ": "./jar/fm.jar"
+    },
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
