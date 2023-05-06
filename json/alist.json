@@ -2,11 +2,19 @@
   "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
   "drives": [
     {
-      "name": "一只魚",
-      "server": "http://vtok.pp.ua/"
+      "name": "💢Alist测试",
+      "server": "https: //ali.liucn.repl.co"
     },
     {
-      "name": "七米藍",
+      "name": "晴园的宝藏库",
+      "server": "https://alist.52qy.repl.co"
+    },
+    {
+      "name": "一只鱼",
+      "server": "https://alist.youte.ml"
+    },
+    {
+      "name": "七米蓝",
       "server": "https://al.chirmyram.com"
     },
     {
@@ -14,13 +22,36 @@
       "server": "https://alist.shenzjd.com"
     },
     {
-      "name": "梓澪",
-      "server": "https://zi0.cc/"
+      "name": "姬路白雪の小站",
+      "server": "https://pan.jlbx.xyz"
     },
     {
-      "name":"若水",
-      "server":"http://shicheng.wang:555"
+      "name": "帅盘",
+      "server": "https://hi.shuaipeng.wang"
+    },
+    {
+      "name": "DISK",
+      "server": "http://124.222.140.243:8080"
+    },
+    {
+      "name": "云播放",
+      "server": "https://quanzi.laoxianghuijia.cn"
+    },
+    {
+      "name": "触光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "资源小站",
+      "server": "https://960303.xyz/"
+    },
+    {
+      "name": "梵天",
+      "server": "https://iemo.fun/"
+    },
+    {
+      "name": "若水",
+      "server": "http://shicheng.wang:555"
     }
-
   ]
 }
