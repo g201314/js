@@ -616,17 +616,6 @@
       "jar": "./jar/fm.jar"
     },
     {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "jar": "./jar/fm.jar",
-      "ext": "./json/alist.json"
-    },
-    {
       "key": "WebDAV",
       "name": "WebDAV",
       "type": 3,
