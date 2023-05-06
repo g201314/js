@@ -75,18 +75,6 @@
       "changeable": "1"
     },
     {
-      "key": "csp_AppTT",
-      "name": "图图",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": "1",
-      "ext": "dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-    },
-    {
       "key": "csp_Kunyu77",
       "name": "七七",
       "type": 3,
@@ -262,18 +250,6 @@
       "ext": "https://www.69mj.com/xgapp.php/v2/"
     },
     {
-      "key": "csp_Jianying",
-      "name": "简影",
-      "type": 3,
-      "api": "csp_Jianying",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": "1",
-      "ext": "hjju123@qq.com$$$123456"
-    },
-    {
       "key": "csp_Ysgc",
       "name": "工厂",
       "type": 3,
@@ -298,6 +274,17 @@
       "ext": "https://tv.libvio.cc/"
     },
     {
+      "key": "csp_Bttoo",
+      "name": "Bttoo",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": "1"
+    },
+    {
       "key": "csp_Voflix",
       "name": "Voflix",
       "type": 3,
@@ -319,6 +306,18 @@
       "filterable": "1",
       "changeable": "0",
       "ext": "./json/bl.json"
+    },
+    {
+      "key": "学习",
+      "name": "学习",
+      "type": 3,
+      "api": "csp_Bili",
+      "playerType": "2",
+      "changeable": 0,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./json/learn.json"
     },
     {
       "key": "csp_Auete",
@@ -491,6 +490,28 @@
       "changeable": 0
     },
     {
+      "key": "drpy_js_有声小说r",
+      "name": "听书",
+      "type": 3,
+      "playerType": "2",
+      "changeable": 0,
+      "searchable": 0,
+      "filterable": 0,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/有声小说.js"
+    },
+    {
+      "key": "drpy_js_蜻蜓FM",
+      "name": "广播",
+      "type": 3,
+      "playerType": "2",
+      "changeable": 0,
+      "searchable": 0,
+      "filterable": 0,
+      "api": "./lib/drpy2.min.js",
+      "ext": ".js/蜻蜓FM.js"
+    },
+    {
       "key": "csp_Nbys",
       "name": "泥巴",
       "type": 3,
@@ -525,40 +546,6 @@
       "changeable": "0"
     },
     {
-      "key": "学习",
-      "name": "学习",
-      "type": 3,
-      "api": "csp_Bili",
-      "playerType": "2",
-      "changeable": 0,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./json/learn.json"
-    },
-    {
-      "key": "drpy_js_有声小说r",
-      "name": "听书",
-      "type": 3,
-      "playerType": "2",
-      "changeable": 0,
-      "searchable": 0,
-      "filterable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/有声小说.js"
-    },
-    {
-      "key": "drpy_js_蜻蜓FM",
-      "name": "广播",
-      "type": 3,
-      "playerType": "2",
-      "changeable": 0,
-      "searchable": 0,
-      "filterable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": ".js/蜻蜓FM.js"
-    },
-    {
       "key": "csp_WoGG",
       "name": "Wo",
       "type": 3,
@@ -569,6 +556,18 @@
       "filterable": 1,
       "changeable": "0",
       "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+    },
+    {
+      "key": "七夜",
+      "name": "七夜",
+      "type": 3,
+      "api": "csp_Dovx",
+      "playerType": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "./txt/token.txt"
     },
     {
       "key": "YiSo",
@@ -692,6 +691,43 @@
       "name": "m3u8",
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="
+    },
+    {
+      "name": "365",
+      "type": 0,
+      "url": "https://chaxun.truechat365.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "iqiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
+    {
+      "name": "xmflv",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "yemu",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url="
     },
     {
       "name": "lanlan",
