@@ -180,6 +180,18 @@
       "changeable": "1"
     },
     {
+      "key": "drpy_js_思古",
+      "name": "思古",
+      "type": 3,
+      "playerType": "2",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/思古影视.js",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "changeable": "1"
+    },
+    {
       "key": "drpy_js_皮皮鸭",
       "name": "皮皮鸭",
       "type": 3,
