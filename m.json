@@ -75,18 +75,6 @@
       "changeable": "1"
     },
     {
-      "key": "csp_AppTT",
-      "name": "图图",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": "1",
-      "ext": "dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-    },
-    {
       "key": "csp_Kunyu77",
       "name": "七七",
       "type": 3,
@@ -192,6 +180,30 @@
       "changeable": "1"
     },
     {
+      "key": "drpy_js_思古",
+      "name": "思古",
+      "type": 3,
+      "playerType": "2",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/思古影视.js",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "changeable": "1"
+    },
+    {
+      "key": "drpy_js_莫扎兔",
+      "name": "莫扎兔",
+      "type": 3,
+      "playerType": "2",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/莫扎兔.js",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "changeable": "1"
+    },
+    {
       "key": "drpy_js_皮皮鸭",
       "name": "皮皮鸭",
       "type": 3,
@@ -260,18 +272,6 @@
       "searchable": 1,
       "changeable": "1",
       "ext": "https://www.69mj.com/xgapp.php/v2/"
-    },
-    {
-      "key": "csp_Jianying",
-      "name": "简影",
-      "type": 3,
-      "api": "csp_Jianying",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": "1",
-      "ext": "hjju123@qq.com$$$123456"
     },
     {
       "key": "csp_Ysgc",
@@ -400,7 +400,7 @@
     },
     {
       "key": "Coke",
-      "name": "可乐",
+      "name": "Cokemv",
       "type": 3,
       "api": "csp_Cokemv",
       "playerType": "2",
