@@ -7,14 +7,16 @@
       "type": 0,
       "url": "./txt/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType":1
     },
     {
       "name": "Json",
       "type": 1,
       "url": "./json/live.json",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-      "logo": "http://epg.51zmt.top:8000/{logo}"
+      "logo": "http://epg.51zmt.top:8000/{logo}",
+      "playerType":"1"
     }
   ],
   "sites": [
