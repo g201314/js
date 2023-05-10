@@ -722,7 +722,6 @@ CCTV-4K 超高清,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/i
 福建武夷山玉女峰,http://gcbsc.v.live.baishancdnx.cn/gc/wysynf_1/index.m3u8
 为天使护航,http://gcksc.v.kcdnvip.com/gc/zsslsfwsgz_1/index.m3u8
 为天使护航,http://gcbsc.v.live.baishancdnx.cn/gc/zsslsfwsgz_1/index.m3u8
-
 YouTube新闻,#genre#
 中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
 华视新闻,https://www.youtube.com/watch?v=wM0g8EoUZ_E
