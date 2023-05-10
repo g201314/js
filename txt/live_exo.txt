@@ -1,4 +1,4 @@
-直播,#genre#
+央视,#genre#
 CCTV-1,http://cntv.sbs/live?id=cctv1
 CCTV-2,http://cntv.sbs/live?id=cctv2
 CCTV-3,http://cntv.sbs/live?id=cctv3
@@ -20,6 +20,7 @@ CCTV-16 4K,http://cntv.sbs/live?id=cctv164k
 CCTV-17,http://cntv.sbs/live?id=cctv17
 CCTV-4K,http://cntv.sbs/live?id=cctv4k
 CGTN,http://cntv.sbs/live?id=cgtn
+地方,#genre#
 北京卫视,http://cntv.sbs/live?id=bjws
 东方卫视,http://cntv.sbs/live?id=dfws
 天津卫视,http://cntv.sbs/live?id=tjws
@@ -84,6 +85,7 @@ CETV1,http://cntv.sbs/live?id=cetv1
 CETV2,http://cntv.sbs/live?id=cetv2
 CETV4,http://cntv.sbs/live?id=cetv4
 中国天气,http://cntv.sbs/live?id=zgtq
+港澳台,#genre#
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
