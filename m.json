@@ -1,20 +1,22 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;c8a8f8cc8fdd30eb58f1bc5ee21dccb3",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;026ef7e0f42062200a7ad97d5585caad",
   "lives": [
     {
-      "name": "txt",
+      "name": "exo",
       "type": 0,
-      "url": "./txt/live.txt",
+      "url": "./txt/live_exo.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType":2
     },
     {
-      "name": "Json",
+      "name": "Ijk",
       "type": 1,
-      "url": "./json/live.json",
+      "url": "./json/live_ijk.json",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-      "logo": "http://epg.51zmt.top:8000/{logo}"
+      "logo": "http://epg.51zmt.top:8000/{logo}",
+      "playerType":1
     }
   ],
   "sites": [
