@@ -3,11 +3,15 @@
 https://raw.iqiq.io/Amanchi1208/amanchi1208.github.io/main/m.json
 ```
 
-##### 配置地址三:
+##### 配置地址二:
 ```
 https://amanchi1208.github.io/am.json
 ```
+#### 配置地址三：
 
+```
+https://raw.iqiq.io/Amanchi1208/amanchi1208.github.io/main/tv.json
+```
 ##### TVbox:
 ```
 https://wwu.lanzoub.com/b02jpwaed

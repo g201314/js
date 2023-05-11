@@ -1,20 +1,22 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://amanchi1208.github.io/jar/ts.jar;md5;ce1f5c25edfd364ed1312933f61a70f4",
+  "spider": "https://amanchi1208.github.io/jar/ts.jar;md5;9a70425188eb8ba94827fafdb9113153",
   "lives": [
     {
-      "name": "txt",
+      "name": "exo",
       "type": 0,
-      "url": "https://amanchi1208.github.io/txt/live.txt",
+      "url": "./txt/live_exo.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 2
     },
     {
-      "name": "Json",
+      "name": "Ijk",
       "type": 1,
-      "url": "https://amanchi1208.github.io/json/live.json",
+      "url": "./json/live_ijk.json",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-      "logo": "http://epg.51zmt.top:8000/{logo}"
+      "logo": "http://epg.51zmt.top:8000/{logo}",
+      "playerType": "1"
     }
   ],
   "sites": [
@@ -23,68 +25,29 @@
       "name": "一起看",
       "type": "3",
       "api": "csp_Dora",
-      "playerType": "2",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": "1",
       "ext": "8e3aefcba838d8dc5102ac786719d837"
-    },
-    {
-      "key": "Hei19",
-      "name": "石榴",
-      "type": "3",
-      "api": "csp_Dora",
-      "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "1",
-      "ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
-    },
-    {
-      "key": "独播库",
-      "name": "独播库",
-      "type": "4",
-      "api": "https://tang.run.goorm.app/duboku",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1"
     },
     {
       "key": "Lgyy",
       "name": "蓝光",
       "type": "3",
       "api": "csp_Dora",
-      "playerType": "2",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": "1",
       "ext": "b2e573ff040fcd54b50475660ee1a7d1"
-    },
-    {
-      "key": "Smdyy",
-      "name": "神马",
-      "type": "3",
-      "api": "csp_Dora",
-      "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "1",
-      "ext": "16705ee9f4764be8499806f52d4bf1e7"
     },
     {
       "key": "Ddys",
       "name": "低端",
       "type": "3",
       "api": "csp_Dora",
-      "playerType": "2",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": "1",
       "ext": "1cc92323700909e7d46623bc85b958d6"
     },
     {
@@ -92,11 +55,9 @@
       "name": "图图",
       "type": "3",
       "api": "csp_Dora",
-      "playerType": "2",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": "1",
       "ext": "110c922de7d69804467fb83d3bb664b5"
     },
     {
@@ -104,11 +65,9 @@
       "name": "爱看",
       "type": "3",
       "api": "csp_Dora",
-      "playerType": "2",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": "1",
       "ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
     },
     {
@@ -116,11 +75,9 @@
       "name": "厂长",
       "type": "3",
       "api": "csp_Dora",
-      "playerType": "2",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": "1",
       "ext": "8ee655f702d0d21f3643504783babbc3"
     },
     {
@@ -128,11 +85,9 @@
       "name": "快看",
       "type": "3",
       "api": "csp_Dora",
-      "playerType": "2",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": "1",
       "ext": "459b1cb892e317546676a2c9dcec2bff"
     },
     {
@@ -140,11 +95,9 @@
       "name": "七七",
       "type": "3",
       "api": "csp_Dora",
-      "playerType": "2",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": "1",
       "ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"
     },
     {
@@ -152,35 +105,19 @@
       "name": "奥特",
       "type": "3",
       "api": "csp_Dora",
-      "playerType": "2",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": "1",
       "ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b"
-    },
-    {
-      "key": "Bili",
-      "name": "哔哩",
-      "type": "3",
-      "api": "csp_Dora",
-      "playerType": "2",
-      "searchable": "0",
-      "quickSearch": "0",
-      "filterable": "1",
-      "changeable": "1",
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://amanchi1208.github.io/json/bljson"
     },
     {
       "key": "Cokemv",
       "name": "可乐",
       "type": "3",
       "api": "csp_Dora",
-      "playerType": "2",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": "1",
       "ext": "b88de1329655cca1beba45aa9776de70"
     },
     {
@@ -188,11 +125,9 @@
       "name": "苹果",
       "type": "3",
       "api": "csp_Dora",
-      "playerType": "2",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": "1",
       "ext": "6deed4548c44b18d268a5d828f04d86e"
     },
     {
@@ -200,35 +135,37 @@
       "name": "SP360",
       "type": "3",
       "api": "csp_Dora",
-      "playerType": "2",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": "1",
       "ext": "9248c57eb22ace4a3431fbd1a979465f"
     },
     {
-      "key": "Zxzj",
-      "name": "在线",
+      "key": "Gitcafe",
+      "name": "纸条",
       "type": "3",
-      "api": "csp_Dora",
-      "playerType": "2",
+      "api": "csp_Paper",
       "searchable": "1",
       "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "1",
-      "ext": "23a412dda32885ae2bcb97b956cd7ad4"
+      "filterable": "1"
+    },
+    {
+      "key": "Upso",
+      "name": "云搜",
+      "type": "3",
+      "api": "csp_UpYun",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1"
     },
     {
       "key": "Lib",
       "name": "Libvio",
       "type": "3",
       "api": "csp_Dora",
-      "playerType": "2",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": "1",
       "ext": "78d057e4d03e47cb62dce13d69b41d6f"
     },
     {
@@ -236,11 +173,9 @@
       "name": "555",
       "type": "3",
       "api": "csp_Dora",
-      "playerType": "2",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": "1",
       "ext": "f41992bd740145ed58cb212dc0876582"
     },
     {
@@ -248,94 +183,47 @@
       "name": "Xiaoh",
       "type": "3",
       "api": "csp_Dora",
-      "playerType": "2",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": "1",
       "ext": "0842c1d2a8534ec62fb3a3ed848851a7"
-    },
-    {
-      "key": "Zxzj",
-      "name": "在线",
-      "type": "3",
-      "api": "csp_Dora",
-      "playerType": "2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "1",
-      "ext": "23a412dda32885ae2bcb97b956cd7ad4"
-    },
-    {
-      "key": "Gitcafe",
-      "name": "纸条",
-      "type": "3",
-      "api": "csp_Paper",
-      "playerType": "1",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
     },
     {
       "key": "Zhaozy",
       "name": "资源",
       "type": "3",
       "api": "csp_Zhaozy",
-      "playerType": "1",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "changeable": "0",
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"
-    },
-    {
-      "key": "Upso",
-      "name": "云搜",
-      "type": "3",
-      "api": "csp_UpYun",
-      "playerType": "1",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+      "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"
     },
     {
       "key": "YiSo",
       "name": "易搜",
       "type": "3",
       "api": "csp_YiSo",
-      "playerType": "1",
       "searchable": "1",
       "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "0",
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+      "filterable": "1"
     },
     {
       "key": "AliPS",
       "name": "盘搜",
       "type": "3",
       "api": "csp_PanSou",
-      "playerType": "1",
       "searchable": "1",
       "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "0",
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+      "filterable": "1"
     },
     {
       "key": "push_agent",
       "name": "PushAgent",
       "type": "3",
       "api": "csp_Push",
-      "playerType": "1",
       "searchable": "1",
       "quickSearch": "1",
-      "filterable": "1",
-      "changeable": "0",
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+      "filterable": "1"
     }
   ],
   "parses": [
