@@ -555,6 +555,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
+      "jar":"./jar/fm.jar",
       "ext": "./json/duboku.json"
     },
     {
