@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;50fc29b6bdddd0b1d1b8a4b995620404",
+  "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;8ab1e35a1845822bbeec2a7e647f809f",
   "lives": [
     {
       "name": "exo",
@@ -300,6 +300,18 @@
       "ext": "https://tv.libvio.cc/"
     },
     {
+      "key": "csp_Jianying",
+      "name": "简影",
+      "type": 3,
+      "api": "csp_Jianying",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": "1",
+      "ext": "hjju123@qq.com$$$123456"
+    },
+    {
       "key": "csp_Bttoo",
       "name": "Bttoo",
       "type": 3,
@@ -543,7 +555,6 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "./jar/fm.jar",
       "ext": "./json/duboku.json"
     },
     {
