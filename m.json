@@ -8,7 +8,7 @@
       "url": "./txt/live_exo.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "playerType":2
+      "playerType": 2
     },
     {
       "name": "Ijk",
@@ -16,7 +16,7 @@
       "url": "./json/live_ijk.json",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
       "logo": "http://epg.51zmt.top:8000/{logo}",
-      "playerType":1
+      "playerType": 1
     }
   ],
   "sites": [
@@ -52,6 +52,18 @@
       "quickSearch": "1",
       "filterable": "1",
       "changeable": "1"
+    },
+    {
+      "key": "csp_appys_酷影",
+      "name": "酷影",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": "1",
+      "ext": "http://kuyun.realku.cn/api.php/app/"
     },
     {
       "key": "农民",

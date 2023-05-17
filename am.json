@@ -54,6 +54,18 @@
       "changeable": "1"
     },
     {
+      "key": "csp_appys_酷影",
+      "name": "酷影",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": "1",
+      "ext": "http://kuyun.realku.cn/api.php/app/"
+    },
+    {
       "key": "农民",
       "name": "农民",
       "type": 3,
@@ -555,7 +567,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar":"./jar/fm.jar",
+      "jar": "./jar/fm.jar",
       "ext": "./json/duboku.json"
     },
     {
