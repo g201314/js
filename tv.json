@@ -16,7 +16,7 @@
       "url": "./json/live_ijk.json",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
       "logo": "http://epg.51zmt.top:8000/{logo}",
-      "playerType": "1"
+      "playerType": 1
     }
   ],
   "sites": [
@@ -26,9 +26,9 @@
       "type": "3",
       "api": "csp_Dora",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "8e3aefcba838d8dc5102ac786719d837"
     },
     {
@@ -37,9 +37,9 @@
       "type": "3",
       "api": "csp_Dora",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "b2e573ff040fcd54b50475660ee1a7d1"
     },
     {
@@ -48,9 +48,9 @@
       "type": "3",
       "api": "csp_Dora",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "1cc92323700909e7d46623bc85b958d6"
     },
     {
@@ -59,9 +59,9 @@
       "type": "3",
       "api": "csp_Dora",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "110c922de7d69804467fb83d3bb664b5"
     },
     {
@@ -70,9 +70,9 @@
       "type": "3",
       "api": "csp_Dora",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
     },
     {
@@ -81,9 +81,9 @@
       "type": "3",
       "api": "csp_Dora",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "8ee655f702d0d21f3643504783babbc3"
     },
     {
@@ -92,9 +92,9 @@
       "type": "3",
       "api": "csp_Dora",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "459b1cb892e317546676a2c9dcec2bff"
     },
     {
@@ -103,9 +103,9 @@
       "type": "3",
       "api": "csp_Dora",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"
     },
     {
@@ -114,9 +114,9 @@
       "type": "3",
       "api": "csp_Dora",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b"
     },
     {
@@ -125,9 +125,9 @@
       "type": "3",
       "api": "csp_Dora",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "b88de1329655cca1beba45aa9776de70"
     },
     {
@@ -136,9 +136,9 @@
       "type": "3",
       "api": "csp_Dora",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "6deed4548c44b18d268a5d828f04d86e"
     },
     {
@@ -147,9 +147,9 @@
       "type": "3",
       "api": "csp_Dora",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "9248c57eb22ace4a3431fbd1a979465f"
     },
     {
@@ -158,9 +158,9 @@
       "type": "3",
       "api": "csp_Dora",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "78d057e4d03e47cb62dce13d69b41d6f"
     },
     {
@@ -169,9 +169,9 @@
       "type": "3",
       "api": "csp_Dora",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "f41992bd740145ed58cb212dc0876582"
     },
     {
@@ -180,9 +180,9 @@
       "type": "3",
       "api": "csp_Dora",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "0842c1d2a8534ec62fb3a3ed848851a7"
     },
     {
@@ -191,9 +191,9 @@
       "type": "3",
       "api": "csp_Paper",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "Upso",
@@ -201,9 +201,9 @@
       "type": "3",
       "api": "csp_UpYun",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "YiSo",
@@ -211,9 +211,9 @@
       "type": "3",
       "api": "csp_YiSo",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "AliPS",
@@ -221,9 +221,9 @@
       "type": "3",
       "api": "csp_PanSou",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "push_agent",
@@ -231,9 +231,9 @@
       "type": "3",
       "api": "csp_Push",
       "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "parses": [
@@ -283,7 +283,7 @@
       "url": "http://svip.key521.cn/analysis/json/?uid=22&my=acdgimotxCHLNOTX16&url="
     },
     {
-      "name": "1",
+      "name": 1,
       "type": 1,
       "url": "http://j.grelighting.cn/parser/?url="
     },
@@ -350,17 +350,17 @@
         {
           "category": 4,
           "name": "framedrop",
-          "value": "1"
+          "value": 1
         },
         {
           "category": 4,
           "name": "soundtouch",
-          "value": "1"
+          "value": 1
         },
         {
           "category": 4,
           "name": "start-on-prepared",
-          "value": "1"
+          "value": 1
         },
         {
           "category": 1,
@@ -380,7 +380,7 @@
         {
           "category": 4,
           "name": "reconnect",
-          "value": "1"
+          "value": 1
         },
         {
           "category": 4,
@@ -430,17 +430,17 @@
         {
           "category": 4,
           "name": "framedrop",
-          "value": "1"
+          "value": 1
         },
         {
           "category": 4,
           "name": "soundtouch",
-          "value": "1"
+          "value": 1
         },
         {
           "category": 4,
           "name": "start-on-prepared",
-          "value": "1"
+          "value": 1
         },
         {
           "category": 1,
@@ -460,7 +460,7 @@
         {
           "category": 4,
           "name": "reconnect",
-          "value": "1"
+          "value": 1
         },
         {
           "category": 4,
@@ -470,22 +470,22 @@
         {
           "category": 4,
           "name": "mediacodec",
-          "value": "1"
+          "value": 1
         },
         {
           "category": 4,
           "name": "mediacodec-auto-rotate",
-          "value": "1"
+          "value": 1
         },
         {
           "category": 4,
           "name": "mediacodec-handle-resolution-change",
-          "value": "1"
+          "value": 1
         },
         {
           "category": 4,
           "name": "mediacodec-hevc",
-          "value": "1"
+          "value": 1
         },
         {
           "category": 1,

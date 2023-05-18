@@ -1,0 +1,885 @@
+{
+    "wallpaper": "https://jianbian.chuqiuyu.tk",
+    "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;f8f76c056bd4f099a4b545173b16ac2e",
+    "lives": [
+        {
+            "name": "exo",
+            "type": 0,
+            "url": "./txt/live_exo.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "playerType": 2
+        },
+        {
+            "name": "Ijk",
+            "type": 1,
+            "url": "./json/live_ijk.json",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+            "logo": "http://epg.51zmt.top:8000/{logo}",
+            "playerType": 1
+        }
+    ],
+    "sites": [
+        {
+            "key": "js豆瓣",
+            "name": "豆瓣",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/豆瓣.js"
+        },
+        {
+            "key": "csp_YQKAPP",
+            "name": "一起看",
+            "type": 3,
+            "api": "csp_YQKAPP",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://api-aws.11ty.top"
+        },
+        {
+            "key": "Kuaikan",
+            "name": "快看",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_appys_酷影",
+            "name": "酷影",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "http://kuyun.realku.cn/api.php/app/"
+        },
+        {
+            "key": "农民",
+            "name": "农民",
+            "type": 3,
+            "api": "csp_Nmys",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./json/nm.json"
+        },
+        {
+            "key": "csp_AppMr",
+            "name": "明明",
+            "type": 3,
+            "api": "csp_AppMr",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Kunyu77",
+            "name": "七七",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Czsapp",
+            "name": "厂长",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Zxzj",
+            "name": "在线",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_HDmoli",
+            "name": "HDmoli",
+            "type": 3,
+            "playerType": 2,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/HDmoli.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_人人",
+            "name": "人人",
+            "type": 3,
+            "playerType": 2,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/人人.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_乐猪TV",
+            "name": "乐猪",
+            "type": 3,
+            "playerType": 2,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/乐猪TV.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_花猫TV",
+            "name": "花猫",
+            "type": 3,
+            "playerType": 2,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/花猫TV.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_新片场",
+            "name": "新片场",
+            "type": 3,
+            "playerType": 2,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/新片场.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_达达龟",
+            "name": "达达龟",
+            "type": 3,
+            "playerType": 2,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/达达龟.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_思古",
+            "name": "思古",
+            "type": 3,
+            "playerType": 2,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/思古影视.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_莫扎兔",
+            "name": "莫扎兔",
+            "type": 3,
+            "playerType": 2,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/莫扎兔.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_皮皮鸭",
+            "name": "皮皮鸭",
+            "type": 3,
+            "playerType": 2,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/皮皮鸭.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_DiDuan",
+            "name": "低端",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Dy1010",
+            "name": "1010",
+            "type": 3,
+            "api": "csp_Dy1010",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_fantuan",
+            "name": "饭团",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://www.fantuanhd.com"
+        },
+        {
+            "key": "csp_Xinsj",
+            "name": "视觉",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://www.6080dy3.com"
+        },
+        {
+            "key": "csp_MeiJu69",
+            "name": "69美剧",
+            "api": "csp_AppYsV2",
+            "type": 3,
+            "playerType": 2,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://www.69mj.com/xgapp.php/v2/"
+        },
+        {
+            "key": "csp_Ysgc",
+            "name": "工厂",
+            "type": 3,
+            "api": "csp_Ysgc",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://www.ysgc.fun"
+        },
+        {
+            "key": "csp_Lib",
+            "name": "Libvio",
+            "type": 3,
+            "api": "csp_Libvio",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://tv.libvio.cc/"
+        },
+        {
+            "key": "csp_Jianying",
+            "name": "简影",
+            "type": 3,
+            "api": "csp_Jianying",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "hjju123@qq.com$$$123456"
+        },
+        {
+            "key": "csp_Bttoo",
+            "name": "Bttoo",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Voflix",
+            "name": "Voflix",
+            "type": 3,
+            "api": "csp_Voflix",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Bili",
+            "name": "哔哩",
+            "type": 3,
+            "api": "csp_Bili",
+            "playerType": 2,
+            "searchable": "0",
+            "quickSearch": "0",
+            "filterable": 1,
+            "changeable": "0",
+            "ext": "./json/bl.json"
+        },
+        {
+            "key": "学习",
+            "name": "学习",
+            "type": 3,
+            "api": "csp_Bili",
+            "playerType": 2,
+            "changeable": 0,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./json/learn.json"
+        },
+        {
+            "key": "csp_Auete",
+            "name": "Autue",
+            "type": 3,
+            "api": "csp_Auete",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_BuLei",
+            "name": "布雷",
+            "type": 3,
+            "api": "csp_BuLei",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "http://v.ilime.cc$$$login$$$dxawi111$$$dxawi111"
+        },
+        {
+            "key": "csp_panghu",
+            "name": "胖虎",
+            "type": 3,
+            "api": "csp_Panghu",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_555",
+            "name": "555",
+            "type": 3,
+            "api": "csp_Ys555",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://www.555dyy1.com"
+        },
+        {
+            "key": "Smdyy",
+            "name": "神马",
+            "type": 3,
+            "api": "csp_Smdyy",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "量子",
+            "name": "量子",
+            "type": 0,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "国产剧",
+                "日韩剧",
+                "港台剧",
+                "欧美剧",
+                "泰国剧",
+                "海外剧",
+                "国内综艺",
+                "海外综艺",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "动画片",
+                "冒险片",
+                "武侠片",
+                "科幻片",
+                "战争片",
+                "恐怖片",
+                "灾难片",
+                "悬疑片",
+                "纪录片",
+                "惊悚片",
+                "奇幻片",
+                "剧情片"
+            ]
+        },
+        {
+            "key": "非凡",
+            "name": "非凡",
+            "type": 0,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "国产剧",
+                "日韩剧",
+                "港台剧",
+                "欧美剧",
+                "泰国剧",
+                "海外剧",
+                "国内综艺",
+                "海外综艺",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "动画片",
+                "冒险片",
+                "武侠片",
+                "科幻片",
+                "战争片",
+                "恐怖片",
+                "灾难片",
+                "悬疑片",
+                "纪录片",
+                "惊悚片",
+                "奇幻片",
+                "剧情片"
+            ]
+        },
+        {
+            "key": "csp_Lgyy",
+            "name": "蓝光",
+            "type": 3,
+            "api": "csp_Lgyy",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.lgyy.vip"
+        },
+        {
+            "key": "LiteApple",
+            "name": "苹果",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Coke",
+            "name": "Cokemv",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Bd",
+            "name": "哔嘀",
+            "type": 3,
+            "api": "csp_Bdys01",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Dm84",
+            "name": "动漫",
+            "type": 3,
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_有声小说r",
+            "name": "听书",
+            "type": 3,
+            "playerType": 2,
+            "changeable": 0,
+            "searchable": 0,
+            "filterable": 0,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/有声小说.js"
+        },
+        {
+            "key": "drpy_js_蜻蜓FM",
+            "name": "广播",
+            "type": 3,
+            "playerType": 2,
+            "changeable": 0,
+            "searchable": 0,
+            "filterable": 0,
+            "api": "./lib/drpy2.min.js",
+            "ext": ".js/蜻蜓FM.js"
+        },
+        {
+            "key": "csp_Nbys",
+            "name": "泥巴",
+            "type": 3,
+            "api": "csp_NiNi",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": "0"
+        },
+        {
+            "key": "獨播",
+            "name": "独播",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "./json/duboku.json"
+        },
+        {
+            "key": "csp_trj",
+            "name": "唐人",
+            "type": 3,
+            "api": "csp_Tangrenjie",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": "0"
+        },
+        {
+            "key": "csp_WoGG",
+            "name": "Wo",
+            "type": 3,
+            "api": "csp_WoGG",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": "0",
+            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+        },
+        {
+            "key": "七夜",
+            "name": "七夜",
+            "type": 3,
+            "api": "csp_Dovx",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "./txt/token.txt"
+        },
+        {
+            "key": "YiSo",
+            "name": "易搜",
+            "type": 3,
+            "api": "csp_YiSo",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": "0",
+            "ext": "./txt/token.txt"
+        },
+        {
+            "key": "PanSou",
+            "name": "盘搜",
+            "type": 3,
+            "api": "csp_PanSou",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": "0",
+            "ext": "./txt/token.txt"
+        },
+        {
+            "key": "UpYun",
+            "name": "云搜",
+            "type": 3,
+            "api": "csp_UpYun",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": "0",
+            "ext": "./txt/token.txt"
+        },
+        {
+            "key": "本地",
+            "name": "本地",
+            "type": 3,
+            "api": "csp_Local",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "jar": "./jar/fm.jar"
+        },
+        {
+            "key": "WebDAV",
+            "name": "WebDAV",
+            "type": 3,
+            "api": "csp_WebDAV",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "jar": "./jar/fm.jar",
+            "ext": "./json/webdav.json"
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_Push",
+            "playerType": 2,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": "0",
+            "jar": "./jar/fm.jar",
+            "ext": "./txt/token.txt"
+        }
+    ],
+    "ijk": [
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": 1
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": 1
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": 1
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-rangeupport",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": 1
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurateeek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": 1
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": 1
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": 1
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-rangeupport",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": 1
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurateeek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": 1
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": 1
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": 1
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": 1
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ],
+    "rules": [
+        {
+            "hosts": [
+                "vip.ffzy",
+                "vip.lz",
+                "hd.lz"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        }
+    ]
+}
