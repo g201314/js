@@ -673,6 +673,15 @@
             "ext": "./txt/token.txt"
         },
         {
+            "key": "AList",
+            "name": "AList",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "./json/alist.json"
+        },
+        {
             "key": "本地",
             "name": "本地",
             "type": 3,
