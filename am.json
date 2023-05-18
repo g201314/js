@@ -590,7 +590,7 @@
       "searchable": 1,
       "filterable": "1",
       "changeable": 0,
-      "jar":"./jar/fm.jar"
+      "jar": "./jar/fm.jar"
     },
     {
       "key": "csp_WoGG",
@@ -1013,6 +1013,8 @@
   ],
   "ads": [
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
+    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
     "www.google-analytics.com",
