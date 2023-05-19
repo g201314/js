@@ -370,6 +370,80 @@
             "ext": "./json/learn.json"
         },
         {
+            "key": "量子",
+            "name": "量子",
+            "type": 0,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "playerType": 2,
+            "searchable": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "国产剧",
+                "日韩剧",
+                "港台剧",
+                "欧美剧",
+                "泰国剧",
+                "海外剧",
+                "国内综艺",
+                "海外综艺",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "动画片",
+                "冒险片",
+                "武侠片",
+                "科幻片",
+                "战争片",
+                "恐怖片",
+                "灾难片",
+                "悬疑片",
+                "纪录片",
+                "惊悚片",
+                "奇幻片",
+                "剧情片"
+            ]
+        },
+        {
+            "key": "非凡",
+            "name": "非凡",
+            "type": 0,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "playerType": 2,
+            "searchable": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "国产剧",
+                "日韩剧",
+                "港台剧",
+                "欧美剧",
+                "泰国剧",
+                "海外剧",
+                "国内综艺",
+                "海外综艺",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "动画片",
+                "冒险片",
+                "武侠片",
+                "科幻片",
+                "战争片",
+                "恐怖片",
+                "灾难片",
+                "悬疑片",
+                "纪录片",
+                "惊悚片",
+                "奇幻片",
+                "剧情片"
+            ]
+        },
+        {
             "key": "csp_Auete",
             "name": "Autue",
             "type": 3,
@@ -604,7 +678,7 @@
             "api": "csp_AList",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./json/alist.json"
+            "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
         },
         {
             "key": "本地",
@@ -641,165 +715,42 @@
             "ext": "./txt/token.txt"
         }
     ],
-    "ijk": [
+    "rules": [
         {
-            "group": "软解码",
-            "options": [
-                {
-                    "category": 4,
-                    "name": "opensles",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "overlay-format",
-                    "value": "842225234"
-                },
-                {
-                    "category": 4,
-                    "name": "framedrop",
-                    "value": 1
-                },
-                {
-                    "category": 4,
-                    "name": "soundtouch",
-                    "value": 1
-                },
-                {
-                    "category": 4,
-                    "name": "start-on-prepared",
-                    "value": 1
-                },
-                {
-                    "category": 1,
-                    "name": "http-detect-rangeupport",
-                    "value": "0"
-                },
-                {
-                    "category": 1,
-                    "name": "fflags",
-                    "value": "fastseek"
-                },
-                {
-                    "category": 2,
-                    "name": "skip_loop_filter",
-                    "value": "48"
-                },
-                {
-                    "category": 4,
-                    "name": "reconnect",
-                    "value": 1
-                },
-                {
-                    "category": 4,
-                    "name": "enable-accurateeek",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-auto-rotate",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-handle-resolution-change",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-hevc",
-                    "value": "0"
-                },
-                {
-                    "category": 1,
-                    "name": "dns_cache_timeout",
-                    "value": "600000000"
-                }
+            "name": "量子廣告",
+            "hosts": [
+                "vip.lz",
+                "hd.lz"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
-            "group": "硬解码",
-            "options": [
-                {
-                    "category": 4,
-                    "name": "opensles",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "overlay-format",
-                    "value": "842225234"
-                },
-                {
-                    "category": 4,
-                    "name": "framedrop",
-                    "value": 1
-                },
-                {
-                    "category": 4,
-                    "name": "soundtouch",
-                    "value": 1
-                },
-                {
-                    "category": 4,
-                    "name": "start-on-prepared",
-                    "value": 1
-                },
-                {
-                    "category": 1,
-                    "name": "http-detect-rangeupport",
-                    "value": "0"
-                },
-                {
-                    "category": 1,
-                    "name": "fflags",
-                    "value": "fastseek"
-                },
-                {
-                    "category": 2,
-                    "name": "skip_loop_filter",
-                    "value": "48"
-                },
-                {
-                    "category": 4,
-                    "name": "reconnect",
-                    "value": 1
-                },
-                {
-                    "category": 4,
-                    "name": "enable-accurateeek",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec",
-                    "value": 1
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-auto-rotate",
-                    "value": 1
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-handle-resolution-change",
-                    "value": 1
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-hevc",
-                    "value": 1
-                },
-                {
-                    "category": 1,
-                    "name": "dns_cache_timeout",
-                    "value": "600000000"
-                }
+            "name": "非凡廣告",
+            "hosts": [
+                "vip.ffzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "火山嗅探",
+            "host": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "抖音嗅探",
+            "host": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
             ]
         }
     ]
