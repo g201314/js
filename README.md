@@ -10,7 +10,7 @@ https://amanchi.netlify.app/m.json
 #### 配置地址三：
 
 ```
-https://amanchi.netlify.app/tv.json
+https://amanchi.netlify.app/json/tv.json
 ```
 ##### TVbox:
 ```
