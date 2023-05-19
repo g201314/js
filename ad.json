@@ -376,8 +376,9 @@
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "playerType": 2,
             "searchable": 1,
+            "quickSearch": 0,
             "changeable": 1,
-            "filterable": 0,
+            "filterable": 1,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -413,8 +414,9 @@
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
             "playerType": 2,
             "searchable": 1,
+            "quickSearch": 0,
             "changeable": 1,
-            "filterable": 0,
+            "filterable": 1,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
