@@ -724,8 +724,7 @@
       "api": "csp_Local",
       "searchable": 1,
       "filterable": 0,
-      "changeable": 0,
-      "jar": "./jar/fm.jar"
+      "changeable": 0
     },
     {
       "key": "WebDAV",
@@ -735,7 +734,6 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "./jar/fm.jar",
       "ext": "./json/webdav.json"
     },
     {
