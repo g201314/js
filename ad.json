@@ -122,114 +122,6 @@
             "changeable": 1
         },
         {
-            "key": "drpy_js_HDmoli",
-            "name": "HDmoli",
-            "type": 3,
-            "playerType": 2,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/HDmoli.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_js_人人",
-            "name": "人人",
-            "type": 3,
-            "playerType": 2,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/人人.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_js_乐猪TV",
-            "name": "乐猪",
-            "type": 3,
-            "playerType": 2,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/乐猪TV.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_js_花猫TV",
-            "name": "花猫",
-            "type": 3,
-            "playerType": 2,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/花猫TV.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_js_新片场",
-            "name": "新片场",
-            "type": 3,
-            "playerType": 2,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/新片场.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_js_达达龟",
-            "name": "达达龟",
-            "type": 3,
-            "playerType": 2,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/达达龟.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_js_思古",
-            "name": "思古",
-            "type": 3,
-            "playerType": 2,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/思古影视.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_js_莫扎兔",
-            "name": "莫扎兔",
-            "type": 3,
-            "playerType": 2,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/莫扎兔.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_js_皮皮鸭",
-            "name": "皮皮鸭",
-            "type": 3,
-            "playerType": 2,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/皮皮鸭.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_DiDuan",
             "name": "低端",
             "type": 3,
@@ -356,18 +248,6 @@
             "filterable": 1,
             "changeable": "0",
             "ext": "./json/bl.json"
-        },
-        {
-            "key": "学习",
-            "name": "学习",
-            "type": 3,
-            "api": "csp_Bili",
-            "playerType": 2,
-            "changeable": 0,
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./json/learn.json"
         },
         {
             "key": "量子",
@@ -567,17 +447,6 @@
             "filterable": 0,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/有声小说.js"
-        },
-        {
-            "key": "drpy_js_蜻蜓FM",
-            "name": "广播",
-            "type": 3,
-            "playerType": 2,
-            "changeable": 0,
-            "searchable": 0,
-            "filterable": 0,
-            "api": "./lib/drpy2.min.js",
-            "ext": ".js/蜻蜓FM.js"
         },
         {
             "key": "csp_Nbys",
