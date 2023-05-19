@@ -674,33 +674,26 @@
             "ext": "./txt/token.txt"
         },
         {
-            "key": "AList",
-            "name": "AList",
-            "type": 3,
-            "api": "csp_AList",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
-        },
-        {
             "key": "本地",
             "name": "本地",
             "type": 3,
             "api": "csp_Local",
+            "playerType": 2,
             "searchable": 1,
+            "quickSearch": 1,
             "filterable": 0,
-            "changeable": 0,
-            "jar": "./jar/fm.jar"
+            "changeable": 0
         },
         {
             "key": "WebDAV",
             "name": "WebDAV",
             "type": 3,
             "api": "csp_WebDAV",
+            "playerType": 2,
             "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "jar": "./jar/fm.jar",
             "ext": "./json/webdav.json"
         },
         {
@@ -719,7 +712,7 @@
     ],
     "rules": [
         {
-            "name": "量子廣告",
+            "name": "量子广告",
             "hosts": [
                 "vip.lz",
                 "hd.lz"
@@ -729,7 +722,7 @@
             ]
         },
         {
-            "name": "非凡廣告",
+            "name": "非凡广告",
             "hosts": [
                 "vip.ffzy"
             ],
