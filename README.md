@@ -1,16 +1,16 @@
 ##### 配置地址一:
 ```
-https://raw.iqiq.io/Amanchi1208/amanchi1208.github.io/main/m.json
+https://amanchi.netlify.app/am.json
 ```
 
 ##### 配置地址二:
 ```
-https://amanchi1208.github.io/am.json
+https://amanchi.netlify.app/m.json
 ```
 #### 配置地址三：
 
 ```
-https://amanchi1208.github.io/tv.json
+https://amanchi.netlify.app/tv.json
 ```
 ##### TVbox:
 ```
