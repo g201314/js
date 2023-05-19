@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://amanchi1208.github.io/jar/cc.jar;md5;f8f76c056bd4f099a4b545173b16ac2e",
+  "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;f8f76c056bd4f099a4b545173b16ac2e",
   "lives": [
     {
       "name": "exo",
@@ -1076,7 +1076,7 @@
   ],
   "rules": [
     {
-      "name": "量子廣告",
+      "name": "量子广告",
       "hosts": [
         "vip.lz",
         "hd.lz"
@@ -1086,7 +1086,7 @@
       ]
     },
     {
-      "name": "非凡廣告",
+      "name": "非凡广告",
       "hosts": [
         "vip.ffzy"
       ],
