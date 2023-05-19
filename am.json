@@ -657,7 +657,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "./json/duboku.json",
-      "jar":"./jar/fm.jar"
+      "jar": "./jar/fm.jar"
     },
     {
       "key": "csp_trj",
