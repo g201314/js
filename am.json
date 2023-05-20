@@ -9,14 +9,6 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2
-    },
-    {
-      "name": "Ijk",
-      "type": 1,
-      "url": "./json/live_ijk.json",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-      "logo": "http://epg.51zmt.top:8000/{logo}",
-      "playerType": 1
     }
   ],
   "sites": [
@@ -656,8 +648,8 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./json/duboku.json",
-      "jar": "./jar/fm.jar"
+      "jar": "./jar/fm.jar",
+      "ext": "./json/duboku.json"
     },
     {
       "key": "csp_trj",
