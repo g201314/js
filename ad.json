@@ -67,8 +67,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "http://cms.maoyingshi.cc/api.php/app/",
-            "playUrl": "json:https://jx.4kdv.com/?url="
+            "ext": "http://cms.maoyingshi.cc/api.php/app/"
         },
         {
             "key": "农民",
