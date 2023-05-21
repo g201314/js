@@ -598,7 +598,7 @@
     ],
     "doh": [
         {
-            "name": "騰訊",
+            "name": "腾讯",
             "url": "https://doh.pub/dns-query"
         },
         {
