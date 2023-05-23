@@ -70,6 +70,16 @@
             "ext": "http://cms.maoyingshi.cc/api.php/app/"
         },
         {
+            "key": "csp_黄黄",
+            "name": "丫丫",
+            "api": "csp_AppYsV2",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+        },
+        {
             "key": "农民",
             "name": "农民",
             "type": 3,
@@ -102,7 +112,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"./jar/ts.jar;md;b6cb6ac01700f9baa345e272d3877628",
+            "jar":"https://amanchi.netlify.app/jar/ts.jar;md5;b6cb6ac01700f9baa345e272d3877628",
             "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
@@ -538,6 +548,17 @@
             "ext": "./txt/token.txt"
         },
         {
+            "key": "TuGou",
+            "name": "土狗",
+            "type": 3,
+            "api": "csp_TuGou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "./txt/token.txt"
+        },
+        {
             "key": "YiSo",
             "name": "易搜",
             "type": 3,
@@ -547,6 +568,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": "0",
+            "ext": "./txt/token.txt"
+        },
+        {
+            "key": "PanSearch",
+            "name": "盘搜索",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
             "ext": "./txt/token.txt"
         },
         {
