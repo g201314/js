@@ -198,6 +198,17 @@
       "changeable": 1
     },
     {
+      "key": "drpy_js_网飞.TV",
+      "name": "网飞",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/NF.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
       "key": "drpy_js_莫扎兔",
       "name": "莫扎兔",
       "type": 3,
@@ -309,7 +320,7 @@
       "type": 3,
       "api": "csp_Bttwoo",
       "playerType": 2,
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1
