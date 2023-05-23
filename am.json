@@ -684,6 +684,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
+      "jar":"./jar/fm.jar",
       "ext": "./txt/token.txt"
     },
     {
