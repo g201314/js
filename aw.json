@@ -112,7 +112,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"https://amanchi.netlify.app/jar/ts.jar;md5;b6cb6ac01700f9baa345e272d3877628",
+            "jar": "https://amanchi.netlify.app/jar/ts.jar;md5;b6cb6ac01700f9baa345e272d3877628",
             "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
@@ -388,6 +388,18 @@
             "changeable": 1
         },
         {
+            "key": "csp_MeiJu69",
+            "name": "69美剧",
+            "api": "csp_AppYsV2",
+            "type": 3,
+            "filterable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://www.69mj.com/xgapp.php/v2/"
+        },
+        {
             "key": "csp_555",
             "name": "555",
             "type": 3,
@@ -478,6 +490,28 @@
             "changeable": 1
         },
         {
+            "key": "Ying",
+            "name": "樱花",
+            "type": 3,
+            "api": "csp_Ying",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Ysj",
+            "name": "异世界",
+            "type": 3,
+            "api": "csp_Ysj",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
             "key": "drpy_js_有声小说r",
             "name": "听书",
             "type": 3,
@@ -552,6 +586,7 @@
             "name": "土狗",
             "type": 3,
             "api": "csp_TuGou",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
@@ -575,6 +610,7 @@
             "name": "盘搜索",
             "type": 3,
             "api": "csp_PanSearch",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
