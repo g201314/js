@@ -5,14 +5,14 @@ https://amanchi.netlify.app/am.json
 
 ##### 配置地址二:
 ```
-https://amanchi.netlify.app/m.json
+https://amanchi.netlify.app/aw.json
 ```
 #### 配置地址三：
 
 ```
-https://amanchi.netlify.app/json/tv.json
+https://amanchi.netlify.app/ad.json
 ```
-##### TVbox:
+##### 影视:
 ```
 https://wwu.lanzoub.com/b02jpwaed
 password：7ms6
