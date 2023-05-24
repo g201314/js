@@ -486,8 +486,8 @@
             "changeable": 0,
             "searchable": 0,
             "filterable": 0,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/有声小说.js"
+            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+            "ext": "https://amanchi.netlify.app/js/有声小说.js"
         },
         {
             "key": "csp_Nbys",
