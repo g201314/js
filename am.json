@@ -196,6 +196,30 @@
       "changeable": 1
     },
     {
+      "key": "drpy_js_网易",
+      "name": "网易",
+      "type": 3,
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/wy.js",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "drpy_js_多瑙",
+      "name": "多瑙",
+      "type": 3,
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/dnys.js",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
       "key": "drpy_js_达达龟",
       "name": "达达龟",
       "type": 3,
