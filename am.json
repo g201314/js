@@ -67,7 +67,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/nm.json"
+      "ext": "https://amanchi.netlify.app/json/nm.json"
     },
     {
       "key": "csp_AppMr",
