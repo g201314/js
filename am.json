@@ -81,19 +81,6 @@
       "changeable": 1
     },
     {
-      "key": "AppTT",
-      "name": "图图",
-      "type": "3",
-      "api": "csp_Dora",
-      "playerType": 2,
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https: //amanchi.netlify.app/jar/ts.jar;md5;b6cb6ac01700f9baa345e272d3877628",
-      "ext": "110c922de7d69804467fb83d3bb664b5"
-    },
-    {
       "key": "csp_Kunyu77",
       "name": "七七",
       "type": 3,
