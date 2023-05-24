@@ -521,17 +521,6 @@
       "ext": "https://www.ilime.cc/$$$auto$$$dxawi111$$$dxawi111"
     },
     {
-      "key": "csp_panghu",
-      "name": "胖虎",
-      "type": 3,
-      "api": "csp_Panghu",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
       "key": "csp_555",
       "name": "555",
       "type": 3,
