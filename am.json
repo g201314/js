@@ -19,8 +19,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/豆瓣.js"
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/豆瓣.js"
     },
     {
       "key": "csp_YQKAPP",
@@ -152,8 +152,8 @@
       "key": "drpy_js_HDmoli",
       "name": "HDmoli",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/HDmoli.js",
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/HDmoli.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -164,8 +164,8 @@
       "key": "drpy_js_人人",
       "name": "人人",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/人人.js",
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/人人.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -176,8 +176,8 @@
       "key": "drpy_js_乐猪TV",
       "name": "乐猪",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/乐猪TV.js",
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/乐猪TV.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -188,8 +188,8 @@
       "key": "drpy_js_花猫TV",
       "name": "花猫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/花猫TV.js",
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/花猫TV.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -200,8 +200,8 @@
       "key": "drpy_js_新片场",
       "name": "新片场",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/新片场.js",
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/新片场.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -212,8 +212,8 @@
       "key": "drpy_js_达达龟",
       "name": "达达龟",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/达达龟.js",
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/达达龟.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -224,8 +224,8 @@
       "key": "drpy_js_思古",
       "name": "思古",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/思古影视.js",
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/思古影视.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -236,8 +236,8 @@
       "key": "drpy_js_网飞.TV",
       "name": "网飞",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/NF.js",
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/NF.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -249,8 +249,8 @@
       "name": "莫扎兔",
       "type": 3,
       "playerType": 2,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/莫扎兔.js",
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/莫扎兔.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -261,8 +261,8 @@
       "name": "皮皮鸭",
       "type": 3,
       "playerType": 2,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/皮皮鸭.js",
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/皮皮鸭.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -382,7 +382,7 @@
       "quickSearch": "0",
       "filterable": 1,
       "changeable": "0",
-      "ext": "./json/bl.json"
+      "ext": "https://amanchi.netlify.app/json/bl.json"
     },
     {
       "key": "学习",
@@ -394,7 +394,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/learn.json"
+      "ext": "https://amanchi.netlify.app/json/learn.json"
     },
     {
       "key": "量子",
@@ -650,8 +650,8 @@
       "changeable": 0,
       "searchable": 0,
       "filterable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/有声小说.js"
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/有声小说.js"
     },
     {
       "key": "drpy_js_蜻蜓FM",
@@ -661,8 +661,8 @@
       "changeable": 0,
       "searchable": 0,
       "filterable": 0,
-      "api": "./lib/drpy2.min.js",
-      "ext": ".js/蜻蜓FM.js"
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/蜻蜓FM.js"
     },
     {
       "key": "csp_Nbys",
@@ -684,8 +684,8 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "./jar/fm.jar",
-      "ext": "./json/duboku.json"
+      "jar": "https://amanchi.netlify.app/jar/fm.jar",
+      "ext": "https://amanchi.netlify.app/json/duboku.json"
     },
     {
       "key": "csp_trj",
@@ -720,8 +720,8 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "./jar/fm.jar",
-      "ext": "./txt/token.txt"
+      "jar": "https://amanchi.netlify.app/jar/fm.jar",
+      "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
       "key": "TuGou",
@@ -733,7 +733,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./txt/token.txt"
+      "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
       "key": "YiSo",
@@ -745,7 +745,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": "0",
-      "ext": "./txt/token.txt"
+      "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
       "key": "PanSearch",
@@ -757,7 +757,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./txt/token.txt"
+      "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
       "key": "PanSou",
@@ -769,7 +769,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": "0",
-      "ext": "./txt/token.txt"
+      "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
       "key": "UpYun",
@@ -781,7 +781,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": "0",
-      "ext": "./txt/token.txt"
+      "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
       "key": "本地",
@@ -812,8 +812,8 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": "0",
-      "jar": "./jar/fm.jar",
-      "ext": "./txt/token.txt"
+      "jar": "txt/token.txt/jar/fm.jar",
+      "ext": "https://amanchi.netlify.app/txt/token.txt"
     }
   ],
   "parses": [
@@ -895,16 +895,6 @@
       "url": "https://www.yemu.xyz/?url="
     },
     {
-      "name": "lanlan",
-      "type": 1,
-      "url": "http://lanlan.ckflv.cn/?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "Dart/2.14(dart:io)"
-        }
-      }
-    },
-    {
       "name": "iizny",
       "type": 1,
       "url": "https://player.iizny.com/?url="
@@ -918,26 +908,6 @@
       "name": "tkys",
       "type": 1,
       "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="
-    },
-    {
-      "name": "XM",
-      "type": 0,
-      "url": "https://dm.xmflv.com:4433/?url="
-    },
-    {
-      "name": "Par",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-    {
-      "name": "art1",
-      "type": 1,
-      "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="
-    },
-    {
-      "name": "key",
-      "type": 1,
-      "url": "http://svip.key521.cn/analysis/json/?uid=22&my=acdgimotxCHLNOTX16&url="
     },
     {
       "name": "jsonplayer",

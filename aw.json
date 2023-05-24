@@ -19,8 +19,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/豆瓣.js"
+            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+            "ext": "https://amanchi.netlify.app/js/豆瓣.js"
         },
         {
             "key": "csp_YQKAPP",
@@ -89,7 +89,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./json/nm.json"
+            "ext": "https://amanchi.netlify.app/json/nm.json"
         },
         {
             "key": "csp_AppMr",
@@ -262,7 +262,7 @@
             "quickSearch": "0",
             "filterable": 1,
             "changeable": "0",
-            "ext": "./json/bl.json"
+            "ext": "https://amanchi.netlify.app/json/bl.json"
         },
         {
             "key": "量子",
@@ -509,8 +509,8 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "jar": "./jar/fm.jar",
-            "ext": "./json/duboku.json"
+            "jar": ".https://amanchi.netlify.app/jar/fm.jar",
+            "ext": "https://amanchi.netlify.app/json/duboku.json"
         },
         {
             "key": "csp_trj",
@@ -545,8 +545,8 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "jar": "./jar/fm.jar",
-            "ext": "./txt/token.txt"
+            "jar": "https://amanchi.netlify.app/jar/fm.jar",
+            "ext": "https://amanchi.netlify.app/txt/token.txt"
         },
         {
             "key": "TuGou",
@@ -558,7 +558,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "./txt/token.txt"
+            "ext": "https://amanchi.netlify.app/txt/token.txt"
         },
         {
             "key": "YiSo",
@@ -570,7 +570,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": "0",
-            "ext": "./txt/token.txt"
+            "ext": "https://amanchi.netlify.app/txt/token.txt"
         },
         {
             "key": "PanSearch",
@@ -582,7 +582,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "./txt/token.txt"
+            "ext": "https://amanchi.netlify.app/txt/token.txt"
         },
         {
             "key": "PanSou",
@@ -594,7 +594,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": "0",
-            "ext": "./txt/token.txt"
+            "ext": "https://amanchi.netlify.app/txt/token.txt"
         },
         {
             "key": "UpYun",
@@ -606,7 +606,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": "0",
-            "ext": "./txt/token.txt"
+            "ext": "https://amanchi.netlify.app/txt/token.txt"
         },
         {
             "key": "本地",
@@ -629,7 +629,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "./json/webdav.json"
+            "ext": "https://amanchi.netlify.app/json/webdav.json"
         },
         {
             "key": "push_agent",
@@ -641,8 +641,8 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": "0",
-            "jar": "./jar/fm.jar",
-            "ext": "./txt/token.txt"
+            "jar": "https://amanchi.netlify.app/jar/fm.jar",
+            "ext": "https://amanchi.netlify.app/txt/token.txt"
         }
     ],
     "doh": [
