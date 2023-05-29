@@ -10,7 +10,7 @@ https://amanchi.netlify.app/aw.json
 #### 配置地址三：
 
 ```
-https://amanchi.netlify.app/ad.json
+https://amanchi.netlify.app/ts.json
 ```
 ##### 影视:
 ```
