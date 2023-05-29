@@ -1029,6 +1029,30 @@
   ],
   "rules": [
     {
+      "name": "海外看广告1",
+      "hosts": [
+        "cdn.efhie",
+        "cdn2.ceres9350",
+        "cdn.ceres9350",
+        "cdn2.efhie"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "海外看广告2",
+      "hosts": [
+        "cdn.efhie",
+        "cdn2.ceres9350",
+        "cdn.ceres9350",
+        "cdn2.efhie"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.733333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
       "name": "量子广告",
       "hosts": [
         "vip.lz",
