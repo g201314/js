@@ -400,18 +400,6 @@
             "ext": "https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"
         },
         {
-            "key": "csp_MeiJu69",
-            "name": "69美剧",
-            "api": "csp_AppYsV2",
-            "type": 3,
-            "filterable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://www.69mj.com/xgapp.php/v2/"
-        },
-        {
             "key": "csp_555",
             "name": "555",
             "type": 3,
