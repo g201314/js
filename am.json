@@ -5,7 +5,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./txt/live.txt",
+      "url": "https://amanchi.netlify.app/txt/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2

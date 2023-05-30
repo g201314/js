@@ -1,11 +1,11 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://amanchi.netlify.app/jar/ts.jar;md5;552a7ec01f4e6ee2dbfbe32a1d7f74fa",
+  "spider": "https://amanchi.netlify.app/jar/ts.jar;md5;7cb9c6f54061ff078b852944947900ec",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "./txt/live.txt",
+      "url": "https://amanchi.netlify.app/txt/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2
@@ -129,7 +129,7 @@
           "api": "csp_AList",
           "changeable": "0",
           "searchable": "1",
-          "ext": "./json/alist.json"
+          "ext": "https://amanchi.netlify.app/json/alist.json"
         },
         {
           "key": "Cokemv",
@@ -155,7 +155,7 @@
         },
         {
           "key": "獨播",
-          "name": "独播",
+          "name": "獨播",
           "type": "3",
           "api": "csp_XPathMacFilter",
           "searchable": "1",
