@@ -511,7 +511,7 @@
             "type": 3,
             "playerType": 2,
             "changeable": 0,
-            "searchable": 0,
+            "searchable": 1,
             "filterable": 0,
             "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
             "ext": "https://amanchi.netlify.app/js/有声小说.js"
