@@ -12,6 +12,10 @@ https://amanchi.netlify.app/aw.json
 ```
 https://amanchi.netlify.app/ts.json
 ```
+#### ZY-player
+```
+https://amanchi.netlify.app/ZY-player.json
+```
 ##### 影视:
 ```
 https://wwu.lanzoub.com/b02jpwaed
