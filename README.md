@@ -7,12 +7,12 @@ https://amanchi.netlify.app/am.json
 ```
 https://amanchi.netlify.app/aw.json
 ```
-#### 配置地址三：
+#### 配置地址三:
 
 ```
 https://amanchi.netlify.app/ts.json
 ```
-#### ZY-player
+#### ZY-player:
 ```
 https://amanchi.netlify.app/ZY-player.json
 ```
