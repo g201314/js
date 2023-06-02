@@ -822,7 +822,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./json/webdav.json"
+      "ext": "https://amanchi.netlify.app/json/webdav.json"
     },
     {
       "key": "push_agent",
@@ -834,7 +834,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": "0",
-      "jar": "txt/token.txt/jar/fm.jar",
+      "jar": "https:///amanchi.netlify.app/jar/fm.jar",
       "ext": "https://amanchi.netlify.app/txt/token.txt"
     }
   ],
