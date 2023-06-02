@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;10eb32e7f059984cba18ee3a8b764470",
+  "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;07099ea7d907106be7990ad9db491f2a",
   "lives": [
     {
       "name": "live",
@@ -769,6 +769,17 @@
       "filterable": 1,
       "changeable": "0",
       "ext": "https://amanchi.netlify.app/txt/token.txt"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$fanfan$$$qqq111"
     },
     {
       "key": "PanSearch",
