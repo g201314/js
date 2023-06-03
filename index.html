@@ -1,12 +1,13 @@
+<!DOCTYPE html>
 <html lang="zh-CN">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amanchi</title>
+    <title>嫖一下</title>
     <link rel="stylesheet" href="css/tailwind.min.css">
     <link rel="stylesheet" href="css/swiper-bundle.min.css" />
-    <link rel="icon" href="img/favicon.ico">
+    <link rel="icon" href="/favicon.ico">
     <script src="js/swiper-bundle.min.js"></script>
     <script src="js/sweetalert2.all.min.js"></script>
     <link href="css/sweetalert2.min.css" rel="stylesheet" />
@@ -14,67 +15,125 @@
 </head>
 
 <body class="bg-gray-200 text-gray-800">
+    <!-- 导航栏 -->
+    <nav class="bg-white shadow-lg">
+        <div class="container mx-auto flex justify-between py-4 px-8">
+            <!-- 左边首页链接 -->
+            <a href="index.html" class="text-xl font-bold">首页</a>
+            <!-- 右边导航 -->
+            <div class="space-x-4">
+                <a href="https://www.nite07.com"
+                    class="transition-all duration-150 text-gray-700 hover:text-blue-500">优质软件</a>
+                <a href="https://t.me/fongmi_offical"
+                    class="transition-all duration-150 text-gray-700 hover:text-blue-500">TG频道</a>
+                <a href="https://t.me/fongmi_offical/54024"
+                    class="transition-all duration-150 text-gray-700 hover:text-blue-500">电报群</a>
+                <a href="https://t.me/fongmi_release"
+                    class="transition-all duration-150 text-gray-700 hover:text-blue-500">订阅</a>
+            </div>
+        </div>
+    </nav>
+
     <!-- 容器 -->
     <div class="container mx-auto mt-8">
         <div class="flex flex-col md:flex-row">
-            <!-- 左邊文字 -->
+            <!-- 左边文字 -->
             <div class="w-full md:w-1/3 p-8 flex flex-col justify-center">
                 <img class="w-1/3 mx-auto float-right" src="./img/cat.gif" alt="Card Image"
                     style="width:100px;height:100px;"><br />
-                <h2 class="text-center text-4xl font-bold mb-4">影視TV</h2>
-                <p class="text-center">|免費使用、广告切片|</p>
-                <p class="text-center">|高清直播、視頻投屏|</p>
-                <p class="text-center">|同步記录、自动换源|</p>
-                <p class="text-center">|轨道切换、记忆播放|</p>
-                <p class="text-center">|片头片尾、快捷标记|</p>
-                <p class="text-center">|语音搜索、影音推送|</p>
+                <h2 class="text-center text-4xl font-bold mb-4">影视TV</h2>
+                <p class="text-center">『免费使用、广告切片』</p>
+                <p class="text-center">『高清直播、视频投屏』</p>
+                <p class="text-center">『同步记录、自动换源』</p>
+                <p class="text-center">『轨道切换、记忆播放』</p>
+                <p class="text-center">『片头片尾、快捷标记』</p>
+                <p class="text-center">『语音搜索、影音推送』</p>
+                <!-- 按钮行 1 -->
+                <div class="flex mt-4 justify-center">
+                    <a href="#download" title="点击下载影视APP"
+                        class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-6 rounded mr+2">
+                        <img class="w-1/3 mx-auto float-left" src="./img/down.png" alt="Card Image"
+                            style="width:30px;height:25px;">&emsp;Download</a>
+                </div>
             </div>
-
-            <div class="container mx-auto mt-8 bg-white rounded-lg border border-gray-300 p-4">
-                <p>影視是一款基于猫影视开源的CatVodTVJarLoader項目，从零开始写。非常简洁清爽且功能强大。
-                    界面上采用 Android TV Leanback架构，播放器采用最新版EXO及IJK开源项目的智能电视软件，
-                    使用体验感舒适，支持电视直播功能，界面非常简洁。
-                </p>
-            </div>
-
-        </div>
-
-        <div class="container mx-auto mt-8 bg-white rounded-lg border border-gray-300 p-4" style="text-align:center;">
-            <h2 class="text-center text-3xl font-bold my-4">配置地址点击复制</h2>
-        </div>
-        <!-- 卡片列表 -->
-        <div class="container mx-auto mt-8">
-            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
-                <!-- 卡片 1 -->
-                <div data-config="https://amanchi.netlify.app/am.json"
-                    class="hover:bg-gray-200 transition-all duration-150 bg-white shadow rounded-lg p-4 cursor-pointer flex flex-col justify-center items-center">
-                    <img class="w-1/3 mx-auto" src="./img/cat.gif" alt="Card Image" class="w-full">
-                    <p class="text-center mt-2">配置地址一</p>
-                </div>
-                <!-- 卡片 2 -->
-                <div data-config="https://amanchi.netlify.app/aw.json"
-                    class="hover:bg-gray-200 transition-all duration-150 bg-white shadow rounded-lg p-4 cursor-pointer flex flex-col justify-center items-center">
-                    <img class="w-1/3 mx-auto" src="./img/cat.gif" alt="Card Image" class="w-full">
-                    <p class="text-center mt-2">配置地址二</p>
-                </div>
-                <!-- 卡片 3 -->
-                <div data-config="https://amanchi.netlify.app/ts.json"
-                    class="hover:bg-gray-200 transition-all duration-150 bg-white shadow rounded-lg p-4 cursor-pointer flex flex-col justify-center items-center">
-                    <img class="w-1/3 mx-auto" src="./img/cat.gif" alt="Card Image" class="w-full">
-                    <p class="text-center mt-2">配置地址三</p>
-                </div>
-                <!-- 卡片 4 -->
-                <div data-config="https://amanchi.netlify.app/ZY-player.json"
-                    class="hover:bg-gray-200 transition-all duration-150 bg-white shadow rounded-lg p-4 cursor-pointer flex flex-col justify-center items-center">
-                    <img class="w-1/3 mx-auto" src="./img/cat.gif" alt="Card Image" class="w-full">
-                    <p class="text-center mt-2">ZY-player</p>
+            <!-- 右边展示图 -->
+            <div class="w-full md:w-2/3 p-8 relative">
+                <div class="swiper-container overflow-hidden">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <img src="./img/ys.jpg" alt="Image 1" class="w-full rounded-lg">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="./img/ys02.jpg" alt="Image 2" class="w-full rounded-lg">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="./img/ys03.jpg" alt="Image 3" class="w-full rounded-lg">
+                        </div>
+                    </div>
+                    <!-- Add Pagination -->
+                    <div class="swiper-pagination absolute bottom-4 left-1/2 transform -translate-x-1/2"></div>
                 </div>
             </div>
         </div>
-        <div id="download" class="container mx-auto mt-8 bg-white border rounded-lg px-3 py-4">
-            <ul class="max-h-64 overflow-auto"></ul>
+    </div>
+
+    <div class="container mx-auto mt-8 bg-white rounded-lg border border-gray-300 p-4">
+        <p>影视是一款基于猫影视开源的CatVodTVJarLoader项目，从零开始写。非常简洁清爽且功能强大。界面上采用 Android TV Leanback
+            架构，播放器采用最新版EXO及IJK开源专案的智能电视软件，使用体验感舒适，支持电视直播功能，界面非常简洁。
+        </p>
+    </div>
+
+    </div>
+
+    <div class="container mx-auto mt-8 bg-white rounded-lg border border-gray-300 p-4" style="text-align:center;">
+        <h2 class="text-center text-3xl font-bold my-4">配置地址点击复制</h2>
+    </div>
+    <!-- 卡片列表 -->
+    <div class="container mx-auto mt-8">
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
+            <!-- 卡片 1 -->
+            <div data-config="https://amanchi.netlify.app/am.json"
+                class="hover:bg-gray-200 transition-all duration-150 bg-white shadow rounded-lg p-4 cursor-pointer flex flex-col justify-center items-center">
+                <img class="w-1/3 mx-auto" src="./img/ts.png" alt="Card Image" class="w-full">
+                <p class="text-center mt-2">唐三</p>
+            </div>
+            <!-- 卡片 2 -->
+            <div data-config=""
+                class="hover:bg-gray-200 transition-all duration-150 bg-white shadow rounded-lg p-4 cursor-pointer flex flex-col justify-center items-center">
+                <img class="w-1/3 mx-auto" src="./img/fm.png" alt="Card Image" class="w-full">
+                <p class="text-center mt-2">FongMi</p>
+            </div>
+            <!-- 卡片 3 -->
+            <div data-config=""
+                class="hover:bg-gray-200 transition-all duration-150 bg-white shadow rounded-lg p-4 cursor-pointer flex flex-col justify-center items-center">
+                <img class="w-1/3 mx-auto" src="./img/yy.png" alt="Card Image" class="w-full">
+                <p class="text-center mt-2">霜辉月明</p>
+            </div>
+            <!-- 卡片 4 -->
+            <div data-config=""
+                class="hover:bg-gray-200 transition-all duration-150 bg-white shadow rounded-lg p-4 cursor-pointer flex flex-col justify-center items-center">
+                <img class="w-1/3 mx-auto" src="./img/12.png" alt="Card Image" class="w-full">
+                <p class="text-center mt-2">Utopia</p>
+            </div>
         </div>
+    </div>
+
+
+    <div id="download" class="container mx-auto mt-8 bg-white border rounded-lg px-3 py-4">
+        <ul class="max-h-64 overflow-auto"></ul>
+    </div>
+
+
+    <footer class="mt-8 bg-white text-black p-4 text-center">
+        <p class="power">Powered By
+            <a href="index.html" target="_blank">
+                <font color="#8a8a8a"> GitHub </font> Actions
+            </a>
+        </p>
+    </footer>
+
 </body>
+
 
 <script>
     function getSize(bytesLen) {
@@ -115,7 +174,7 @@
     }).catch(err => {
         Swal.fire({
             icon: 'error',
-            title: '下載資源請求失敗',
+            title: '下载资源请求失败',
             showConfirmButton: false,
             timer: 1000
         })
@@ -125,7 +184,7 @@
 <!-- 点击特效 -->
 <script>
         (function () {
-            let coreSocialistValues = ["💖", "富強", "💜", "民主", "💙", "文明", "💚", "和諧", "💛", "自由", "🤎", "平等", "💗", "公正", "💜", "法治", "💖", "愛國", "💚", "敬業", "💚", "誠信", "💖", "友善"];
+            let coreSocialistValues = ["💖", "富强", "💜", "民主", "💙", "文明", "💚", "和谐", "💛", "自由", "🤎", "平等", "💗", "公正", "💜", "法治", "💖", "爱国", "💚", "敬业", "💚", "诚信", "💖", "友善"];
             let index = Math.floor(Math.random() * coreSocialistValues.length);
             document.body.addEventListener('click', function (e) {
                 if (e.target.tagName == 'A') {
@@ -135,16 +194,16 @@
                 let y = e.pageY
                 let span = document.createElement('span');
                 span.textContent = coreSocialistValues[index];
-                index = (index + 1) % coreSocialistValues.length;//取模循環
+                index = (index + 1) % coreSocialistValues.length;//取模循环
                 span.style.cssText = ['z-index: 9999999; position: absolute; font-weight: bold; color: #ff6651; top: ', y - 20, 'px; left: ', x, 'px;'].join('');
                 document.body.appendChild(span);
                 animate(span);
             });
-            function animate(el) {//動畫
+            function animate(el) {//动画
                 let i = 0
                 let top = parseInt(el.style.top)
                 let id = setInterval(frame, 24);
-                function frame() {//幀
+                function frame() {//帧
                     if (i > 180) {
                         clearInterval(id);
                         el.parentNode.removeChild(el);
@@ -168,7 +227,7 @@
             el: '.swiper-pagination',
             clickable: true,
         }, autoplay: {
-            delay: 3000, // 設置輪播切換時間為3秒
+            delay: 3000, // 设置轮播切换时间为3秒
         },
     });
 </script>
@@ -221,7 +280,7 @@
             } else {
                 Swal.fire({
                     icon: 'error',
-                    title: '复制失敗',
+                    title: '复制失败',
                     showConfirmButton: false,
                     timer: 1000
                 });
@@ -230,7 +289,7 @@
             console.error('Fallback: Oops, unable to copy', err);
             Swal.fire({
                 icon: 'error',
-                title: '复制失敗',
+                title: '复制失败',
                 showConfirmButton: false,
                 timer: 1000
             });
@@ -260,14 +319,12 @@
                 return false;
             }
         };
-        //屏蔽鼠标右鍵
+        //屏蔽鼠标右键
         document.oncontextmenu = function () {
             return false;
         }
     }
 
 </script>
-<!--雪花API-->
-<script src='https://api.vvhan.com/api/snow'></script>
 
 </html>
