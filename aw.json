@@ -572,7 +572,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "jar": "https://amanchi.netlify.app/jar/fm.jar",
             "ext": "https://amanchi.netlify.app/txt/token.txt"
         },
         {
