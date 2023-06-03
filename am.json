@@ -695,7 +695,6 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "https://amanchi.netlify.app/jar/fm.jar",
       "ext": "https://amanchi.netlify.app/json/duboku.json"
     },
     {
