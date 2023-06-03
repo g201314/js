@@ -560,7 +560,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": "0",
-            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+            "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
         },
         {
             "key": "七夜",
@@ -572,7 +572,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://amanchi.netlify.app/txt/token.txt"
+            "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
         },
         {
             "key": "TuGou",
@@ -584,7 +584,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://amanchi.netlify.app/txt/token.txt"
+            "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
         },
         {
             "key": "Zhaozy",
@@ -595,7 +595,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://amanchi.netlify.app/txt/token.txt$$$fanfan$$$qqq111"
+            "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt$$$fanfan$$$qqq111"
         },
         {
             "key": "YiSo",
@@ -607,7 +607,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": "0",
-            "ext": "https://amanchi.netlify.app/txt/token.txt"
+            "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
         },
         {
             "key": "PanSearch",
@@ -619,7 +619,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://amanchi.netlify.app/txt/token.txt"
+            "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
         },
         {
             "key": "PanSou",
@@ -631,7 +631,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": "0",
-            "ext": "https://amanchi.netlify.app/txt/token.txt"
+            "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
         },
         {
             "key": "UpYun",
@@ -643,7 +643,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": "0",
-            "ext": "https://amanchi.netlify.app/txt/token.txt"
+            "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
         },
         {
             "key": "本地",
@@ -679,7 +679,7 @@
             "filterable": 0,
             "changeable": "0",
             "jar": "https://amanchi.netlify.app/jar/fm.jar",
-            "ext": "https://amanchi.netlify.app/txt/token.txt"
+            "ext": "https://cn-cd-dx-2.natfrp.cloud:44327/txt/token.txt"
         }
     ],
     "doh": [
