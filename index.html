@@ -9,60 +9,60 @@
             background-color: #f2f2f2;
             font-family: Arial, sans-serif;
         }
-    
+
         h1 {
             color: #333;
             font-size: 24px;
         }
-    
+
         h2 {
             color: #555;
             font-size: 18px;
         }
-    
+
         ul {
             list-style-type: none;
             padding-left: 0;
         }
-    
+
         li {
             margin-bottom: 5px;
         }
-    
+
         a {
             color: #007bff;
             text-decoration: none;
         }
-    
+
         a:hover {
             text-decoration: underline;
         }
-    
+
         /* New styles */
         table {
             width: 100%;
             border-collapse: collapse;
             margin-bottom: 20px;
         }
-    
+
         th,
         td {
             padding: 8px;
             text-align: left;
             border-bottom: 1px solid #ddd;
         }
-    
+
         /* Background effects */
         .clickable {
             cursor: pointer;
             transition: background-color 0.3s;
         }
-    
+
         .clickable:hover {
             background-color: #f9f9f9;
         }
     </style>
-   <script>
+    <script>
         (function () {
             let coreSocialistValues = ["🐈‍⬛"];
             let index = Math.floor(Math.random() * coreSocialistValues.length);
@@ -74,16 +74,16 @@
                 let y = e.pageY
                 let span = document.createElement('span');
                 span.textContent = coreSocialistValues[index];
-                index = (index + 1) % coreSocialistValues.length;//取模循环
-                span.style.cssText = ['z-index: 9999999; position: absolute; font-weight: bold; color: #ff6651; top: ', y - 20, 'px; left: ', x, 'px;'].join('');
+                index = (index + 1) % coreSocialistValues.length;
+                span.style.cssText = `z-index: 9999999; position: absolute; font-weight: bold; color: #ff6651; top: ${y - 20}px; left: ${x}px;`;
                 document.body.appendChild(span);
                 animate(span);
             });
-            function animate(el) {//动画
+            function animate(el) {
                 let i = 0
                 let top = parseInt(el.style.top)
                 let id = setInterval(frame, 24);
-                function frame() {//帧
+                function frame() {
                     if (i > 180) {
                         clearInterval(id);
                         el.parentNode.removeChild(el);
@@ -95,103 +95,84 @@
                 }
             }
         }());
-</script>
+    </script>
 </head>
 
 <body>
-    <body>
-        <h1>配置地址</h1>
+    <h1>配置地址</h1>
+    <ul>
+        <li><a href="https://amanchi.netlify.app/am.json">配置地址一</a></li>
+        <li><a href="https://amanchi.netlify.app/aw.json">配置地址二</a></li>
+        <li><a href="https://amanchi.netlify.app/ts.json">配置地址三</a></li>
+        <li><a href="https://amanchi.netlify.app/ZY-player.json">ZY-player</a></li>
+        <li>影视：<a href="https://wwpy.lanzouj.com/b02kjkjcd">链接</a>（密码：fc3s）</li>
+        <li>影视TV版：<a href="https://wwpy.lanzouj.com/i1Taw0y4yfdg">链接</a>（密码：ex8o）</li>
+    </ul>
+    <div>
+        <h2>特殊功能</h2>
         <ul>
-            <li><a href="https://amanchi.netlify.app/am.json">配置地址一</a></li>
-            <li><a href="https://amanchi.netlify.app/aw.json">配置地址二</a></li>
-            <li><a href="https://amanchi.netlify.app/ts.json">配置地址三</a></li>
-            <li><a href="https://amanchi.netlify.app/ZY-player.json">ZY-player</a></li>
-            <li>影视：<a href="https://wwpy.lanzouj.com/b02kjkjcd">链接</a>（密码：fc3s）</li>
-            <li>影视TV版：<a href="https://wwpy.lanzouj.com/i1Taw0y4yfdg">链接</a>（密码：ex8o）</li>
+            <li>版本号 点按正式版更新 长按内测版更新</li>
+            <li>单条点播站源或直播列表配置可指定播放器 (添加"playerType": 1或2 1: IJK 2: EXO 不写则默认跟随接口设定)</li>
+            <li>本地接口兼容TVB接口协议 自动转 file:// 协议 (clan://localhost/ 和 clan://)</li>
+            <li>本地接口配置可浏览模式直接选中接口文件</li>
+            <li>支持多线路接口识别 (请参考仓库范例)</li>
+            <li>EXO 支持带验证的地址</li>
+            <li>支持缓存清理</li>
+            <li>支持DOH (即dns服务 可接口写入)</li>
+            <li>EXO: 隧道模式 连线方式 ua模式 (APP设置 播放器切换到EXO 然后长按即可弹窗 隧道模式即原音原画直通输出模式 必须使用 SurfaceView 需要高级设备支持 一般不需打开此功能)</li>
+            <li>IJK: ua模式 (类同EXO操作)</li>
         </ul>
-        <div>
-            <h2>特殊功能</h2>
-            <ul>
-                <li>版本号 点按正式版更新 长按内测版更新</li>
-                <li>单条点播站源或直播列表配置可指定播放器 (添加"playerType": 1或2 1: IJK 2: EXO 不写则默认跟随接口设定)</li>
-                <li>本地接口兼容TVB接口协议 自动转 file:// 协议 (clan://localhost/ 和 clan://)</li>
-                <li>本地接口配置可浏览模式直接选中接口文件</li>
-                <li>支持多线路接口识别 (请参考仓库范例)</li>
-                <li>EXO 支持带验证的地址</li>
-                <li>支持缓存清理</li>
-                <li>支持DOH (即dns服务 可接口写入)</li>
-                <li>EXO: 隧道模式 连线方式 ua模式 (APP设置 播放器切换到EXO 然后长按即可弹窗
-                    隧道模式即原音原画直通输出模式
-                    必须使用 SurfaceView 需要高级设备支持
-                    一般不需打开此功能)</li>
-                <li>IJK: ua模式 (类同EXO操作)</li>
-            </ul>
-        </div>
-    
-        <div>
-            <h2>点播功能</h2>
-            <ul>
-                <li>支持投屏 (手机端投＞TV端&接口一同投送和支持DLNA接收的设备)</li>
-                <li>内置聚合解析</li>
-                <li>支持语音搜索</li>
-                <li>支持 HTTP/3 协议</li>
-                <li>EXO:支持略过广告切片/支持rules规则 (20230518内测版起壳不再自动略过广告
-                    需写切片广告规则到接口配置食用
-                    注意:此规则配置暂不能兼容TVB等APP)</li>
-                <li>支持邻近装置互动</li>
-                <li>轨道切换自动记忆</li>
-                <li>片头片尾快捷标记与微调(手机端无微调)
-                    (TV端方向上键+OK.以影片时间一半前后
-                    为标准设定片头/片尾 对焦后上下键微调)</li>
-                <li>刷新、回放一键切换 (TV端独有 长按切换 点按实现当前功能
-                    手机端详情页下拉刷新)</li>
-                <li>自动换线路，换站源 (可配置设定关闭换源 添加"switchable": 0
-                    配置加载过久可返回也可APP设定关闭)</li>
-                <li>收藏的影片可自动切换至该接口</li>
-                <li>采用最新 EXO 播放器支持软硬解</li>
-                <li>支援调用idm+下载影片 (手机版独有功能 详细页播放器窗口分享按钮 >选择idm+即可下载)</li>
-                <li>全屏状态下支持选集播放 (手机版详情页选集后面的"更多"按钮也可选择更多的片集)</li>
-                <li>支持单集播放循环 (需播放器菜单栏开启)</li>
-                <li>支持列表模式显示 (alist one等网盘和本地视频体验最佳)</li>
-                <li>分类支持长按刷新</li>
-                <li>配置加载过久可返回</li>
-                <li>搜索支持活页夹格式</li>
-                <li>支持同步收藏和观看纪录 (需手机和电视更新到最新版 )
-                    同步规则(接口配置一同同步):
-                    1. 双向同步 (手机 <—> 电视 手机 <—> 手机 电视 <XX>电视)
-                                2. 同一部片新的盖掉旧的 (比如手机昨天放第二集 今天电视播放第一集
-                                那么同步同为第一集)
-                                3. 不存在则新增纪录同步规则</li>
-            </ul>
-        </div>
-    
-        <div>
-            <h2>直播功能</h2>
-            <ul>
-                <li>带密码分组隐藏 (狂点收藏5次弹框输入密码后才能显示分组
-                    电视端1.7.8版起 配置添加"pass" : true
-                    可以直接显示密码分类
-                    已收藏的密码分类的频道也可显示食用)</li>
-                <li>支持多条直播源列表(俗称直播接口)</li>
-                <li>配置支持常规txt m3u格式和影视独有的json格式直播列表
-                    (即配置"type": 0和1的区别)</li>
-                <li>配置可设定 EPG 地址 (节目信息和logo)</li>
-                <li>配置可设定启动 App 进入直播 (添加 "boot": true)</li>
-                <li>支持 p2p~p9p、mitv、zlive、tvbus 等特殊协议 (64位APP不支持)</li>
-                <li>支持油管直播源解析 (网址要包含www.youtube.com才会解
-                    大陆地区需要翻墙)</li>
-                <li>配置支持header/ua/referer (个别源需要添加此项一种或多钟方可正常播放)</li>
-            </ul>
-        </div>
-    
-        <div>
-            <h2>推送功能</h2>
-            <ul>
-                <li>手机版支持粘贴板识别 (也可自行选择粘贴板)</li>
-                <li>手机版支持本地视频播放 (需jar支持 一般的jar都支持)</li>
-            </ul>
-        </div>
-    </body>
+    </div>
+
+    <div>
+        <h2>点播功能</h2>
+        <ul>
+            <li>支持投屏 (手机端投＞TV端&接口一同投送和支持DLNA接收的设备)</li>
+            <li>内置聚合解析</li>
+            <li>支持语音搜索</li>
+            <li>支持 HTTP/3 协议</li>
+            <li>EXO:支持略过广告切片/支持rules规则 (20230518内测版起壳不再自动略过广告 需写切片广告规则到接口配置食用 注意:此规则配置暂不能兼容TVB等APP)</li>
+            <li>支持邻近装置互动</li>
+            <li>轨道切换自动记忆</li>
+            <li>片头片尾快捷标记与微调(手机端无微调) (TV端方向上键+OK.以影片时间一半前后 为标准设定片头/片尾 对焦后上下键微调)</li>
+            <li>刷新、回放一键切换 (TV端独有 长按切换 点按实现当前功能 手机端详情页下拉刷新)</li>
+            <li>自动换线路，换站源 (可配置设定关闭换源 添加"switchable": 0 配置加载过久可返回也可APP设定关闭)</li>
+            <li>收藏的影片可自动切换至该接口</li>
+            <li>采用最新 EXO 播放器支持软硬解</li>
+            <li>支援调用idm+下载影片 (手机版独有功能 详细页播放器窗口分享按钮 >选择idm+即可下载)</li>
+            <li>全屏状态下支持选集播放 (手机版详情页选集后面的"更多"按钮也可选择更多的片集)</li>
+            <li>支持单集播放循环 (需播放器菜单栏开启)</li>
+            <li>支持列表模式显示 (alist one等网盘和本地视频体验最佳)</li>
+            <li>分类支持长按刷新</li>
+            <li>配置加载过久可返回</li>
+            <li>搜索支持活页夹格式</li>
+            <li>支持同步收藏和观看纪录 (需手机和电视更新到最新版 ) 同步规则(接口配置一同同步): 1. 双向同步 (手机 <—> 电视 手机 <—> 手机 电视 <XX>电视) 2. 同一部片新的盖掉旧的
+                            (比如手机昨天放第二集 今天电视播放第一集 那么同步同为第一集) 3. 不存在则新增纪录同步规则</li>
+        </ul>
+    </div>
+
+    <div>
+        <h2>直播功能</h2>
+        <ul>
+            <li>带密码分组隐藏 (狂点收藏5次弹框输入密码后才能显示分组 电视端1.7.8版起 配置添加"pass" : true 可以直接显示密码分类 已收藏的密码分类的频道也可显示食用)</li>
+            <li>支持多条直播源列表(俗称直播接口)</li>
+            <li>配置支持常规txt m3u格式和影视独有的json格式直播列表 (即配置"type": 0和1的区别)</li>
+            <li>配置可设定 EPG 地址 (节目信息和logo)</li>
+            <li>配置可设定启动 App 进入直播 (添加 "boot": true)</li>
+            <li>支持 p2p~p9p、mitv、zlive、tvbus 等特殊协议 (64位APP不支持)</li>
+            <li>支持油管直播源解析 (网址要包含www.youtube.com才会解 大陆地区需要翻墙)</li>
+            <li>配置支持header/ua/referer (个别源需要添加此项一种或多钟方可正常播放)</li>
+        </ul>
+    </div>
+
+    <div>
+        <h2>推送功能</h2>
+        <ul>
+            <li>手机版支持粘贴板识别 (也可自行选择粘贴板模式 长按播放按钮即可选择)</li>
+            <li>手机版支持二维码识别 (本地二维码图片 或者云端图片链接 本地图片需手机有权限访问)</li>
+            <li>支持远程推送 (配置需为https地址 常用于外置WAN或局域网内透过推送机 推送一行命令给机器 开启服务端配制开机自启)</li>
+        </ul>
+    </div>
 </body>
 
 </html>
