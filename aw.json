@@ -464,7 +464,7 @@
             "key": "3412",
             "name": "3412",
             "type": 1,
-            "api": "https://v.3412.net.cn/api.php/vod",
+            "api": "https://v.3412.net.cn/api.php/",
             "playUrl": "https://z.3412.net.cn/player?url=",
             "playerType": 2,
             "searchable": 1,
