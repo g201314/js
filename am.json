@@ -767,7 +767,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$fanfan$$$qqq111"
+      "ext": "https://amanchi.netlify.app/txt/token.txt$$$fanfan$$$qqq111"
     },
     {
       "key": "PanSearch",
