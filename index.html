@@ -63,38 +63,54 @@
         }
     </style>
     <script>
-        (function () {
-            let coreSocialistValues = ["🐈‍⬛"];
-            let index = Math.floor(Math.random() * coreSocialistValues.length);
-            document.body.addEventListener('click', function (e) {
-                if (e.target.tagName == 'A') {
-                    return;
-                }
-                let x = e.pageX
-                let y = e.pageY
-                let span = document.createElement('span');
-                span.textContent = coreSocialistValues[index];
-                index = (index + 1) % coreSocialistValues.length;
-                span.style.cssText = `z-index: 9999999; position: absolute; font-weight: bold; color: #ff6651; top: ${y - 20}px; left: ${x}px;`;
-                document.body.appendChild(span);
-                animate(span);
-            });
-            function animate(el) {
-                let i = 0
-                let top = parseInt(el.style.top)
-                let id = setInterval(frame, 24);
-                function frame() {
-                    if (i > 180) {
-                        clearInterval(id);
-                        el.parentNode.removeChild(el);
-                    } else {
-                        i += 2;
-                        el.style.top = top - i + 'px';
-                        el.style.opacity = (180 - i) / 180;
-                    }
-                }
-            }
-        }());
+        function getRandomValue() {
+            var values = [
+                "爱国",
+                "集体主义",
+                "社会主义",
+                "公正",
+                "法治",
+                "廉洁",
+                "诚信",
+                "友善",
+                "勤劳",
+                "守纪律",
+                "奉献",
+                "团结",
+                "平等",
+                "民主",
+                "自由",
+                "文明",
+                "和谐",
+                "公平",
+                "友爱",
+                "敬业",
+                "诚实",
+                "忠诚",
+                "正直",
+                "谦虚",
+                "谦让",
+                "学习",
+                "创新",
+                "实事求是",
+                "崇尚科学",
+                "开放",
+                "包容",
+                "绿色",
+                "可持续发展",
+                "共享",
+                "互助",
+                "幸福",
+                "美丽中国"
+            ];
+            var randomIndex = Math.floor(Math.random() * values.length);
+            return values[randomIndex];
+        }
+
+        function applyRandomValue() {
+            var element = document.getElementById("randomValue");
+            element.innerHTML = getRandomValue();
+        }
     </script>
 </head>
 
@@ -168,11 +184,27 @@
     <div>
         <h2>推送功能</h2>
         <ul>
-            <li>手机版支持粘贴板识别 (也可自行选择粘贴板模式 长按播放按钮即可选择)</li>
-            <li>手机版支持二维码识别 (本地二维码图片 或者云端图片链接 本地图片需手机有权限访问)</li>
-            <li>支持远程推送 (配置需为https地址 常用于外置WAN或局域网内透过推送机 推送一行命令给机器 开启服务端配制开机自启)</li>
+            <li>手机版支持远程通知</li>
+            <li>接口可自动推送 (只限广告类接口)</li>
         </ul>
     </div>
+
+    <div>
+        <h2>更多功能</h2>
+        <ul>
+            <li>支持用户接口自定义 (详细参考接口教程)</li>
+            <li>电视版添加文件管理器 (可在分类界面长按选中文件)</li>
+            <li>电视版长按频道管理分类</li>
+            <li>电视版长按频道管理分类 (分类列表可以长按进入编辑状态 按菜单键可以新增 修改 删除 分组长按上下移动分类顺序 )</li>
+            <li>电视版添加了接口更新检测功能 (上方自行设置/扫描新版本更新然后会弹出版本号列表 可按上下键选择点按确定下载 更新文件会自动进入安装器)</li>
+            <li>电视版增加了搜索记录清除按钮 (手机版长按搜索记录可以清除)</li>
+            <li>手机版播放器增加音量调节</li>
+        </ul>
+    </div>
+
+    <h2 class="clickable" onclick="applyRandomValue(2)">点击这里展示一个随机值：</h2>
+    <p id="randomValue"></p>
+
 </body>
 
 </html>
