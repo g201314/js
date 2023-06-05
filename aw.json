@@ -234,10 +234,10 @@
             "type": 3,
             "api": "csp_Bili",
             "playerType": 2,
-            "searchable": "1",
-            "quickSearch": "0",
+            "searchable": 1,
+            "quickSearch": 0,
             "filterable": 1,
-            "changeable": "0",
+            "changeable": 0,
             "ext": "https://amanchi.netlify.app/json/bl.json"
         },
         {
@@ -351,45 +351,6 @@
                 "欧美动漫",
                 "港台动漫",
                 "海外动漫"
-            ]
-        },
-        {
-            "key": "暴风资源",
-            "name": "暴风",
-            "type": 1,
-            "api": "http://bfzy.tv/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "恐怖片",
-                "科幻片",
-                "爱情片",
-                "剧情片",
-                "战争片",
-                "纪录片",
-                "伦理片",
-                "国产剧",
-                "欧美剧",
-                "香港剧",
-                "韩国剧",
-                "台湾剧",
-                "日本剧",
-                "海外剧",
-                "泰国剧",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "动画片"
             ]
         },
         {
@@ -511,10 +472,32 @@
             "name": "动漫",
             "type": 3,
             "api": "csp_Dm84",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Ying",
+            "name": "樱花",
+            "type": 3,
+            "api": "csp_Ying",
             "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Ysj",
+            "name": "异界",
+            "type": 3,
+            "api": "csp_Ysj",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "changeable": 1
         },
         {
@@ -537,7 +520,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": "0"
+            "changeable": 0
         },
         {
             "key": "獨播",
@@ -559,7 +542,19 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": "0"
+            "changeable": 0
+        },
+        {
+            "key": "csp_If101",
+            "name": "If101",
+            "type": 3,
+            "api": "csp_If101",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+
         },
         {
             "key": "csp_WoGG",
@@ -570,7 +565,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": "0",
+            "changeable": 0,
             "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
         },
         {
@@ -617,7 +612,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": "0",
+            "changeable": 0,
             "ext": "https://amanchi.netlify.app/txt/token.txt"
         },
         {
@@ -641,7 +636,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": "0",
+            "changeable": 0,
             "ext": "https://amanchi.netlify.app/txt/token.txt"
         },
         {
@@ -653,7 +648,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": "0",
+            "changeable": 0,
             "ext": "https://amanchi.netlify.app/txt/token.txt"
         },
         {
@@ -688,7 +683,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "changeable": "0",
+            "changeable": 0,
             "jar": "https://amanchi.netlify.app/jar/fm.jar",
             "ext": "https://amanchi.netlify.app/txt/token.txt"
         }
