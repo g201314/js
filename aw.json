@@ -271,7 +271,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "drpy_js_多瑙",
@@ -283,7 +283,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "量子",
@@ -294,7 +294,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 1,
-            "filterable": 1,
+            "filterable": 0,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -341,7 +341,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 1,
-            "filterable": 1,
+            "filterable": 0,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -383,7 +383,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "csp_BuLei",
