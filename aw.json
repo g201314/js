@@ -410,7 +410,7 @@
             "ext": "https://www.555dyy1.com"
         },
         {
-            "key": "Smdyy",
+            "key": "csp_Smdyy",
             "name": "神马",
             "type": 3,
             "api": "csp_Smdyy",
@@ -418,7 +418,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "csp_Lgyy",
@@ -451,7 +451,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1,
+            "changeable": 0,
             "jar": "https://amanchi.netlify.app/jar/fm.jar"
         },
         {
