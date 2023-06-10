@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://jianbian.chuqiuyu.tk",
-    "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;5ce71caef727c72289254da2925f7af5",
+    "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;f29e9bc19d40c5d4cbb271ec41172c74",
     "lives": [
         {
             "name": "live",
@@ -443,18 +443,6 @@
             "changeable": 1
         },
         {
-            "key": "星星",
-            "name": "星星",
-            "type": 3,
-            "api": "csp_Star",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "jar": "https://amanchi.netlify.app/jar/fm.jar"
-        },
-        {
             "key": "3412",
             "name": "3412",
             "type": 1,
@@ -543,6 +531,18 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
+        },
+        {
+            "key": "星星",
+            "name": "星星",
+            "type": 3,
+            "api": "csp_Star",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "jar": "https://amanchi.netlify.app/jar/fm.jar"
         },
         {
             "key": "獨播",
