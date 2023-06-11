@@ -301,18 +301,6 @@
       "changeable": 1
     },
     {
-      "key": "星星",
-      "name": "星星",
-      "type": 3,
-      "api": "csp_Star",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "jar": "https://amanchi.netlify.app/jar/fm.jar"
-    },
-    {
       "key": "csp_Dy1010",
       "name": "1010",
       "type": 3,
@@ -719,6 +707,18 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": "0"
+    },
+    {
+      "key": "星星",
+      "name": "星星",
+      "type": 3,
+      "api": "csp_Star",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "jar": "https://amanchi.netlify.app/jar/fm.jar"
     },
     {
       "key": "獨播",
