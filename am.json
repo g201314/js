@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;f29e9bc19d40c5d4cbb271ec41172c74",
+  "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;07ff6d19a9ea286236e8ae32067dbbda",
   "lives": [
     {
       "name": "live",
@@ -39,6 +39,17 @@
       "name": "快看",
       "type": 3,
       "api": "csp_Kuaikan",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_DuoX",
+      "name": "多线",
+      "type": 3,
+      "api": "csp_DuoX",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -752,7 +763,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": "0",
-      "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
+      "ext": "http://tvmvip110.club/tv/box/alitoken/token.php+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
     },
     {
       "key": "七夜",
