@@ -30,7 +30,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": "https://api-aws.11ty.top"
         },
         {
@@ -41,7 +41,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "csp_DuoX",
@@ -51,7 +51,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "csp_appys_如意4K",
@@ -61,7 +61,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "playurl": "json:https://jx.4kdv.com/?url=",
             "ext": "http://cms.maoyingshi.cc/api.php/app/"
         },
@@ -83,7 +83,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": "https://amanchi.netlify.app/json/nm.json"
         },
         {
@@ -94,7 +94,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "csp_BuLei",
@@ -104,7 +104,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": "http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"
         },
         {
@@ -115,7 +115,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": "U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
         },
         {
@@ -127,7 +127,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "csp_Czsapp",
@@ -137,7 +137,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "csp_Zxzj",
@@ -147,7 +147,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "csp_DiDuan",
@@ -157,7 +157,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "csp_Dy1010",
@@ -167,7 +167,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "csp_fantuan",
@@ -177,7 +177,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": "https://www.fantuanhd.com"
         },
         {
@@ -188,7 +188,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": "https://www.6080dy3.com"
         },
         {
@@ -199,7 +199,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": "https://www.ysgc.fun"
         },
         {
@@ -210,7 +210,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": "https://tv.libvio.cc/"
         },
         {
@@ -221,7 +221,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": "hjju123@qq.com$$$123456"
         },
         {
@@ -232,7 +232,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "csp_Voflix",
@@ -242,7 +242,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "Bili",
@@ -252,7 +252,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": "https://amanchi.netlify.app/json/bl.json"
         },
         {
@@ -264,7 +264,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "drpy_js_多瑙",
@@ -275,7 +275,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "量子",
@@ -284,7 +284,7 @@
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "quickSearch": 0,
-            "changeable": 0,
+            "changeable": 1,
             "filterable": 0,
             "categories": [
                 "国产动漫",
@@ -330,7 +330,7 @@
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "quickSearch": 0,
-            "changeable": 0,
+            "changeable": 1,
             "filterable": 0,
             "categories": [
                 "国产动漫",
@@ -372,7 +372,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "csp_555",
@@ -382,7 +382,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": "https://www.555dyy1.com"
         },
         {
@@ -393,7 +393,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "csp_Lgyy",
@@ -410,10 +410,11 @@
             "name": "苹果",
             "type": 3,
             "api": "csp_LiteApple",
+            "playerType":1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "csp_xpath_348z",
@@ -423,7 +424,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": "https://amanchi.netlify.app/json/348z.json"
         },
         {
@@ -434,7 +435,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "csp_Bd",
@@ -444,7 +445,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "Dm84",
@@ -454,7 +455,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "csp_Ysj",
@@ -464,13 +465,12 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "drpy_js_有声小说r",
             "name": "听书",
             "type": 3,
-            "changeable": 0,
             "searchable": 1,
             "filterable": 0,
             "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
