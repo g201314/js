@@ -531,6 +531,16 @@
             "changeable": 1
         },
         {
+            "key": "MV_vod",
+            "name": "MV",
+            "type": 1,
+            "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "drpy_js_有声小说r",
             "name": "听书",
             "type": 3,
