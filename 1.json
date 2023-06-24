@@ -1,0 +1,205 @@
+{
+    "wallpaper": "https://jianbian.chuqiuyu.tk",
+    "spider": "https://qu.ax/GVzM.js",
+    "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": "https://amanchi.netlify.app/txt/live.txt",
+            "epg": "https://live.fanmingming.com/e.xml",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "playerType": 2
+        }
+    ],
+    "sites": [
+        {
+            "key": "drpy_douy",
+            "name": "🐅虎牙js",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "ext": "https://qu.ax/uNjv.json"
+        },
+        {
+            "key": "drpy_trj",
+            "name": "🛫唐人街(墙外)",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "ext": "https://qu.ax/gNAX.js"
+        },
+        {
+            "key": "drpy_hh",
+            "name": "🛫吼吼影视(墙外)",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "ext": "https://qu.ax/Rjcb.js"
+        },
+        {
+            "key": "drpy_od",
+            "name": "🛫欧帝影视(墙外)",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "ext": "https://qu.ax/UpMx.js"
+        },
+        {
+            "key": "drpy_dbk",
+            "name": "🛫独播影视(墙外)",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "ext": "https://qu.ax/raDL.js"
+        },
+        {
+            "key": "drpy_js_楚门影院.js]",
+            "name": " 🛫| 楚门影院.js",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "ext": "https://qu.ax/cltC.js"
+        },
+        {
+            "key": "drpy_kb",
+            "name": "🛫酷播影视(墙外)",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "ext": "https://qu.ax/erWZ.js"
+        },
+        {
+            "key": "dr_htu",
+            "name": "✈️海兔影院[飞]",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://qu.ax/DzuU.js"
+        },
+        {
+            "key": "dr_flin",
+            "name": "✈️枫林影院[飞]",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://qu.ax/VcQC.js"
+        },
+        {
+            "key": "drpy_xb",
+            "name": "🛫小宝影视(墙外)",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "ext": "https://qu.ax/PAlw.js"
+        },
+        {
+            "key": "drpy_qy",
+            "name": "🐵奇优影院",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "ext": "https://qu.ax/jgob.js"
+        },
+        {
+            "key": "drpy_yak",
+            "name": "😻粤爱看",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "ext": "https://qu.ax/vedK.js"
+        },
+        {
+            "key": "drpy_tvb",
+            "name": "☁️云播",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "ext": "https://qu.ax/XYTJ.js"
+        },
+        {
+            "key": "drpy_101",
+            "name": "🐽来欧来蓝光",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "ext": "https://qu.ax/dYsz.js"
+        },
+        {
+            "key": "dr_cz",
+            "name": "🚚厂长蓝光",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://qu.ax/PTrQ.js"
+        },
+        {
+            "key": "dr_qif",
+            "name": "🛫起飞影院",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://qu.ax/UcEe.js"
+        },
+        {
+            "key": "dr_bl4k",
+            "name": "👹┃布蕾┃蓝光",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://qu.ax/PQeB.js"
+        },
+        {
+            "key": "drpy_js_腾云驾雾",
+            "name": "🐧|官源",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "ext": "https://qu.ax/yWhg.js"
+        },
+        {
+            "key": "drpy_js_百忙无果",
+            "name": "官源 | 🥭",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "ext": "https://qu.ax/uUHi.js"
+        },
+        {
+            "key": "drpy_js_奇珍异兽",
+            "name": "官源 |🥝",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "ext": "https://qu.ax/GkLR.js"
+        },
+        {
+            "key": "drpy_yh",
+            "name": "官源 | ⛽",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "ext": "https://qu.ax/Qvlv.js"
+        },
+        {
+            "key": "drpy_js_菜狗",
+            "name": "官源 | 🐕",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "ext": "https://qu.ax/cYvz.js"
+        },
+        {
+            "key": "dr_hqu",
+            "name": "🦚️好趣直播",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://qu.ax/PiFD.js"
+        },
+        {
+            "key": "dr_77",
+            "name": "🛩️┃酷云秒播┃",
+            "type": 3,
+            "api": "https://qu.ax/MEWV.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://qu.ax/gnDK.js"
+        }
+    ]
+}

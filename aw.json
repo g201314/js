@@ -562,61 +562,6 @@
             "changeable": 0
         },
         {
-            "key": "drpy_hh",
-            "name": "🛫吼吼影视(墙外)",
-            "type": 3,
-            "api": "https://qu.ax/MEWV.js",
-            "ext": "https://qu.ax/Rjcb.js"
-        },
-        {
-            "key": "drpy_od",
-            "name": "🛫欧帝影视(墙外)",
-            "type": 3,
-            "api": "https://qu.ax/MEWV.js",
-            "ext": "https://qu.ax/UpMx.js"
-        },
-        {
-            "key": "drpy_dbk",
-            "name": "🛫独播影视(墙外)",
-            "type": 3,
-            "api": "https://qu.ax/MEWV.js",
-            "ext": "https://qu.ax/raDL.js"
-        },
-        {
-            "key": "drpy_kb",
-            "name": "🛫酷播影视(墙外)",
-            "type": 3,
-            "api": "https://qu.ax/MEWV.js",
-            "ext": "https://qu.ax/erWZ.js"
-        },
-        {
-            "key": "dr_htu",
-            "name": "✈️海兔影院[飞]",
-            "type": 3,
-            "api": "https://qu.ax/MEWV.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://qu.ax/DzuU.js"
-        },
-        {
-            "key": "dr_flin",
-            "name": "✈️枫林影院[飞]",
-            "type": 3,
-            "api": "https://qu.ax/MEWV.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://qu.ax/VcQC.js"
-        },
-        {
-            "key": "drpy_xb",
-            "name": "🛫小宝影视(墙外)",
-            "type": 3,
-            "api": "https://qu.ax/MEWV.js",
-            "ext": "https://qu.ax/PAlw.js"
-        },
-        {
             "key": "星星",
             "name": "星星",
             "type": 3,
