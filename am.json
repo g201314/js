@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;09baf4a03d362d96f0fc14085c343191",
+  "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;34dc1e75d13e681afded3cdda2d3a001",
   "lives": [
     {
       "name": "live",
@@ -105,6 +105,17 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+    },
+    {
+      "key": "酷酷",
+      "name": "💡酷酷┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://ys.realdou.cn/api.php/app/",
+      "categories": [
+        "4K电影",
+        "4K电视剧"
+      ]
     },
     {
       "key": "csp_Czsapp",
