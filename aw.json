@@ -91,9 +91,10 @@
         },
         {
             "key": "酷酷",
-            "name": "💡酷酷┃App",
+            "name": "酷酷",
             "type": 3,
             "api": "csp_AppYsV2",
+            "playerType": 2,
             "ext": "http://ys.realdou.cn/api.php/app/",
             "categories": [
                 "4K电影",
@@ -101,20 +102,11 @@
             ]
         },
         {
-            "key": "多米",
-            "name": "多米",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://v.dmdh.top/api.php/app/"
-        },
-        {
             "key": "爱迪",
             "name": "爱迪",
             "type": 3,
             "api": "csp_AppYsV2",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
