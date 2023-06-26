@@ -290,16 +290,6 @@
       "ext": "9248c57eb22ace4a3431fbd1a979465f"
     },
     {
-      "key": "Upso",
-      "name": "云搜",
-      "type": "3",
-      "api": "csp_UpYun",
-      "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1"
-    },
-    {
       "key": "Lib",
       "name": "Libvio",
       "type": "3",
@@ -374,6 +364,16 @@
       "quickSearch": "1",
       "filterable": "1",
       "ext": "https://amanchi.netlify.app/txt/token.txt"
+    },
+    {
+      "key": "Upso",
+      "name": "云搜",
+      "type": "3",
+      "api": "csp_UpYun",
+      "changeable": "0",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1"
     },
     {
       "key": "找資源",
