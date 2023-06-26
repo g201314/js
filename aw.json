@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://jianbian.chuqiuyu.tk",
-    "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;34dc1e75d13e681afded3cdda2d3a001",
+    "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;aa645ef076aff7c6b3b3239ee85a87c1",
     "lives": [
         {
             "name": "live",
@@ -84,10 +84,21 @@
             "name": "落叶",
             "type": 3,
             "api": "csp_AppYsV2",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://xn--yeta099v.online:66/api.php/app/"
+        },
+        {
+            "key": "探探",
+            "name": "探探",
+            "type": 3,
+            "api": "csp_YT",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "酷酷",
