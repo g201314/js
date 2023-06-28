@@ -30,7 +30,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
       "ext": "https://api-aws.11ty.top"
     },
     {
@@ -40,8 +39,7 @@
       "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "csp_DuoX",
@@ -50,8 +48,7 @@
       "api": "csp_DuoX",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "农民",
@@ -61,7 +58,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
       "ext": "https://amanchi.netlify.app/json/nm.json"
     },
     {
@@ -71,8 +67,7 @@
       "api": "csp_AppMr",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "csp_AppTT",
@@ -82,7 +77,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0,
       "ext": "U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
     },
     {
@@ -93,8 +87,7 @@
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "csp_YY",
@@ -144,8 +137,7 @@
       "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "csp_Miaobo",
@@ -154,8 +146,7 @@
       "api": "csp_Miaobo",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "csp_appys_如意4K",
@@ -165,7 +156,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
       "playurl": "json:https://jx.4kdv.com/?url=",
       "ext": "http://cms.maoyingshi.cc/api.php/app/"
     },
@@ -176,8 +166,7 @@
       "api": "csp_Zxzj",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "drpy_js_HDmoli",
@@ -187,8 +176,7 @@
       "ext": "https://amanchi.netlify.app/js/HDmoli.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "drpy_js_人人",
@@ -198,8 +186,7 @@
       "ext": "https://amanchi.netlify.app/js/人人.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "drpy_js_乐猪TV",
@@ -209,8 +196,7 @@
       "ext": "https://amanchi.netlify.app/js/乐猪TV.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "drpy_js_花猫TV",
@@ -220,8 +206,7 @@
       "ext": "https://amanchi.netlify.app/js/花猫TV.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "drpy_js_新片场",
@@ -231,8 +216,7 @@
       "ext": "https://amanchi.netlify.app/js/新片场.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "drpy_js_网易",
@@ -242,8 +226,7 @@
       "ext": "https://amanchi.netlify.app/js/wy.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "drpy_js_达达龟",
@@ -253,8 +236,7 @@
       "ext": "https://amanchi.netlify.app/js/达达龟.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "drpy_js_思古",
@@ -264,8 +246,7 @@
       "ext": "https://amanchi.netlify.app/js/思古影视.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "drpy_js_网飞.TV",
@@ -275,8 +256,7 @@
       "ext": "https://amanchi.netlify.app/js/NF.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "drpy_js_莫扎兔",
@@ -286,8 +266,7 @@
       "ext": "https://amanchi.netlify.app/js/莫扎兔.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "drpy_js_皮皮鸭",
@@ -297,8 +276,7 @@
       "ext": "https://amanchi.netlify.app/js/皮皮鸭.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "csp_DiDuan",
@@ -307,8 +285,7 @@
       "api": "csp_Ddrk",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "csp_Dy1010",
@@ -317,8 +294,7 @@
       "api": "csp_Dy1010",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "csp_fantuan",
@@ -328,7 +304,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
       "ext": "https://www.fantuanhd.com"
     },
     {
@@ -339,7 +314,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
       "ext": "https://www.6080dy3.com"
     },
     {
@@ -350,7 +324,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
       "ext": "https://www.ysgc.fun"
     },
     {
@@ -361,7 +334,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
       "ext": "https://tv.libvio.cc/"
     },
     {
@@ -372,7 +344,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
       "ext": "hjju123@qq.com$$$123456"
     },
     {
@@ -382,8 +353,7 @@
       "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "csp_Voflix",
@@ -392,8 +362,7 @@
       "api": "csp_Voflix",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "Bili",
@@ -403,7 +372,6 @@
       "searchable": "1",
       "quickSearch": "0",
       "filterable": 1,
-      "changeable": "0",
       "ext": "https://amanchi.netlify.app/json/bl.json"
     },
     {
@@ -411,7 +379,6 @@
       "name": "学习",
       "type": 3,
       "api": "csp_Bili",
-      "changeable": 0,
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -424,7 +391,6 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 0,
-      "changeable": 1,
       "filterable": 1,
       "categories": [
         "国产动漫",
@@ -470,7 +436,6 @@
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 0,
-      "changeable": 1,
       "filterable": 1,
       "categories": [
         "国产动漫",
@@ -511,8 +476,7 @@
       "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "csp_xpath_348z",
@@ -522,7 +486,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
       "ext": "https://amanchi.netlify.app/json/348z.json"
     },
     {
@@ -533,7 +496,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
       "ext": "https://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"
     },
     {
@@ -544,7 +506,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
       "ext": "https://www.555dyy1.com"
     },
     {
@@ -554,8 +515,7 @@
       "api": "csp_Smdyy",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "csp_Lgyy",
@@ -574,8 +534,7 @@
       "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "Coke",
@@ -584,8 +543,7 @@
       "api": "csp_Cokemv",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "csp_Bd",
@@ -594,8 +552,7 @@
       "api": "csp_Bdys01",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "Dm84",
@@ -604,8 +561,7 @@
       "api": "csp_Dm84",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
     {
       "key": "csp_SP33",
@@ -614,8 +570,7 @@
       "api": "csp_SP33",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
+      "filterable": 1
     },
     {
       "key": "Qtv",
@@ -624,8 +579,7 @@
       "api": "csp_Qtv",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
+      "filterable": 1
     },
     {
       "key": "Itv",
@@ -634,8 +588,7 @@
       "api": "csp_Itv",
       "quickSearch": 1,
       "searchable": 1,
-      "filterable": 1,
-      "changeable": 0
+      "filterable": 1
     },
     {
       "key": "Mtv",
@@ -644,14 +597,12 @@
       "api": "csp_Mtv",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
+      "filterable": 1
     },
     {
       "key": "drpy_js_有声小说r",
       "name": "听书",
       "type": 3,
-      "changeable": 0,
       "searchable": 0,
       "filterable": 0,
       "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
@@ -661,7 +612,6 @@
       "key": "drpy_js_蜻蜓FM",
       "name": "广播",
       "type": 3,
-      "changeable": 0,
       "searchable": 0,
       "filterable": 0,
       "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
@@ -676,7 +626,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": "0",
       "ext": "https://amanchi.netlify.app/txt/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
     },
     {
@@ -688,7 +637,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "changeable": 0,
       "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
@@ -700,7 +648,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "changeable": 0,
       "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
@@ -712,7 +659,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": "0",
       "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
@@ -723,7 +669,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "changeable": 0,
       "ext": "https://amanchi.netlify.app/txt/token.txt$$$fanfan$$$qqq111"
     },
     {
@@ -735,7 +680,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "changeable": 0,
       "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
@@ -747,7 +691,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": "0",
       "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
@@ -759,7 +702,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": "0",
       "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
@@ -768,8 +710,7 @@
       "type": 3,
       "api": "csp_Local",
       "searchable": 1,
-      "filterable": 0,
-      "changeable": 0
+      "filterable": 0
     },
     {
       "key": "WebDAV",
@@ -778,7 +719,6 @@
       "api": "csp_WebDAV",
       "searchable": 1,
       "filterable": 1,
-      "changeable": 0,
       "ext": "https://amanchi.netlify.app/json/webdav.json"
     },
     {
@@ -789,7 +729,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "changeable": "0",
       "jar": "https:///amanchi.netlify.app/jar/fm.jar",
       "ext": "https://amanchi.netlify.app/txt/token.txt"
     }
