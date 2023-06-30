@@ -30,6 +30,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
             "ext": "https://api-aws.11ty.top"
         },
         {
@@ -96,7 +97,8 @@
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "changeable": 0
         },
         {
             "key": "酷酷",
@@ -141,7 +143,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "csp_BuLei",
@@ -152,6 +154,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
             "ext": "http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"
         },
         {
@@ -185,7 +188,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "csp_Zxzj",
@@ -207,7 +210,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "csp_Dy1010",
@@ -229,6 +232,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
             "ext": "https://www.fantuanhd.com"
         },
         {
@@ -240,6 +244,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
             "ext": "https://www.6080dy3.com"
         },
         {
@@ -251,6 +256,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
             "ext": "https://www.ysgc.fun"
         },
         {
@@ -262,6 +268,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
             "ext": "https://tv.libvio.cc/"
         },
         {
@@ -273,6 +280,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
             "ext": "hjju123@qq.com$$$123456"
         },
         {
@@ -341,6 +349,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
+            "changeable": 0,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -387,6 +396,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
+            "changeable": 0,
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -428,7 +438,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "csp_555",
@@ -494,7 +504,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "csp_Bd",
@@ -516,7 +526,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "csp_Ysj",
@@ -527,7 +537,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 0
+            
         },
         {
             "key": "MV_vod",
@@ -537,7 +548,8 @@
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "changeable": 0
         },
         {
             "key": "drpy_js_有声小说r",
@@ -546,6 +558,7 @@
             "playerType": 2,
             "searchable": 1,
             "filterable": 0,
+            "changeable": 0,
             "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
             "ext": "https://amanchi.netlify.app/js/有声小说.js"
         },
@@ -557,7 +570,8 @@
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "changeable": 0
         },
         {
             "key": "星星",
@@ -568,6 +582,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
             "jar": "https://amanchi.netlify.app/jar/fm.jar"
         },
         {
@@ -578,6 +593,7 @@
             "playerType": 2,
             "searchable": 1,
             "filterable": 1,
+            "changeable": 0,
             "ext": "https://amanchi.netlify.app/json/duboku.json"
         },
         {
@@ -602,6 +618,16 @@
             "ext": "https://amanchi.netlify.app/txt/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
         },
         {
+            "key": "AList",
+            "name": "AList",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "https://amanchi.netlify.app/json/alist.json",
+            "jar":"https://amanchi.netlify.app/jar/fm.jar"
+        },
+        {
             "key": "七夜",
             "name": "七夜",
             "type": 3,
@@ -610,6 +636,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "changeable": 0,
             "ext": "https://amanchi.netlify.app/txt/token.txt"
         },
         {
@@ -621,6 +648,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "changeable": 0,
             "ext": "https://amanchi.netlify.app/txt/token.txt"
         },
         {
@@ -631,6 +659,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "changeable": 0,
             "ext": "https://amanchi.netlify.app/txt/token.txt$$$fanfan$$$qqq111"
         },
         {
@@ -642,6 +671,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
             "ext": "https://amanchi.netlify.app/txt/token.txt"
         },
         {
@@ -653,6 +683,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "changeable": 0,
             "ext": "https://amanchi.netlify.app/txt/token.txt"
         },
         {
@@ -664,6 +695,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
             "ext": "https://amanchi.netlify.app/txt/token.txt"
         },
         {
@@ -675,6 +707,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
             "ext": "https://amanchi.netlify.app/txt/token.txt"
         },
         {
@@ -684,7 +717,8 @@
             "api": "csp_Local",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,
+            "changeable": 0
         },
         {
             "key": "WebDAV",
@@ -694,7 +728,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://amanchi.netlify.app/json/webdav.json"
+            "changeable": 0,
+            "ext": "https://amanchi.netlify.app/json/webdav.json",
+            "jar":"https://amanchi.netlify.app/jar/fm.jar"
         },
         {
             "key": "push_agent",
@@ -704,6 +740,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
+            "changeable": 0,
             "jar": "https://amanchi.netlify.app/jar/fm.jar",
             "ext": "https://amanchi.netlify.app/txt/token.txt"
         }
