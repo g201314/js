@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://jianbian.chuqiuyu.tk",
-    "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;6fb0a205b857f35e165a5f8cb2f8056d",
+    "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;a5eaab0a824b174e0024d75e1d8731ff",
     "lives": [
         {
             "name": "live",
@@ -95,6 +95,16 @@
             "type": 3,
             "api": "csp_YT",
             "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "陌陌",
+            "name": "陌陌",
+            "type": 3,
+            "api": "csp_MmYs",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -538,7 +548,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
-            
         },
         {
             "key": "MV_vod",
@@ -572,7 +581,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "jar":"https://amanchi.netlify.app/jar/fm.jar"
+            "jar": "https://amanchi.netlify.app/jar/fm.jar"
         },
         {
             "key": "星星",
@@ -721,7 +730,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "https://amanchi.netlify.app/json/webdav.json",
-            "jar":"https://amanchi.netlify.app/jar/fm.jar"
+            "jar": "https://amanchi.netlify.app/jar/fm.jar"
         },
         {
             "key": "push_agent",
