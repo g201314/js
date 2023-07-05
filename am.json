@@ -78,6 +78,16 @@
       "ext": "http://xn--yeta099v.online:66/api.php/app/"
     },
     {
+      "key": "csp_YGP",
+      "name": "YGP",
+      "type": 3,
+      "api": "csp_YGP",
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "探探",
       "name": "探探",
       "type": 3,
