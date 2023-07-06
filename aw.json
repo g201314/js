@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://jianbian.chuqiuyu.tk",
-    "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;53c068a1f4c2de11d1160e4dbd0ddb0a",
+    "spider": "https://amanchi.netlify.app/jar/custom_spider.jar",
     "lives": [
         {
             "name": "live",
