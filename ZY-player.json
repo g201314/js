@@ -53,7 +53,7 @@
             {
                 "key": "lziapi",
                 "name": "量子资源",
-                "api": "http://cj.lziapi.com/api.php/provide/vod/",
+                "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
                 "playUrl": "",
                 "search": 1,
                 "group": "切片",
