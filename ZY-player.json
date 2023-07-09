@@ -106,5 +106,17 @@
         "isActive": true,
         "type": 1,
         "id": 9
+    },
+    {
+        "key": "MGY",
+        "name": "MGY",
+        "api": " https://php.iptv.hz.cz/moguys.php",
+        "download": "",
+        "jiexiUrl": "",
+        "group": "默认",
+        "status": true,
+        "isActive": true,
+        "type": 1,
+        "id": 10
     }
 ]
