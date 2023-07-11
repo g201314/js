@@ -169,10 +169,22 @@
             "ext": "http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"
         },
         {
-            "key":"ikanbot",
-            "name":"ikanbot",
-            "type":3,
-            "api":"https://amanchi.netlify.app/js/ikanbot.js",
+            "key": "drpy_js_荐片",
+            "name": "荐片",
+            "type": 3,
+            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+            "ext": "https://amanchi.netlify.app/js/荐片.js",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "ikanbot",
+            "name": "ikanbot",
+            "type": 3,
+            "api": "https://amanchi.netlify.app/js/ikanbot.js",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
