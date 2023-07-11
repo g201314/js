@@ -162,7 +162,7 @@
       "type": 3,
       "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
       "ext": "https://amanchi.netlify.app/js/荐片.js",
-      "playerType": 2,
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
