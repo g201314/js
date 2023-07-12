@@ -24,6 +24,10 @@
           {
             "name": "SOD",
             "server": "https://a.sodaz.xyz"
+          },
+          {
+            "name": "one",
+            "server": "https://alistone.cachefly.net/"
           }
         ]
       }
