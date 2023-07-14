@@ -78,6 +78,46 @@
             "ext": "http://xn--yeta099v.online:66/api.php/app/"
         },
         {
+            "key": "影探",
+            "name": "影探",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ytcms.lfytyl.com/api.php/app/"
+        },
+        {
+            "key": "狐狸",
+            "name": "狐狸",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.kuin.one/api.php/app/"
+        },
+        {
+            "key": "蘑菇",
+            "name": "蘑菇",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.gvideo.me/api.php/app/"
+        },
+        {
+            "key": "迷你库",
+            "name": "迷你库",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.miniku.cc/xgapp.php/v1/"
+        },
+        {
             "key": "探探",
             "name": "探探",
             "type": 3,
