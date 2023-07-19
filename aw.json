@@ -183,6 +183,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
             "ext": "https://amanchi.netlify.app/json/nm.json"
         },
         {
@@ -197,19 +198,7 @@
             "changeable": 0
         },
         {
-            "key": "csp_BuLei",
-            "name": "布雷",
-            "type": 3,
-            "api": "csp_BuLei",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"
-        },
-        {
-            "key": "drpy_js_荐片",
+            "key": "荐片",
             "name": "荐片",
             "type": 3,
             "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
@@ -240,7 +229,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "csp_Czsapp",
