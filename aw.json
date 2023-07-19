@@ -118,6 +118,16 @@
             "ext": "http://www.miniku.cc/xgapp.php/v1/"
         },
         {
+            "key": "达达龟",
+            "name": "达达龟",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://amanchi.netlify.app/json/ddg.json"
+        },
+        {
             "key": "探探",
             "name": "探探",
             "type": 3,
@@ -603,15 +613,14 @@
             "changeable": 0
         },
         {
-            "key": "drpy_js_有声小说r",
+            "key": "有声小说吧",
             "name": "听书",
             "type": 3,
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-            "ext": "https://amanchi.netlify.app/js/有声小说.js"
+            "api": "csp_XYQHiker",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://amanchi.netlify.app/json/yousheng.json"
         },
         {
             "key": "csp_Nbys",
