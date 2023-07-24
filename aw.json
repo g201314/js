@@ -13,14 +13,13 @@
     ],
     "sites": [
         {
-            "key": "js豆瓣",
-            "name": "豆瓣",
+            "key": "search",
+            "name": "Search",
             "type": 3,
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-            "ext": "https://amanchi.netlify.app/js/豆瓣.js"
+            "api": "https://amanchi.netlify.app/js/search.js"
         },
         {
             "key": "csp_YQKAPP",
