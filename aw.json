@@ -13,15 +13,14 @@
     ],
     "sites": [
         {
-            "key": "search",
-            "name": "search",
+            "key": "js豆瓣",
+            "name": "豆瓣",
             "type": 3,
             "searchable": 0,
-            "changeable": 0,
             "quickSearch": 0,
-            "filterable": 1,
+            "filterable": 0,
             "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-            "ext": "https://amanchi.netlify.app/js/search.js"
+            "ext": "https://amanchi.netlify.app/js/豆瓣.js"
         },
         {
             "key": "csp_YQKAPP",
@@ -130,7 +129,7 @@
             "ext": "http://www.miniku.cc/xgapp.php/v1/"
         },
         {
-            "key": "drpy_js_乐猪TV",
+            "key": "乐猪TV",
             "name": "乐猪",
             "type": 3,
             "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
