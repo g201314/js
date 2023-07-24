@@ -14,12 +14,14 @@
     "sites": [
         {
             "key": "search",
-            "name": "Search",
+            "name": "search",
             "type": 3,
             "searchable": 0,
+            "changeable": 0,
             "quickSearch": 0,
-            "filterable": 0,
-            "api": "https://amanchi.netlify.app/js/search.js"
+            "filterable": 1,
+            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+            "ext": "https://amanchi.netlify.app/js/search.js"
         },
         {
             "key": "csp_YQKAPP",
