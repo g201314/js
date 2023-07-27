@@ -683,17 +683,6 @@
             "changeable": 0
         },
         {
-            "key": "csp_Mp4Mov",
-            "name": "Mp4Mov",
-            "type": 3,
-            "api": "csp_Mp4Mov",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "jar": "https://amanchi.netlify.app/jar/XYQ.jar"
-        },
-        {
             "key": "csp_XYQHiker_6V磁力",
             "name": "磁力",
             "type": 3,
