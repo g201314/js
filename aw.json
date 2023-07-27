@@ -87,44 +87,6 @@
             "changeable": 0
         },
         {
-            "key": "陌陌",
-            "name": "陌陌",
-            "type": 3,
-            "api": "csp_MmYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "酷酷",
-            "name": "酷酷",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://ys.realdou.cn:62703/api.php/app/",
-            "categories": [
-                "4K电影",
-                "4K电视剧"
-            ]
-        },
-        {
-            "key": "爱迪",
-            "name": "爱迪",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "https://api123.adys.app/xgapp.php/v3/"
-        },
-        {
             "key": "农民",
             "name": "农民",
             "type": 3,
