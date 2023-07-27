@@ -5,7 +5,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://amanchi.netlify.app/txt/live.txt",
+            "url": "https://try.gitea.io/Amanchi/Am/src/branch/main/txt/live.txt",
             "epg": "https://live.fanmingming.com/e.xml",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "playerType": 2
