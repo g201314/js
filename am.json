@@ -1,11 +1,11 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://amanry.netlify.app/jar/cc.jar;md5;50bc219c741872bc7a60e79c7584edb4",
+  "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;50bc219c741872bc7a60e79c7584edb4",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://amanry.netlify.app/txt/live.txt",
+      "url": "https://amanchi.netlify.app/txt/live.txt",
       "epg": "https://live.fanmingming.com/e.xml",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2
@@ -19,8 +19,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "api": "https://amanry.netlify.app/lib/drpy2.min.js",
-      "ext": "https://amanry.netlify.app/js/豆瓣.js"
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/豆瓣.js"
     },
     {
       "key": "csp_YQKAPP",
@@ -183,7 +183,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://amanry.netlify.app/json/nm.json"
+      "ext": "https://amanchi.netlify.app/json/nm.json"
     },
     {
       "key": "csp_AppMr",
@@ -200,8 +200,8 @@
       "key": "drpy_js_荐片",
       "name": "荐片",
       "type": 3,
-      "api": "https://amanry.netlify.app/lib/drpy2.min.js",
-      "ext": "https://amanry.netlify.app/js/荐片.js",
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/荐片.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -367,14 +367,14 @@
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://amanry.netlify.app/json/bl.json"
+      "ext": "https://amanchi.netlify.app/json/bl.json"
     },
     {
       "key": "drpy_js_网易",
       "name": "网易",
       "type": 3,
-      "api": "https://amanry.netlify.app/lib/drpy2.min.js",
-      "ext": "https://amanry.netlify.app/js/wy.js",
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/wy.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -385,8 +385,8 @@
       "key": "drpy_js_多瑙",
       "name": "多瑙",
       "type": 3,
-      "api": "https://amanry.netlify.app/lib/drpy2.min.js",
-      "ext": "https://amanry.netlify.app/js/dnys.js",
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/dnys.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -537,7 +537,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://amanry.netlify.app/json/348z.json"
+      "ext": "https://amanchi.netlify.app/json/348z.json"
     },
     {
       "key": "Coke",
@@ -591,8 +591,8 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "api": "https://amanry.netlify.app/lib/drpy2.min.js",
-      "ext": "https://amanry.netlify.app/js/有声小说.js"
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/有声小说.js"
     },
     {
       "key": "csp_Nbys",
@@ -604,7 +604,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "https://amanry.netlify.app/jar/fm.jar"
+      "jar": "https://amanchi.netlify.app/jar/fm.jar"
     },
     {
       "key": "星星",
@@ -616,7 +616,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "https://amanry.netlify.app/jar/fm.jar"
+      "jar": "https://amanchi.netlify.app/jar/fm.jar"
     },
     {
       "key": "獨播",
@@ -627,7 +627,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://amanry.netlify.app/json/duboku.json"
+      "ext": "https://amanchi.netlify.app/json/duboku.json"
     },
     {
       "key": "csp_trj",
@@ -650,7 +650,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://amanry.netlify.app/txt/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+      "ext": "https://amanchi.netlify.app/txt/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
     },
     {
       "key": "七夜",
@@ -662,7 +662,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://amanry.netlify.app/txt/token.txt"
+      "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
       "key": "TuGou",
@@ -674,7 +674,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://amanry.netlify.app/txt/token.txt"
+      "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
       "key": "Zhaozy",
@@ -685,7 +685,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://amanry.netlify.app/txt/token.txt$$$fanfan$$$qqq111"
+      "ext": "https://amanchi.netlify.app/txt/token.txt$$$fanfan$$$qqq111"
     },
     {
       "key": "YiSo",
@@ -697,7 +697,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://amanry.netlify.app/txt/token.txt"
+      "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
       "key": "PanSearch",
@@ -709,7 +709,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://amanry.netlify.app/txt/token.txt"
+      "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
       "key": "PanSou",
@@ -721,7 +721,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://amanry.netlify.app/txt/token.txt"
+      "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
       "key": "UpYun",
@@ -733,7 +733,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://amanry.netlify.app/txt/token.txt"
+      "ext": "https://amanchi.netlify.app/txt/token.txt"
     },
     {
       "key": "本地",
@@ -754,8 +754,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://amanry.netlify.app/json/webdav.json",
-      "jar": "https://amanry.netlify.app/jar/fm.jar"
+      "ext": "https://amanchi.netlify.app/json/webdav.json",
+      "jar": "https://amanchi.netlify.app/jar/fm.jar"
     },
     {
       "key": "push_agent",
@@ -766,8 +766,8 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://amanry.netlify.app/jar/fm.jar",
-      "ext": "https://amanry.netlify.app/txt/token.txt"
+      "jar": "https://amanchi.netlify.app/jar/fm.jar",
+      "ext": "https://amanchi.netlify.app/txt/token.txt"
     }
   ],
   "parses": [
