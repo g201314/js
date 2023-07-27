@@ -609,17 +609,6 @@
             "ext": "https://amanchi.netlify.app/txt/token.txt"
         },
         {
-            "key": "Zhaozy",
-            "name": "找资源",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "https://amanchi.netlify.app/txt/token.txt$$$fanfan$$$qqq111"
-        },
-        {
             "key": "YiSo",
             "name": "易搜",
             "type": 3,
@@ -676,18 +665,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0
-        },
-        {
-            "key": "WebDAV",
-            "name": "WebDAV",
-            "type": 3,
-            "api": "csp_WebDAV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "https://amanchi.netlify.app/json/webdav.json",
-            "jar": "https://amanchi.netlify.app/jar/fm.jar"
         },
         {
             "key": "push_agent",
