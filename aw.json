@@ -538,28 +538,6 @@
             "jar": "https://amanchi.netlify.app/jar/fm.jar"
         },
         {
-            "key": "drpy_js_olve",
-            "name": "欧乐",
-            "type": 3,
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-            "ext": "https://amanchi.netlify.app/js/olve.js"
-        },
-        {
-            "key": "drpy_js_kubo",
-            "name": "酷播",
-            "type": 3,
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-            "ext": "https://amanchi.netlify.app/js/kubo.js"
-        },
-        {
             "key": "獨播",
             "name": "独播",
             "type": 3,
