@@ -520,17 +520,6 @@
             "changeable": 0
         },
         {
-            "key": "Dm84",
-            "name": "动漫",
-            "type": 3,
-            "api": "csp_Dm84",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
             "key": "csp_Ying",
             "name": "樱花",
             "type": 3,
