@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;50bc219c741872bc7a60e79c7584edb4",
+  "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;91b04592e14b3cc30f34c1324a59e8ad",
   "lives": [
     {
       "name": "live",
@@ -562,6 +562,16 @@
       "changeable": 0
     },
     {
+      "key": "csp_Ying",
+      "name": "樱花",
+      "type": 3,
+      "api": "csp_Ying",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
       "key": "csp_Ysj",
       "name": "异界",
       "type": 3,
@@ -628,6 +638,28 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://amanchi.netlify.app/json/duboku.json"
+    },
+    {
+      "key": "drpy_js_olve",
+      "name": "欧乐",
+      "type": 3,
+      "playerType": 2,
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/olve.js"
+    },
+    {
+      "key": "drpy_js_kubo",
+      "name": "酷播",
+      "type": 3,
+      "playerType": 2,
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+      "ext": "https://amanchi.netlify.app/js/kubo.js"
     },
     {
       "key": "csp_trj",
