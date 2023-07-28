@@ -1,11 +1,11 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;91b04592e14b3cc30f34c1324a59e8ad",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;91b04592e14b3cc30f34c1324a59e8ad",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://amanchi.netlify.app/txt/live.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/live.txt",
       "epg": "https://live.fanmingming.com/e.xml",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2
@@ -13,14 +13,14 @@
   ],
   "sites": [
     {
-      "key": "js豆瓣",
+      "key": "豆瓣",
       "name": "豆瓣",
       "type": 3,
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-      "ext": "https://amanchi.netlify.app/js/豆瓣.js"
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/豆瓣.js"
     },
     {
       "key": "csp_YQKAPP",
@@ -45,46 +45,34 @@
       "changeable": 1
     },
     {
-      "key": "csp_DuoX",
-      "name": "多线",
-      "type": 3,
-      "api": "csp_DuoX",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "csp_YY",
-      "name": "丫丫",
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-    },
-    {
-      "key": "落叶",
-      "name": "落叶",
+      "key": "狐狸",
+      "name": "狐狸",
       "type": 3,
       "api": "csp_AppYsV2",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://xn--yeta099v.online:66/api.php/app/"
+      "ext": "https://www.kuin.one/api.php/app/"
     },
     {
-      "key": "csp_YGP",
-      "name": "YGP",
+      "key": "迷你库",
+      "name": "迷你库",
       "type": 3,
-      "api": "csp_YGP",
-      "playerType": 2,
-      "searchable": 0,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.miniku.cc/xgapp.php/v1/"
+    },
+    {
+      "key": "乐猪TV",
+      "name": "乐猪",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/乐猪TV.js",
+      "searchable": 2,
       "quickSearch": 0,
+      "filterable": 1,
       "changeable": 0
     },
     {
@@ -99,82 +87,6 @@
       "changeable": 0
     },
     {
-      "key": "影探",
-      "name": "影探",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ytcms.lfytyl.com/api.php/app/"
-    },
-    {
-      "key": "狐狸",
-      "name": "狐狸",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-    {
-      "key": "蘑菇",
-      "name": "蘑菇",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gvideo.me/api.php/app/"
-    },
-    {
-      "key": "迷你库",
-      "name": "迷你库",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v1/"
-    },
-    {
-      "key": "陌陌",
-      "name": "陌陌",
-      "type": 3,
-      "api": "csp_MmYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "酷酷",
-      "name": "酷酷",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ys.realdou.cn/api.php/app/",
-      "categories": [
-        "4K电影",
-        "4K电视剧"
-      ]
-    },
-    {
-      "key": "爱迪",
-      "name": "爱迪",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://aidiapp.xyz/xgapp.php/v2/"
-    },
-    {
       "key": "农民",
       "name": "农民",
       "type": 3,
@@ -183,7 +95,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://amanchi.netlify.app/json/nm.json"
+      "changeable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/nm.json"
     },
     {
       "key": "csp_AppMr",
@@ -197,11 +110,11 @@
       "changeable": 0
     },
     {
-      "key": "drpy_js_荐片",
+      "key": "荐片",
       "name": "荐片",
       "type": 3,
-      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-      "ext": "https://amanchi.netlify.app/js/荐片.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/荐片.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -209,16 +122,15 @@
       "changeable": 0
     },
     {
-      "key": "csp_BuLei",
-      "name": "布雷",
+      "key": "ikanbot",
+      "name": "ikanbot",
       "type": 3,
-      "api": "csp_BuLei",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/ikanbot.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0,
-      "ext": "http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"
+      "changeable": 0
     },
     {
       "key": "csp_Kunyu77",
@@ -229,7 +141,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1
+      "changeable": 0
     },
     {
       "key": "csp_Czsapp",
@@ -251,6 +163,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "MGY",
+      "name": "MGY",
+      "type": 4,
+      "api": " https://php.iptv.hz.cz/moguys.php",
+      "searchable": 1,
       "changeable": 1
     },
     {
@@ -297,7 +217,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://www.6080dy3.com"
+      "ext": "https://www.6080yy3.com/"
     },
     {
       "key": "csp_Ysgc",
@@ -367,14 +287,14 @@
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://amanchi.netlify.app/json/bl.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/bl.json"
     },
     {
       "key": "drpy_js_网易",
       "name": "网易",
       "type": 3,
-      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-      "ext": "https://amanchi.netlify.app/js/wy.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/wy.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -385,13 +305,73 @@
       "key": "drpy_js_多瑙",
       "name": "多瑙",
       "type": 3,
-      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-      "ext": "https://amanchi.netlify.app/js/dnys.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/dnys.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1
+      "changeable": 0
+    },
+    {
+      "key": "drpy_js_101",
+      "name": "101",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/101.js",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "drpy_js_69美剧",
+      "name": "69美剧",
+      "type": 3,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "api": ".https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
+      "ext": ".https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/69美剧.js"
+    },
+    {
+      "key": "drpy_js_胖虎影视",
+      "name": "胖虎",
+      "type": 3,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "api": ".https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
+      "ext": ".https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/胖虎影视.js"
+    },
+    {
+      "key": "drpy_js_布雷蓝光[V2]",
+      "name": "布雷",
+      "type": 3,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "api": ".https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
+      "ext": ".https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/布雷蓝光[V2].js"
+    },
+    {
+      "key": "drpy_js_freeok",
+      "name": "freeok",
+      "type": 3,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/FreeOK.js"
     },
     {
       "key": "量子",
@@ -518,17 +498,6 @@
       "ext": "https://www.lgyy.vip"
     },
     {
-      "key": "LiteApple",
-      "name": "苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
       "key": "csp_xpath_348z",
       "name": "348",
       "type": 3,
@@ -537,7 +506,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://amanchi.netlify.app/json/348z.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/348z.json"
     },
     {
       "key": "Coke",
@@ -566,10 +535,9 @@
       "name": "樱花",
       "type": 3,
       "api": "csp_Ying",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "key": "csp_Ysj",
@@ -594,95 +562,40 @@
       "changeable": 0
     },
     {
-      "key": "drpy_js_有声小说r",
+      "key": "有声小说吧",
       "name": "听书",
       "type": 3,
-      "playerType": 2,
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-      "ext": "https://amanchi.netlify.app/js/有声小说.js"
-    },
-    {
-      "key": "csp_Nbys",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
+      "api": "csp_XYQHiker",
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
-      "changeable": 0,
-      "jar": "https://amanchi.netlify.app/jar/fm.jar"
-    },
-    {
-      "key": "星星",
-      "name": "星星",
-      "type": 3,
-      "api": "csp_Star",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "jar": "https://amanchi.netlify.app/jar/fm.jar"
-    },
-    {
-      "key": "獨播",
-      "name": "独播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "playerType": 2,
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://amanchi.netlify.app/json/duboku.json"
-    },
-    {
-      "key": "drpy_js_olve",
-      "name": "欧乐",
-      "type": 3,
-      "playerType": 2,
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-      "ext": "https://amanchi.netlify.app/js/olve.js"
-    },
-    {
-      "key": "drpy_js_kubo",
-      "name": "酷播",
-      "type": 3,
-      "playerType": 2,
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-      "ext": "https://amanchi.netlify.app/js/kubo.js"
-    },
-    {
-      "key": "csp_trj",
-      "name": "唐人",
-      "type": 3,
-      "api": "csp_Tangrenjie",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/yousheng.json",
       "changeable": 0
     },
     {
-      "key": "csp_WoGG",
-      "name": "Wo",
+      "key": "drpy_js_喜马拉雅",
+      "name": "喜马拉雅",
       "type": 3,
-      "api": "csp_WoGG",
-      "playerType": 1,
+      "changeable": 0,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "playerType": "2",
+      "api": ".https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
+      "ext": ".https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/喜马拉雅.js"
+    },
+    {
+      "key": "csp_XYQHiker_6V磁力",
+      "name": "磁力",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://amanchi.netlify.app/txt/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/XYQ.jar",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/6v磁力.json"
     },
     {
       "key": "七夜",
@@ -694,7 +607,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://amanchi.netlify.app/txt/token.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
     },
     {
       "key": "TuGou",
@@ -706,18 +619,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://amanchi.netlify.app/txt/token.txt"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "https://amanchi.netlify.app/txt/token.txt$$$fanfan$$$qqq111"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
     },
     {
       "key": "YiSo",
@@ -729,7 +631,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://amanchi.netlify.app/txt/token.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
     },
     {
       "key": "PanSearch",
@@ -741,7 +643,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://amanchi.netlify.app/txt/token.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
     },
     {
       "key": "PanSou",
@@ -753,7 +655,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://amanchi.netlify.app/txt/token.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
     },
     {
       "key": "UpYun",
@@ -765,7 +667,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://amanchi.netlify.app/txt/token.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
     },
     {
       "key": "本地",
@@ -778,18 +680,6 @@
       "changeable": 0
     },
     {
-      "key": "WebDAV",
-      "name": "WebDAV",
-      "type": 3,
-      "api": "csp_WebDAV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://amanchi.netlify.app/json/webdav.json",
-      "jar": "https://amanchi.netlify.app/jar/fm.jar"
-    },
-    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
@@ -798,40 +688,30 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://amanchi.netlify.app/jar/fm.jar",
-      "ext": "https://amanchi.netlify.app/txt/token.txt"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/fm.jar",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
     }
   ],
   "parses": [
     {
       "name": "777",
       "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "imgo",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "jxj",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "zlb",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url="
+    },
+    {
+      "name": "ok",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
     },
     {
       "name": "bozrc",
@@ -847,10 +727,10 @@
           "youku",
           "优酷",
           "mgtv",
-          "imgo",
           "芒果",
           "letv",
-          "乐视",
+          "leshi",
+          "LS",
           "pptv",
           "PPTV",
           "sohu",
@@ -859,160 +739,59 @@
           "哔哩"
         ],
         "header": {
-          "User-Agent": "okhttp/4.1.0"
+          "User-Agent": ""
         }
       }
     },
     {
-      "name": "jpd",
-      "type": 1,
-      "url": "http://jx.pandown.pro/home/api?type=ys&uid=2691632&key=bchmpqsDJMSTWX0568&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "imgo",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
-    },
-    {
-      "name": "ans",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "芒果",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
-    },
-    {
-      "name": "zlb",
+      "name": "blb",
       "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url=",
+      "url": "https://blbfq.f3322.net/player/analysis.php?v=",
       "ext": {
         "flag": [
-          "qq",
-          "腾讯",
           "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "imgo",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "bum",
-      "type": 1,
-      "url": "https://b.umkan.cc/API.php?url=",
-      "ext": {
-        "flag": [
           "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
           "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
+          "sohu",
+          "youku",
           "mgtv",
-          "MangGuo",
-          "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
           "bilibili",
-          "QEYSS",
+          "wasu",
           "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
+          "1905"
         ]
       }
     },
     {
-      "name": "mya",
+      "name": "cod",
       "type": 0,
-      "url": "http://www.miaoys.cc/vip/?url="
+      "url": "https://ksksl.codjx.com/?url="
     },
     {
-      "name": "jhn",
+      "name": "byg",
       "type": 0,
-      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+      "url": "https://byg.ziqj5.shop/?url="
+    },
+    {
+      "name": "xmflv",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "365",
+      "type": 0,
+      "url": "https://chaxun.truechat365.com/?url=",
       "ext": {
         "flag": [
           "qq",
           "腾讯",
           "qiyi",
+          "iqiyi",
           "爱奇艺",
           "奇艺",
           "youku",
           "优酷",
           "mgtv",
-          "imgo",
           "芒果",
           "letv",
           "乐视",
@@ -1022,121 +801,41 @@
           "bilibili",
           "哔哩哔哩",
           "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "jxp",
-      "type": 0,
-      "url": "https://jxdp.codermart.net/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "imgo",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "jia",
-      "type": 1,
-      "url": "https://json.84jia.com/api/?key=zg2ZE0zTxIAeQPShoD&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
-          "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "MangGuo",
-          "imgo",
-          "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
-          "bilibili",
-          "QEYSS",
-          "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
         ]
       }
+    },
+    {
+      "name": "26db",
+      "type": 0,
+      "url": "http://vip.26db.cn/g/?url="
+    },
+    {
+      "name": "jx",
+      "type": 0,
+      "url": "https://jx.m3u8.pw/?url="
+    },
+    {
+      "name": "FreeOK",
+      "type": 0,
+      "url": "https://play.86516.tk/OKPlayer/?url="
+    },
+    {
+      "name": "free",
+      "type": 0,
+      "url": "https://h5.freejson.xyz/player/?url="
     }
   ],
   "flags": [
     "youku",
-    "优酷",
-    "优 酷",
-    "优酷视频",
     "qq",
-    "腾讯",
-    "腾 讯",
-    "腾讯视频",
     "iqiyi",
     "qiyi",
-    "奇艺",
-    "爱奇艺",
-    "爱 奇 艺",
-    "m1905",
-    "xigua",
     "letv",
-    "leshi",
-    "乐视",
-    "乐 视",
     "sohu",
-    "搜狐",
-    "搜 狐",
-    "搜狐视频",
     "tudou",
     "pptv",
     "mgtv",
-    "芒果",
-    "imgo",
-    "芒果TV",
-    "芒 果 T V",
-    "bilibili",
-    "哔 哩",
-    "哔 哩 哔 哩"
+    "wasu"
   ],
   "doh": [
     {
@@ -1217,6 +916,16 @@
       ],
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.733333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "星星",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"
       ]
     },
     {

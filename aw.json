@@ -498,17 +498,6 @@
             "ext": "https://www.lgyy.vip"
         },
         {
-            "key": "LiteApple",
-            "name": "苹果",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_xpath_348z",
             "name": "348",
             "type": 3,
@@ -618,6 +607,28 @@
             "filterable": 1,
             "changeable": 0,
             "jar": "https://amanchi.netlify.app/jar/fm.jar"
+        },
+        {
+            "key": "drpy_js_olve",
+            "name": "欧乐",
+            "type": 3,
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+            "ext": "https://amanchi.netlify.app/js/olve.js"
+        },
+        {
+            "key": "drpy_js_kubo",
+            "name": "酷播",
+            "type": 3,
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+            "ext": "https://amanchi.netlify.app/js/kubo.js"
         },
         {
             "key": "獨播",
