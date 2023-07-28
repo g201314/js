@@ -314,25 +314,11 @@
             "changeable": 0
         },
         {
-            "key": "drpy_js_喜马拉雅",
-            "name": "喜马拉雅",
-            "type": 3,
-            "changeable": 0,
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "playerType": "2",
-            "api": ".https://amanchi.netlify.app/lib/drpy.min.js",
-            "ext": ".https://amanchi.netlify.app/js/喜马拉雅.js",
-            "jar":"https://amanchi.netlify.app/jar/fm.jar"
-        },
-        {
             "key": "drpy_js_101",
             "name": "101",
             "type": 3,
             "api": "https://amanchi.netlify.app/lib/drpy.min.js",
             "ext": "https://amanchi.netlify.app/js/101.js",
-            "jar": "https://amanchi.netlify.app/jar/fm.jar",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -349,8 +335,7 @@
             "filterable": 1,
             "changeable": 0,
             "api": ".https://amanchi.netlify.app/lib/drpy.min.js",
-            "ext": ".https://amanchi.netlify.app/js/69美剧.js",
-            "jar": "https://amanchi.netlify.app/jar/fm.jar"
+            "ext": ".https://amanchi.netlify.app/js/69美剧.js"
         },
         {
             "key": "drpy_js_胖虎影视",
@@ -365,19 +350,7 @@
             "ext": ".https://amanchi.netlify.app/js/胖虎.js",
             "jar": "https://amanchi.netlify.app/jar/fm.jar"
         },
-        {
-            "key": "drpy_js_布雷蓝光",
-            "name": "布雷",
-            "type": 3,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "api": ".https://amanchi.netlify.app/lib/drpy.min.js",
-            "ext": ".https://amanchi.netlify.app/js/布雷蓝光.js",
-            "jar": "https://amanchi.netlify.app/jar/fm.jar"
-        },
+
         {
             "key": "drpy_js_freeok",
             "name": "freeok",
