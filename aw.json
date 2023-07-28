@@ -65,6 +65,17 @@
             "ext": "http://www.miniku.cc/xgapp.php/v1/"
         },
         {
+            "key": "ZFT",
+            "name": "ZFT",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
+        },
+        {
             "key": "乐猪TV",
             "name": "乐猪",
             "type": 3,
