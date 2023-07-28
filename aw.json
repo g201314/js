@@ -317,7 +317,7 @@
             "key": "drpy_js_101",
             "name": "101",
             "type": 3,
-            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+            "api": "https://amanchi.netlify.app/lib/drpy.min.js",
             "ext": "https://amanchi.netlify.app/js/101.js",
             "playerType": 2,
             "searchable": 1,
@@ -334,7 +334,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "api": ".https://amanchi.netlify.app/lib/drpy2.min.js",
+            "api": ".https://amanchi.netlify.app/lib/drpy.min.js",
             "ext": ".https://amanchi.netlify.app/js/69美剧.js"
         },
         {
@@ -346,7 +346,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "api": ".https://amanchi.netlify.app/lib/drpy2.min.js",
+            "api": ".https://amanchi.netlify.app/lib/drpy.min.js",
             "ext": ".https://amanchi.netlify.app/js/胖虎.js"
         },
         {
@@ -358,7 +358,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "api": ".https://amanchi.netlify.app/lib/drpy2.min.js",
+            "api": ".https://amanchi.netlify.app/lib/drpy.min.js",
             "ext": ".https://amanchi.netlify.app/js/布雷蓝光.js"
         },
         {
@@ -570,7 +570,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "playerType": "2",
-            "api": ".https://amanchi.netlify.app/lib/drpy2.min.js",
+            "api": ".https://amanchi.netlify.app/lib/drpy.min.js",
             "ext": ".https://amanchi.netlify.app/js/喜马拉雅.js"
         },
         {
