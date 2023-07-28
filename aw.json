@@ -347,7 +347,7 @@
             "filterable": 1,
             "changeable": 0,
             "api": ".https://amanchi.netlify.app/lib/drpy2.min.js",
-            "ext": ".https://amanchi.netlify.app/js/胖虎影视.js"
+            "ext": ".https://amanchi.netlify.app/js/胖虎.js"
         },
         {
             "key": "drpy_js_布雷蓝光[V2]",
@@ -359,7 +359,7 @@
             "filterable": 1,
             "changeable": 0,
             "api": ".https://amanchi.netlify.app/lib/drpy2.min.js",
-            "ext": ".https://amanchi.netlify.app/js/布雷蓝光[V2].js"
+            "ext": ".https://amanchi.netlify.app/js/布雷蓝光.js"
         },
         {
             "key": "drpy_js_freeok",
