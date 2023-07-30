@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://jianbian.chuqiuyu.tk",
-    "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;91b04592e14b3cc30f34c1324a59e8ad",
+    "spider": "https://amanchi.netlify.app/jar/cc.jar;md5;6cd8c412419113dfe01499b4e2fa7a92",
     "lives": [
         {
             "name": "live",
@@ -63,17 +63,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.miniku.cc/xgapp.php/v1/"
-        },
-        {
-            "key": "ZFT",
-            "name": "ZFT",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
         },
         {
             "key": "乐猪TV",
