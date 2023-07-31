@@ -516,7 +516,7 @@
     {
       "key": "csp_WoGG",
       "name": "WO",
-      "type": 3,
+      "type": 4,
       "api": "https://private--t410.repl.co/gg",
       "searchable": 1,
       "quickSearch": 1,
