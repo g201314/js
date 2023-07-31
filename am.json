@@ -1,11 +1,11 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/cc.jar;md5;6cd8c412419113dfe01499b4e2fa7a92",
+  "spider": "https://agit.ai/Amanchi/An/raw/branch/main/jar/cc.jar;md5;6cd8c412419113dfe01499b4e2fa7a92",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/live.txt",
+      "url": "https://agit.ai/Amanchi/An/raw/branch/main/txt/live.txt",
       "epg": "https://live.fanmingming.com/e.xml",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2
@@ -19,8 +19,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/豆瓣.js"
+      "api": "https://agit.ai/Amanchi/An/raw/branch/main/lib/drpy2.min.js",
+      "ext": "https://agit.ai/Amanchi/An/raw/branch/main/js/豆瓣.js"
     },
     {
       "key": "csp_YQKAPP",
@@ -68,8 +68,8 @@
       "key": "乐猪TV",
       "name": "乐猪",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/乐猪TV.js",
+      "api": "https://agit.ai/Amanchi/An/raw/branch/main/lib/drpy2.min.js",
+      "ext": "https://agit.ai/Amanchi/An/raw/branch/main/js/乐猪TV.js",
       "searchable": 2,
       "quickSearch": 0,
       "filterable": 1,
@@ -96,7 +96,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/nm.json"
+      "ext": "https://agit.ai/Amanchi/An/raw/branch/main/json/nm.json"
     },
     {
       "key": "csp_AppMr",
@@ -113,8 +113,8 @@
       "key": "荐片",
       "name": "荐片",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/荐片.js",
+      "api": "https://agit.ai/Amanchi/An/raw/branch/main/lib/drpy2.min.js",
+      "ext": "https://agit.ai/Amanchi/An/raw/branch/main/js/荐片.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -125,7 +125,7 @@
       "key": "ikanbot",
       "name": "ikanbot",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/ikanbot.js",
+      "api": "https://agit.ai/Amanchi/An/raw/branch/main/js/ikanbot.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -281,8 +281,8 @@
       "key": "drpy_js_网易",
       "name": "网易",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/wy.js",
+      "api": "https://agit.ai/Amanchi/An/raw/branch/main/lib/drpy2.min.js",
+      "ext": "https://agit.ai/Amanchi/An/raw/branch/main/js/wy.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -298,8 +298,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/FreeOK.js"
+      "api": "https://agit.ai/Amanchi/An/raw/branch/main/lib/drpy2.min.js",
+      "ext": "https://agit.ai/Amanchi/An/raw/branch/main/js/FreeOK.js"
     },
     {
       "key": "量子",
@@ -434,7 +434,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/348z.json"
+      "ext": "https://agit.ai/Amanchi/An/raw/branch/main/json/348z.json"
     },
     {
       "key": "Coke",
@@ -497,7 +497,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/yousheng.json",
+      "ext": "https://agit.ai/Amanchi/An/raw/branch/main/json/yousheng.json",
       "changeable": 0
     },
     {
@@ -510,8 +510,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/XYQ.jar",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/json/6v磁力.json"
+      "jar": "https://agit.ai/Amanchi/An/raw/branch/main/jar/XYQ.jar",
+      "ext": "https://agit.ai/Amanchi/An/raw/branch/main/json/6v磁力.json"
     },
     {
       "key": "七夜",
@@ -523,7 +523,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
+      "ext": "https://agit.ai/Amanchi/An/raw/branch/main/txt/token.txt"
     },
     {
       "key": "TuGou",
@@ -535,7 +535,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
+      "ext": "https://agit.ai/Amanchi/An/raw/branch/main/txt/token.txt"
     },
     {
       "key": "YiSo",
@@ -547,7 +547,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
+      "ext": "https://agit.ai/Amanchi/An/raw/branch/main/txt/token.txt"
     },
     {
       "key": "PanSearch",
@@ -559,7 +559,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
+      "ext": "https://agit.ai/Amanchi/An/raw/branch/main/txt/token.txt"
     },
     {
       "key": "PanSou",
@@ -571,7 +571,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
+      "ext": "https://agit.ai/Amanchi/An/raw/branch/main/txt/token.txt"
     },
     {
       "key": "UpYun",
@@ -583,7 +583,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
+      "ext": "https://agit.ai/Amanchi/An/raw/branch/main/txt/token.txt"
     },
     {
       "key": "本地",
@@ -604,8 +604,8 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/jar/fm.jar",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
+      "jar": "https://agit.ai/Amanchi/An/raw/branch/main/jar/fm.jar",
+      "ext": "https://agit.ai/Amanchi/An/raw/branch/main/txt/token.txt"
     }
   ],
   "parses": [
