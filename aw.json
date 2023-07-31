@@ -503,15 +503,12 @@
             "changeable": 0
         },
         {
-            "key": "有声小说吧",
+            "key": "有声小说",
             "name": "听书",
             "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://amanchi.netlify.app/json/yousheng.json",
-            "changeable": 0
+            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
+            "ext": "https://amanchi.netlify.app/js/有声小说吧.js",
+            "playerType": "2"
         },
         {
             "key": "csp_Nbys",
