@@ -6,10 +6,6 @@
       "server": "http://alist.xiaoya.pro"
     },
     {
-      "name":"资源小站",
-      "server":"https: //pan.ecve.cn/"
-    },
-    {
       "name": "觸光",
       "server": "https://pan.ichuguang.com"
     },
@@ -28,6 +24,27 @@
     {
       "name": "梓澪",
       "server": "https://zi0.cc"
+    },
+    {
+      "name": "杜比",
+      "server": "https://dubi.tk"
+    },
+    {
+      "name": "资源",
+      "server": "https://pan.ecve.cn"
+    },
+    {
+      "name": "盘源",
+      "server": "https://a.sodaz.xyz"
+    },
+    {
+      "name": "爆米",
+      "server": "https://yp.baomi.repl.co"
+    },
+    {
+      "name": "雨呢",
+      "server": "https://pan.clun.top"
     }
   ]
 }
+
