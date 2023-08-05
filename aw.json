@@ -500,7 +500,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 0,
+            "viewType": 2
         },
         {
             "key": "有声小说",
@@ -519,7 +520,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0
+            "changeable": 0,
+            "jar": "https://amanchi.netlify.app/jar/fm.jar"
         },
         {
             "key": "星星",
@@ -657,7 +659,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "changeable": 0
+            "changeable": 0,
+            "viewType": 4
         },
         {
             "key": "push_agent",
