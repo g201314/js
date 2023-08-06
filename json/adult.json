@@ -3,14 +3,15 @@
   "wallpaper": "https://gao.chuqiuyu.tk",
   "sites": [
     {
-      "key": "js豆瓣",
-      "name": "豆瓣",
+      "key": "search",
+      "name": "search",
       "type": 3,
       "searchable": 0,
+      "changeable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-      "ext": "https://amanchi.netlify.app/js/豆瓣.js"
+      "viewType": 1,
+      "api": "https://agit.ai/Amanchi/Am/raw/branch/master/js/search.js"
     },
     {
       "key": "AList",
@@ -112,18 +113,6 @@
       "type": 3,
       "api": "csp_Hanime",
       "searchable": 1,
-      "viewType": 1
-    },
-    {
-      "key": "lf_js_p2p",
-      "name": "磁力",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://amanchi.netlify.app/js/P2P.js",
-      "ext": "18+",
       "viewType": 1
     },
     {
@@ -620,6 +609,18 @@
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 1,
+      "viewType": 1
+    },
+    {
+      "key": "p2p",
+      "name": "成人63",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://amanchi.netlify.app/js/P2P.js",
+      "ext": "18+",
       "viewType": 1
     },
     {
