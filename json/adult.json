@@ -108,15 +108,15 @@
       "viewType": 1
     },
     {
-      "key": "csp_jy",
-      "name": "jy",
+      "key": "lf_js_p2p",
+      "name": "磁力",
       "type": 3,
-      "api": "csp_xBPQ",
       "searchable": 1,
+      "changeable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/h/jy.json",
-      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/xb.jar"
+      "filterable": 1,
+      "api": "https://amanchi.netlify.app/js/P2P.js",
+      "ext": "18+"
     },
     {
       "key": "51smt4.xyz",
