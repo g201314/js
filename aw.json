@@ -19,7 +19,10 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
             "ext": "https://amanchi.netlify.app/js/豆瓣.js"
         },
@@ -32,7 +35,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "ext": "https://api-aws.11ty.top"
         },
         {
@@ -45,7 +51,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "狐狸",
@@ -57,7 +66,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "ext": "https://www.kuin.one/api.php/app/"
         },
         {
@@ -70,7 +82,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "ext": "http://www.miniku.cc/xgapp.php/v1/"
         },
         {
@@ -83,7 +98,10 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "探探",
@@ -95,7 +113,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "农民",
@@ -107,7 +128,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "ext": "https://amanchi.netlify.app/json/nm.json"
         },
         {
@@ -120,7 +144,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "荐片",
@@ -133,7 +160,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "ikanbot",
@@ -145,7 +175,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "csp_Kunyu77",
@@ -157,7 +190,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "csp_Czsapp",
@@ -169,7 +205,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "csp_Zxzj",
@@ -181,7 +220,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "MGY",
@@ -193,7 +235,10 @@
             "filterable": 1,
             "searchable": 1,
             "changeable": 1,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "csp_DiDuan",
@@ -205,7 +250,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "csp_Dy1010",
@@ -217,7 +265,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "csp_fantuan",
@@ -229,7 +280,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "ext": "https://www.fantuanhd.com"
         },
         {
@@ -242,7 +296,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "ext": "https://www.6080yy3.com/"
         },
         {
@@ -255,7 +312,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "ext": "https://www.ysgc.fun"
         },
         {
@@ -268,7 +328,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "ext": "https://tv.libvio.cc/"
         },
         {
@@ -281,7 +344,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "ext": "hjju123@qq.com$$$123456"
         },
         {
@@ -294,7 +360,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "csp_Voflix",
@@ -306,7 +375,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "Bili",
@@ -318,7 +390,10 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "ext": "https://amanchi.netlify.app/json/bl.json"
         },
         {
@@ -332,7 +407,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "drpy_js_多瑙",
@@ -345,7 +423,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "drpy_js_freeok",
@@ -356,7 +437,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
             "ext": "https://amanchi.netlify.app/js/FreeOK.js"
         },
@@ -370,7 +454,10 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -418,7 +505,10 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -461,7 +551,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "csp_555",
@@ -473,7 +566,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "ext": "https://www.555dyy1.com"
         },
         {
@@ -486,7 +582,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "ext": "https://www.lgyy.vip"
         },
         {
@@ -498,7 +597,10 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "ext": "https://amanchi.netlify.app/json/348z.json"
         },
         {
@@ -511,7 +613,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "csp_Ying",
@@ -523,7 +628,10 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "csp_Ysj",
@@ -535,7 +643,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "MV_vod",
@@ -547,7 +658,9 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 2
+            "style": {
+                "type": "oval"
+            }
         },
         {
             "key": "有声小说",
@@ -559,7 +672,10 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "csp_Nbys",
@@ -571,7 +687,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "jar": "https://amanchi.netlify.app/jar/fm.jar"
         },
         {
@@ -584,7 +703,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "jar": "https://amanchi.netlify.app/jar/fm.jar"
         },
         {
@@ -596,7 +718,10 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "ext": "https://amanchi.netlify.app/json/duboku.json"
         },
         {
@@ -609,7 +734,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "csp_XYQHiker_6V磁力",
@@ -621,7 +749,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "viewType": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
             "jar": "https://amanchi.netlify.app/jar/XYQ.jar",
             "ext": "https://amanchi.netlify.app/json/6v磁力.json"
         },
@@ -633,7 +764,10 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "viewType": 1
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
         },
         {
             "key": "七夜",
