@@ -735,7 +735,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "api": "https://amanchi.netlify.app/lib/drpy.min.js",
+            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
             "ext": "https://amanchi.netlify.app/js/MP4.js"
         },
         {
@@ -797,7 +797,8 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.33
-            }
+            },
+            "jar": "https://amanchi.netlify.app/jar/fm.jar"
         },
         {
             "key": "獨播",
@@ -827,8 +828,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.33
-            },
-            "jar": "https://amanchi.netlify.app/jar/cc.jar"
+            }
         },
         {
             "key": "p2p",
