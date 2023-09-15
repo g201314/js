@@ -768,21 +768,6 @@
       "changeable": 0
     },
     {
-      "key": "p2p",
-      "name": "P2P",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "api": "https://agit.ai/Amanchi/Am/raw/branch/master/js/P2P.js",
-      "ext": "18+"
-    },
-    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
