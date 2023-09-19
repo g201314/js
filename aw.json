@@ -1,11 +1,11 @@
 {
     "wallpaper": "https://jianbian.chuqiuyu.tk",
-    "spider": "https://amanchi.netlify.app/jar/cc.jar",
+    "spider": "https://amanchi1208.github.io/jar/cc.jar",
     "lives": [
         {
             "name": "live",
             "type": 0,
-            "url": "https://amanchi.netlify.app/txt/live.txt",
+            "url": "https://amanchi1208.github.io/txt/live.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "playerType": 1
@@ -22,9 +22,9 @@
             "filterable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.34
             },
-            "api": "https://amanchi.netlify.app/js/search.js"
+            "api": "https://amanchi1208.github.io/js/search.js"
         },
         {
             "key": "ikanbot",
@@ -36,9 +36,9 @@
             "filterable": 1,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             },
-            "api": "https://amanchi.netlify.app/js/ikanbot.js"
+            "api": "https://amanchi1208.github.io/js/ikanbot.js"
         },
         {
             "key": "csp_YQKAPP",
@@ -51,7 +51,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             },
             "ext": "https://api-aws.11ty.top"
         },
@@ -67,37 +67,22 @@
             "changeable": 1,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
             "key": "乐猪TV",
             "name": "乐猪",
             "type": 3,
-            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-            "ext": "https://amanchi.netlify.app/js/乐猪TV.js",
+            "api": "https://amanchi1208.github.io/lib/drpy2.min.js",
+            "ext": "https://amanchi1208.github.io/js/乐猪TV.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
-            }
-        },
-        {
-            "key": "探探",
-            "name": "探探",
-            "type": 3,
-            "api": "csp_YT",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
@@ -112,9 +97,69 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             },
-            "ext": "https://amanchi.netlify.app/json/nm.json"
+            "ext": "https://amanchi1208.github.io/json/nm.json"
+        },
+        {
+            "key": "探探",
+            "name": "影探",
+            "type": 3,
+            "playerType": "1",
+            "api": "csp_YTVIP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "vip.lyyytv.cn",
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
+        {
+            "key": "哈喽",
+            "name": "哈喽",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://www.miniku.cc/xgapp.php/v1/",
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
+        {
+            "key": "陌陌",
+            "name": "陌陌",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.kuin.one/api.php/app/",
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
+        {
+            "key": "奇奇",
+            "name": "奇奇",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://mp4.ghlyys.com/api.php/app/",
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
         },
         {
             "key": "csp_AppMr",
@@ -128,15 +173,14 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
             "key": "荐片",
             "name": "荐片",
-            "type": 3,
-            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-            "ext": "https://amanchi.netlify.app/js/荐片.js",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_JP",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -144,14 +188,14 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
-            "key": "Bili",
+            "key": "bili_open",
             "name": "哔哩",
             "type": 3,
-            "api": "csp_Bili",
+            "api": "https://amanchi1208.github.io/open/bili_open.js",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -159,15 +203,19 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.433
             },
-            "ext": "https://amanchi.netlify.app/json/bl.json"
+            "ext": {
+                "categories": "沙雕动画#沙雕穿越#沙雕",
+                "cookie": ""
+            },
+            "jar": "https://amanchi1208.github.io/jar/fm.jar"
         },
         {
             "key": "ikanbot",
             "name": "ikanbot",
             "type": 3,
-            "api": "https://amanchi.netlify.app/js/ikanbot.js",
+            "api": "https://amanchi1208.github.io/js/ikanbot.js",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -175,7 +223,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
@@ -190,7 +238,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
@@ -205,7 +253,23 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
+            }
+        },
+        {
+            "key": "蚂蚁",
+            "name": "蚂蚁",
+            "type": 3,
+            "api": "csp_Mayiys",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://rzys.xyz",
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
             }
         },
         {
@@ -220,21 +284,7 @@
             "changeable": 1,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
-            }
-        },
-        {
-            "key": "MGY",
-            "name": "MGY",
-            "type": 4,
-            "api": " https://php.iptv.hz.cz/moguys.php",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
@@ -260,7 +310,7 @@
             "changeable": 1,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
@@ -275,9 +325,9 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             },
-            "ext": "https://www.fantuanhd.com"
+            "ext": "https://www.fantuan3.com"
         },
         {
             "key": "csp_Xinsj",
@@ -291,7 +341,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             },
             "ext": "https://www.6080yy3.com/"
         },
@@ -307,15 +357,16 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             },
-            "ext": "https://www.ysgc.fun"
+            "ext": "https://www.ysgc1.cc/"
         },
         {
-            "key": "csp_Lib",
-            "name": "Libvio",
+            "key": "LIBVIO",
+            "name": "LIBVIO",
             "type": 3,
-            "api": "csp_Libvio",
+            "api": "https://amanchi1208.github.io/lib/drpy2.min.js",
+            "ext": "https://amanchi1208.github.io/js/LIBVIO.js",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -323,9 +374,8 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
-            },
-            "ext": "https://tv.libvio.cc/"
+                "ratio": 1.433
+            }
         },
         {
             "key": "csp_Jianying",
@@ -339,7 +389,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             },
             "ext": "hjju123@qq.com$$$123456"
         },
@@ -355,7 +405,37 @@
             "changeable": 1,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
+            }
+        },
+        {
+            "key": "暴風",
+            "name": "暴風",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
+        {
+            "key": "量子",
+            "name": "量子",
+            "type": 0,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
             }
         },
         {
@@ -370,15 +450,15 @@
             "changeable": 1,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
-            "key": "drpy_js_网易",
+            "key": "网易",
             "name": "网易",
             "type": 3,
-            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-            "ext": "https://amanchi.netlify.app/js/wy.js",
+            "api": "https://amanchi1208.github.io/lib/drpy2.min.js",
+            "ext": "https://amanchi1208.github.io/js/wy.js",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -386,7 +466,7 @@
             "changeable": 1,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
@@ -400,107 +480,10 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             },
-            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-            "ext": "https://amanchi.netlify.app/js/FreeOK.js"
-        },
-        {
-            "key": "量子",
-            "name": "量子",
-            "type": 0,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "categories": [
-                "国产动漫",
-                "日韩动漫",
-                "国产剧",
-                "韩国剧",
-                "日本剧",
-                "电影片",
-                "连续剧",
-                "综艺片",
-                "动漫片",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "台湾剧",
-                "香港剧",
-                "欧美剧",
-                "记录片",
-                "海外剧",
-                "泰国剧",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫",
-                "体育",
-                "足球",
-                "篮球",
-                "网球",
-                "斯诺克"
-            ]
-        },
-        {
-            "key": "非凡",
-            "name": "非凡",
-            "type": 0,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "categories": [
-                "国产动漫",
-                "日韩动漫",
-                "国产剧",
-                "韩国剧",
-                "日本剧",
-                "电影片",
-                "连续剧",
-                "综艺片",
-                "动漫片",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "香港剧",
-                "欧美剧",
-                "记录片",
-                "台湾剧",
-                "海外剧",
-                "泰国剧",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫"
-            ]
+            "api": "https://amanchi1208.github.io/lib/drpy2.min.js",
+            "ext": "https://amanchi1208.github.io/js/FreeOK.js"
         },
         {
             "key": "csp_Auete",
@@ -514,7 +497,23 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
+            }
+        },
+        {
+            "key": "萌番",
+            "name": "萌番",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 1,
+            "api": "https://www.mengfan.tv/api.php/provide/vod/",
+            "header": {
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
             }
         },
         {
@@ -529,7 +528,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             },
             "ext": "https://www.555dyy1.com"
         },
@@ -545,25 +544,25 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             },
             "ext": "https://www.lgyy.vip"
         },
         {
-            "key": "csp_xpath_348z",
+            "key": "348电影网",
             "name": "348",
             "type": 3,
-            "api": "csp_XPathFilter",
-            "playerType": 2,
+            "api": "https://amanchi1208.github.io/lib/drpy2.min.js",
+            "ext": "https://amanchi1208.github.io/js/348.js",
+            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
-            },
-            "ext": "https://amanchi.netlify.app/json/348z.json"
+                "ratio": 1.433
+            }
         },
         {
             "key": "Coke",
@@ -577,7 +576,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
@@ -592,7 +591,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
@@ -607,7 +606,7 @@
             "changeable": 1,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
@@ -622,7 +621,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
@@ -643,8 +642,8 @@
             "key": "有声小说",
             "name": "听书",
             "type": 3,
-            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-            "ext": "https://amanchi.netlify.app/js/有声小说吧.js",
+            "api": "https://amanchi1208.github.io/lib/drpy2.min.js",
+            "ext": "https://amanchi1208.github.io/js/有声小说吧.js",
             "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
@@ -652,15 +651,15 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
             "key": "虎牙直播",
             "name": "虎牙",
             "type": 3,
-            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-            "ext": "https://amanchi.netlify.app/js/虎牙直播.js",
+            "api": "https://amanchi1208.github.io/lib/drpy2.min.js",
+            "ext": "https://amanchi1208.github.io/js/虎牙直播.js",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -668,7 +667,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
@@ -676,22 +675,22 @@
             "name": "斗鱼",
             "type": 3,
             "api": "http://xhww.fun:63/js/drpy1.min.js",
-            "ext": "https://amanchi.netlify.app/js/斗鱼直播.js",
+            "ext": "https://amanchi1208.github.io/js/斗鱼直播.js",
             "playerType": 2,
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
             "key": "JRKAN直播",
             "name": "JRKAN",
             "type": 3,
-            "api": "https://amanchi.netlify.app/lib/drpy.min.js",
-            "ext": "https://amanchi.netlify.app/js/JRKAN直播.js",
+            "api": "https://amanchi1208.github.io/lib/drpy.min.js",
+            "ext": "https://amanchi1208.github.io/js/JRKAN直播.js",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -699,15 +698,15 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
             "key": "310直播",
             "name": "310直播",
             "type": 3,
-            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-            "ext": "https://amanchi.netlify.app/js/310直播.js",
+            "api": "https://amanchi1208.github.io/lib/drpy2.min.js",
+            "ext": "https://amanchi1208.github.io/js/310直播.js",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -715,58 +714,24 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
-            "key": "4KHDR",
-            "name": "4KHDR",
+            "key": "影視",
+            "name": "影視",
             "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-            "ext": "https://amanchi.netlify.app/js/4KHDR.js"
-        },
-        {
-            "key": "jiyingw",
-            "name": "Mp4磁力",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "api": "https://amanchi.netlify.app/lib/drpy2.min.js",
-            "ext": "https://amanchi.netlify.app/js/MP4.js"
-        },
-        {
-            "key": "T4ali",
-            "name": "T4ali",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清",
-            "searchable": 1,
-            "playerType": 1,
+            "api": "csp_YingShi",
+            "playerType": 2,
             "quickSearch": 1,
             "filterable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "ext": "https://amanchi.netlify.app/txt/token.txt"
-        },
-        {
-            "key": "AList",
-            "name": "Alist",
-            "type": 3,
-            "api": "csp_AList",
-            "ext": "https://amanchi.netlify.app/json/alist.json",
-            "playerType": 1,
             "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
+            "changeable": 1,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
-            }
+                "ratio": 1.433
+            },
+            "jar":"https://amanchi1208.github.io/jar/fm.jar"
         },
         {
             "key": "csp_Nbys",
@@ -778,11 +743,11 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "jar": "https://qu.ax/XTuU.jpg",
             "style": {
                 "type": "rect",
-                "ratio": 1.33
-            }
+                "ratio": 1.433
+            },
+            "jar":"https://amanchi1208.github.io/jar/fm.jar"
         },
         {
             "key": "星星",
@@ -796,9 +761,9 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             },
-            "jar": "https://amanchi.netlify.app/jar/fm.jar"
+            "jar":"https://amanchi1208.github.io/jar/fm.jar"
         },
         {
             "key": "獨播",
@@ -809,40 +774,42 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://amanchi.netlify.app/json/duboku.json",
+            "ext": "https://amanchi1208.github.io/json/duboku.json",
             "style": {
                 "type": "rect",
-                "ratio": 1.33
-            }
+                "ratio": 1.433
+            },
+            "jar":"https://amanchi1208.github.io/jar/fm.jar"
         },
         {
-            "key": "csp_trj",
+            "key": "唐人",
             "name": "唐人",
-            "type": 3,
-            "api": "csp_Tangrenjie",
+            "type": 1,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
+            "api": "https://www.tangrenjie.tv/api.php/provide/vod/",
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.433
             }
         },
         {
-            "key": "p2p",
-            "name": "P2P",
+            "key": "AList",
+            "name": "Alist",
             "type": 3,
+            "api": "csp_AList",
+            "ext": "https://amanchi1208.github.io/json/alist.json",
+            "playerType": 1,
             "searchable": 1,
-            "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1,
+            "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.33
-            },
-            "api": "https://amanchi.netlify.app/js/P2P.js"
+                "ratio": 1.433
+            }
         },
         {
             "key": "七夜",
@@ -854,7 +821,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://amanchi.netlify.app/txt/token.txt+4k|fhd|auto"
+            "ext": "https://amanchi1208.github.io/txt/token.txt+4k|fhd|auto"
         },
         {
             "key": "TuGou",
@@ -866,7 +833,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://amanchi.netlify.app/txt/token.txt+4k|fhd|auto"
+            "ext": "https://amanchi1208.github.io/txt/token.txt+4k|fhd|auto"
         },
         {
             "key": "YiSo",
@@ -878,7 +845,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://amanchi.netlify.app/txt/token.txt+4k|fhd|auto"
+            "ext": "https://amanchi1208.github.io/txt/token.txt+4k|fhd|auto"
         },
         {
             "key": "PanSearch",
@@ -890,7 +857,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://amanchi.netlify.app/txt/token.txt+4k|fhd|auto"
+            "ext": "https://amanchi1208.github.io/txt/token.txt+4k|fhd|auto"
         },
         {
             "key": "Zhaozy",
@@ -900,7 +867,57 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "https://amanchi.netlify.app/txt/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+            "ext": "https://amanchi1208.github.io/txt/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+        },
+        {
+            "key": "小纸条",
+            "name": "小纸条",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/cli_gitCafe?sort=原画,蓝光,超清",
+            "searchable": 1,
+            "playerType": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": "https://amanchi1208.github.io/txt/token.txt"
+        },
+        {
+            "key": "4KHDR",
+            "name": "4KHDR",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "https://amanchi1208.github.io/lib/drpy2.min.js",
+            "ext": "https://amanchi1208.github.io/js/4KHDR.js"
+        },
+        {
+            "key": "jiyingw",
+            "name": "Mp4磁力",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "https://amanchi1208.github.io/lib/drpy2.min.js",
+            "ext": "https://amanchi1208.github.io/js/MP4.js"
+        },
+        {
+            "key": "T4ali",
+            "name": "T4ali",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清",
+            "searchable": 1,
+            "playerType": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": "https://amanchi1208.github.io/txt/token.txt"
         },
         {
             "key": "PanSou",
@@ -912,7 +929,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://amanchi.netlify.app/txt/token.txt+4k|fhd|auto"
+            "ext": "https://amanchi1208.github.io/txt/token.txt+4k|fhd|auto"
         },
         {
             "key": "UpYun",
@@ -924,7 +941,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://amanchi.netlify.app/txt/token.txt+4k|fhd|auto"
+            "ext": "https://amanchi1208.github.io/txt/token.txt+4k|fhd|auto"
         },
         {
             "key": "本地",
@@ -945,153 +962,8 @@
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 1,
-            "ext": "https://amanchi.netlify.app/txt/token.txt"
+            "ext": "04798d3eae7d4d51b79b17d9aeedeebc"
         }
-    ],
-    "parses": [
-        {
-            "name": "777",
-            "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url="
-        },
-        {
-            "name": "jxj",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
-        },
-        {
-            "name": "zlb",
-            "type": 0,
-            "url": "https://jx.zhanlangbu.com/?url="
-        },
-        {
-            "name": "ok",
-            "type": 0,
-            "url": "https://okjx.cc/?url="
-        },
-        {
-            "name": "bozrc",
-            "type": 0,
-            "url": "https://jx.bozrc.com:4433/player/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "leshi",
-                    "LS",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": ""
-                }
-            }
-        },
-        {
-            "name": "blb",
-            "type": 0,
-            "url": "https://blbfq.f3322.net/player/analysis.php?v=",
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "qq",
-                    "letv",
-                    "sohu",
-                    "youku",
-                    "mgtv",
-                    "bilibili",
-                    "wasu",
-                    "xigua",
-                    "1905"
-                ]
-            }
-        },
-        {
-            "name": "cod",
-            "type": 0,
-            "url": "https://ksksl.codjx.com/?url="
-        },
-        {
-            "name": "byg",
-            "type": 0,
-            "url": "https://byg.ziqj5.shop/?url="
-        },
-        {
-            "name": "xmflv",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
-        },
-        {
-            "name": "365",
-            "type": 0,
-            "url": "https://chaxun.truechat365.com/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "26db",
-            "type": 0,
-            "url": "http://vip.26db.cn/g/?url="
-        },
-        {
-            "name": "jx",
-            "type": 0,
-            "url": "https://jx.m3u8.pw/?url="
-        },
-        {
-            "name": "FreeOK",
-            "type": 0,
-            "url": "https://play.86516.tk/OKPlayer/?url="
-        },
-        {
-            "name": "free",
-            "type": 0,
-            "url": "https://h5.freejson.xyz/player/?url="
-        }
-    ],
-    "flags": [
-        "youku",
-        "qq",
-        "iqiyi",
-        "qiyi",
-        "letv",
-        "sohu",
-        "tudou",
-        "pptv",
-        "mgtv",
-        "wasu"
     ],
     "doh": [
         {
@@ -1149,83 +1021,76 @@
             ]
         }
     ],
-    "rules": [
-        {
-            "name": "海外看",
-            "hosts": [
-                "haiwaikan"
-            ],
-            "regex": [
-                "#EXTINF:(0|1|2|7\\.90).*?\\s+.*?921c07e8bfad6789.*?\\.ts\\s+"
-            ]
-        },
-        {
-            "name": "暴風",
-            "hosts": [
-                "bfzy"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },
-        {
-            "name": "星星",
-            "hosts": [
-                "aws.ulivetv.net"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },
-        {
-            "name": "量子",
-            "hosts": [
-                "vip.lz",
-                "hd.lz",
-                "v.cdnlz"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-            ]
-        },
-        {
-            "name": "非凡",
-            "hosts": [
-                "vip.ffzy",
-                "hd.ffzy"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-            ]
-        },
-        {
-            "name": "火山",
-            "hosts": [
-                "huoshan.com"
-            ],
-            "regex": [
-                "item_id="
-            ]
-        },
-        {
-            "name": "抖音",
-            "hosts": [
-                "douyin.com"
-            ],
-            "regex": [
-                "is_play_url="
-            ]
-        },
-        {
-            "name": "抖音嗅探",
-            "host": [
-                "douyin.com"
-            ],
-            "regex": [
-                "is_play_url="
-            ]
-        }
-    ]
+   "rules": [
+    {
+        "name": "海外看",
+        "hosts": [
+            "haiwaikan"
+        ],
+        "regex": [
+            "8.1748",
+            "10.0099",
+            "10.3333"
+        ]
+    },
+    {
+        "name": "暴風",
+        "hosts": [
+            "bfzy"
+        ],
+        "regex": [
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+        ]
+    },
+    {
+        "name": "星星",
+        "hosts": [
+            "aws.ulivetv.net"
+        ],
+        "regex": [
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+        ]
+    },
+    {
+        "name": "量子",
+        "hosts": [
+            "vip.lz",
+            "hd.lz",
+            "v.cdnlz"
+        ],
+        "regex": [
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+            "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+        ]
+    },
+    {
+        "name": "非凡",
+        "hosts": [
+            "vip.ffzy",
+            "hd.ffzy"
+        ],
+        "regex": [
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+            "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+        ]
+    },
+    {
+        "name": "火山嗅探",
+        "hosts": [
+            "huoshan.com"
+        ],
+        "regex": [
+            "item_id="
+        ]
+    },
+    {
+        "name": "抖音嗅探",
+        "hosts": [
+            "douyin.com"
+        ],
+        "regex": [
+            "is_play_url="
+        ]
+    }
+]
 }
