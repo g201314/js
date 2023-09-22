@@ -22,7 +22,7 @@
             "filterable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             },
             "api": "https://amanchi1208.github.io/js/search.js"
         },
@@ -38,38 +38,23 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
-            "key": "农民",
+            "key": "csp_Nmys",
             "name": "农民",
             "type": 3,
-            "api": "csp_XYQHiker",
+            "api": "csp_Nmys",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "https://amanchi1208.github.io/json/nm.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.34
-            }
-        },
-        {
-            "key": "csp_SixV",
-            "name": "新6V",
-            "type": 3,
-            "api": "csp_SixV",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://www.xb6v.com/",
+            "changeable": 0,
+            "ext": "https://agit.ai/Amanchi/Am/raw/branch/master/json/nm.json",
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -84,7 +69,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -99,7 +84,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -114,7 +99,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -130,7 +115,7 @@
             "ext": "https://www.zxzj.pro/",
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -145,7 +130,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -161,7 +146,7 @@
             "ext": "http://rzys.xyz",
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -177,7 +162,7 @@
             "ext": "https://api123.adys.app/xgapp.php/v3/",
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -193,7 +178,7 @@
             "ext": "https://yayayaaapp.ynf.icu/api.php/app/",
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -209,7 +194,7 @@
             "ext": "http://www.miniku.cc/xgapp.php/v1/",
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -225,7 +210,7 @@
             "ext": "https://www.6080yy3.com/",
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -240,7 +225,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -255,7 +240,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -271,7 +256,7 @@
             "ext": "https://www.libvio.pro/",
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -286,7 +271,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -301,7 +286,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -317,7 +302,7 @@
             "ext": "https://www.ysgc.fun",
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -332,7 +317,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -347,7 +332,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -362,7 +347,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -377,7 +362,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.34
+                "ratio": 1.433
             }
         },
         {
@@ -473,6 +458,7 @@
             "key": "bili_open",
             "name": "哔哩",
             "type": 3,
+            "jar": "https://amanchi1208.github.io/jar/fm.jar",
             "api": "https://amanchi1208.github.io/open/bili_open.js",
             "playerType": 2,
             "searchable": 1,
@@ -486,17 +472,22 @@
             "ext": {
                 "categories": "沙雕动画#沙雕穿越#沙雕",
                 "cookie": ""
-            },
-            "jar": "https://amanchi1208.github.io/jar/fm.jar"
+            }
         },
         {
             "key": "奇优",
             "name": "️奇优",
             "type": 3,
             "api": "csp_XBPQ",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
             "ext": "https://amanchi1208.github.io/json/qy.json"
         },
         {
@@ -504,9 +495,15 @@
             "name": "乐猪",
             "type": 3,
             "api": "csp_XBPQ",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
             "ext": "https://amanchi1208.github.io/json/lz.json"
         },
         {
@@ -514,9 +511,15 @@
             "name": "电影港",
             "type": 3,
             "api": "csp_XYQHiker",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
             "ext": "https://amanchi1208.github.io/json/dyg.json"
         },
         {
@@ -524,10 +527,31 @@
             "name": "臭蛋蛋",
             "type": 3,
             "api": "csp_XBPQ",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
             "ext": "https://amanchi1208.github.io/json/cyy.json"
+        },
+        {
+            "key": "csp_SixV",
+            "name": "新6V",
+            "type": 3,
+            "api": "csp_SixV",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.xb6v.com/",
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
         },
         {
             "key": "csp_Jianying",
