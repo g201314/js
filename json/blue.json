@@ -56,6 +56,7 @@
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
+      "proxy": true,
       "ext": "1"
     },
     {
@@ -97,6 +98,7 @@
       "type": 3,
       "api": "csp_Eighteen",
       "searchable": 1,
+      "proxy": true,
       "style": {
         "type": "rect",
         "ratio": 1.485
@@ -108,6 +110,7 @@
       "type": 3,
       "api": "csp_Jable",
       "searchable": 1,
+      "proxy": true,
       "style": {
         "type": "rect",
         "ratio": 1.77
@@ -119,6 +122,7 @@
       "type": 3,
       "api": "csp_Miss",
       "searchable": 1,
+      "proxy": true,
       "style": {
         "type": "rect",
         "ratio": 1.777
@@ -130,6 +134,7 @@
       "type": 3,
       "api": "csp_Hanime",
       "searchable": 1,
+      "proxy": true,
       "style": {
         "type": "rect",
         "ratio": 0.68
