@@ -1,6 +1,16 @@
 {
   "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab",
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://amanchi.netlify.app/txt/adult.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 1
+    }
+  ],
   "sites": [
     {
       "key": "泥巴",
