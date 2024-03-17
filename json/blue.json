@@ -191,7 +191,11 @@
             "changeable": 1,
             "categories": [
                 "伦理片"
-            ]
+            ],
+            "style": {
+                "type": "rect",
+                "ratio": 1.78
+            }
         },
         {
             "key": "非凡",
@@ -202,7 +206,11 @@
             "changeable": 1,
             "categories": [
                 "伦理片"
-            ]
+            ],
+            "style": {
+                "type": "rect",
+                "ratio": 1.78
+            }
         },
         {
             "key": "玩偶",
