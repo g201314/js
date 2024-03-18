@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/pg.jar",
+    "spider": "https://amanchi1208.github.io/jar/pg.jar",
     "wallpaper": "https://liu.chuqiuyu.workers.dev",
     "lives": [
         {
@@ -43,20 +43,6 @@
             "timeout": 60
         },
         {
-            "key": "lf_js_lf_live",
-            "name": "直播",
-            "type": 3,
-            "api": "./lib/lf_live_min.js",
-            "style": {
-                "type": "oval"
-            },
-            "searchable": 1,
-            "changeable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/lf_live1.txt"
-        },
-        {
             "key": "csp_Netflav",
             "name": "Netflav",
             "type": 3,
@@ -98,24 +84,11 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            },
             "timeout": 60
-        },
-        {
-            "key": "AList",
-            "name": "AList",
-            "type": 3,
-            "api": "csp_AList",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
-                "drives": [
-                    {
-                        "name": "网盘1",
-                        "server": "https://alist-caimoui.cloud.okteto.net/私房菜/"
-                    }
-                ]
-            }
         },
         {
             "key": "csp_JavBus",
@@ -148,38 +121,15 @@
             "timeout": 60
         },
         {
-            "key": "nivod18",
-            "name": "泥巴貓",
-            "type": 3,
-            "api": "./cat/js/nivod_op.js",
-            "ext": "做爱"
-        },
-        {
-            "key": "mtsp_open",
-            "name": "蜜桃貓",
-            "type": 3,
-            "api": "./cat/js/mtsp_open.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.485
-            }
-        },
-        {
-            "key": "18av_open",
-            "name": "18av貓",
-            "type": 3,
-            "api": "./cat/js/18av_open.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.485
-            }
-        },
-        {
             "key": "泥巴",
             "name": "泥巴",
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            },
             "ext": "1"
         },
         {
@@ -280,7 +230,7 @@
             "searchable": 1,
             "style": {
                 "type": "rect",
-                "ratio": 1.333
+                "ratio": 1.78
             },
             "quickSearch": 1
         },
