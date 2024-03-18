@@ -51,6 +51,10 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 0,
+             "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
             "timeout": 60
         },
         {
@@ -63,6 +67,10 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
+             "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
             "ext": "http://thze.cc/"
         },
         {
@@ -86,7 +94,7 @@
             "filterable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.77
+                "ratio": 1.433
             },
             "timeout": 60
         },
@@ -101,7 +109,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.77
+                "ratio": 1.433
             },
             "timeout": 60
         },
@@ -116,7 +124,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.77
+                "ratio": 1.433
             },
             "timeout": 60
         },
@@ -128,7 +136,7 @@
             "searchable": 1,
             "style": {
                 "type": "rect",
-                "ratio": 1.77
+                "ratio": 1.433
             },
             "ext": "1"
         },
@@ -144,7 +152,7 @@
             ],
             "style": {
                 "type": "rect",
-                "ratio": 1.78
+                "ratio": 1.433
             }
         },
         {
@@ -159,7 +167,7 @@
             ],
             "style": {
                 "type": "rect",
-                "ratio": 1.78
+                "ratio": 1.433
             }
         },
         {
@@ -171,7 +179,7 @@
             "recordable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.309
+                "ratio": 1.433
             }
         },
         {
@@ -195,7 +203,7 @@
             "recordable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.77
+                "ratio": 1.433
             }
         },
         {
@@ -207,7 +215,7 @@
             "recordable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.78
+                "ratio": 1.433
             }
         },
         {
@@ -230,7 +238,7 @@
             "searchable": 1,
             "style": {
                 "type": "rect",
-                "ratio": 1.78
+                "ratio": 1.433
             },
             "quickSearch": 1
         },
@@ -242,7 +250,7 @@
             "ext": "./js/猫了个咪.js",
             "style": {
                 "type": "rect",
-                "ratio": 1.78
+                "ratio": 1.433
             }
         },
         {
@@ -253,7 +261,7 @@
             "ext": "./js/跑TV.js",
             "style": {
                 "type": "rect",
-                "ratio": 1.78
+                "ratio": 1.433
             }
         },
         {
@@ -264,7 +272,7 @@
             "ext": "./js/banan.js",
             "style": {
                 "type": "rect",
-                "ratio": 1.78
+                "ratio": 1.433
             }
         },
         {
@@ -275,7 +283,7 @@
             "ext": "./js/吸瓜.js",
             "style": {
                 "type": "rect",
-                "ratio": 1.78
+                "ratio": 1.433
             }
         },
         {
@@ -286,7 +294,7 @@
             "ext": "./js/养端.js",
             "style": {
                 "type": "rect",
-                "ratio": 1.78
+                "ratio": 1.433
             }
         },
         {
@@ -297,7 +305,7 @@
             "ext": "./js/朱古力.js",
             "style": {
                 "type": "rect",
-                "ratio": 1.78
+                "ratio": 1.433
             }
         },
         {
@@ -310,7 +318,7 @@
             "filterable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.78
+                "ratio": 1.433
             }
         },
         {
@@ -323,7 +331,7 @@
             "filterable": 1,
             "style": {
                 "type": "rect",
-                "ratio": 1.78
+                "ratio": 1.433
             }
         },
         {
@@ -337,7 +345,7 @@
             "filterable": 1,
             "style": {
                 "type": "rect",
-                "ratio": 1.78
+                "ratio": 1.433
             }
         },
         {
@@ -349,7 +357,7 @@
             "api": "https://aosikazy.com/api.php/provide/vod/",
             "style": {
                 "type": "rect",
-                "ratio": 1.78
+                "ratio": 1.433
             }
         },
         {
