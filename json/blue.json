@@ -3,61 +3,29 @@
     "wallpaper": "https://liu.chuqiuyu.workers.dev",
     "lives": [
         {
-            "name": "YanG",
+            "name": "adult",
             "type": 0,
-            "url": "https://fongmi.cachefly.net/YanG-1989/m3u/main/Adult.m3u"
+            "url": "https://amanchi1208.github.io/txt/adult.txt"
         },
         {
             "name": "atsushi",
             "type": 0,
             "url": "https://fongmi.cachefly.net/atsushi444/iptv-epg/main/Adult.m3u"
         },
-        {
-            "name": "直播",
-            "type": 0,
-            "url": "https://fongmi.cachefly.net/YanG-1989/m3u/main/XX.m3u"
-        }
     ],
     "sites": [
         {
-            "key": "lf_js_search",
-            "name": "搜索",
-            "type": 3,
-            "searchable": 0,
-            "changeable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "api": "./lib/lf_search3_min.js",
-            "ext": "18+"
-        },
-        {
-            "key": "lf_js_p2p",
-            "name": "磁力",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./lib/lf_p2p2_min.js",
-            "ext": "18+",
-            "timeout": 60
-        },
-        {
-            "key": "Taohuazu",
-            "name": "桃花族",
-            "type": 3,
-            "api": "csp_Taohuazu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "timeout": 60,
-             "style": {
-                "type": "rect",
-                "ratio": 1.433
+            "key":"豆瓣"，
+            "name":"豆瓣"，
+            "type":"3",
+            "searchable":1,
+            "filterable":0,
+            "style":{
+                "type":"rect",
+                "ratio":"1.433"
             },
-            "ext": "http://thze.cc/"
-        },
+            "api":"https://amanchi1208.github.io/js/search.js"
+        }
         {
             "key": "Cable",
             "name": "CableAV",
@@ -522,7 +490,7 @@
             "api": "csp_Push",
             "searchable": 1,
             "changeable": 0,
-            "jar":"./jar/fm.jar"
+            "jar":"https://amachi1208.github.io/jar/fm.jar"
         }
     ],
     "rules": [
