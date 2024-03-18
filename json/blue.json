@@ -459,7 +459,7 @@
         },
         {
             "key": "timizy",
-            "name": "成人18",
+            "name": "成人19",
             "type": 1,
             "api": "https://timizy10.cc/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -473,7 +473,7 @@
         },
         {
             "key": "aosikazy.com",
-            "name": "成人19",
+            "name": "成人20",
             "type": 1,
             "searchable": 1,
             "recordable": 0,
