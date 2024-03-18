@@ -11,20 +11,20 @@
             "name": "atsushi",
             "type": 0,
             "url": "https://fongmi.cachefly.net/atsushi444/iptv-epg/main/Adult.m3u"
-        },
+        }
     ],
     "sites": [
         {
-            "key":"豆瓣",
-            "name":"豆瓣",
-            "type":"3",
-            "searchable":1,
-            "filterable":0,
-            "style":{
-                "type":"rect",
-                "ratio":"1.433"
+            "key": "豆瓣",
+            "name": "豆瓣",
+            "type": "3",
+            "searchable": 1,
+            "filterable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": "1.433"
             },
-            "api":"https://amanchi1208.github.io/js/search.js"
+            "api": "https://amanchi1208.github.io/js/search.js"
         },
         {
             "key": "Cable",
@@ -490,7 +490,7 @@
             "api": "csp_Push",
             "searchable": 1,
             "changeable": 0,
-            "jar":"https://amachi1208.github.io/jar/fm.jar"
+            "jar": "https://amachi1208.github.io/jar/fm.jar"
         }
     ],
     "rules": [
