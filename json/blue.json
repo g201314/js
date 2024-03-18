@@ -15,8 +15,8 @@
     ],
     "sites": [
         {
-            "key":"豆瓣"，
-            "name":"豆瓣"，
+            "key":"豆瓣",
+            "name":"豆瓣",
             "type":"3",
             "searchable":1,
             "filterable":0,
@@ -25,7 +25,7 @@
                 "ratio":"1.433"
             },
             "api":"https://amanchi1208.github.io/js/search.js"
-        }
+        },
         {
             "key": "Cable",
             "name": "CableAV",
