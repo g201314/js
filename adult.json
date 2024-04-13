@@ -93,7 +93,7 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": ".lib/tokenm.json$$$./lib/pikpakclass.a1.json$$$./lib/pikpakclass.a1.json.db.gz",
+            "ext": "./lib/tokenm.json$$$./lib/pikpakclass.a1.json$$$./lib/pikpakclass.a1.json.db.gz",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -109,7 +109,7 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": ".lib/tokenm.json$$$./lib/pikpakclass.a.json$$$./lib/pikpakclass.a.json.db.gz",
+            "ext": "./lib/tokenm.json$$$./lib/pikpakclass.a.json$$$./lib/pikpakclass.a.json.db.gz",
             "style": {
                 "type": "list",
                 "ratio": 1.1
