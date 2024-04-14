@@ -1,11 +1,11 @@
 {
   "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
-  "spider": "https://agit.ai/Amanchi/Am/raw/branch/master/jar/pg.jar",
+  "spider": "https://amanchi1208.github.io/jar/pg.jar",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://agit.ai/Amanchi/Am/raw/branch/master/txt/live.txt",
+      "url": "https://amanchi1208.github.io/txt/live.txt",
       "ua": "okhttp/3.15",
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
