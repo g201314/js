@@ -2,16 +2,16 @@
   "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
   "drives": [
     {
-      "name": "小雅",
-      "server": "http://alist.xiaoya.pro"
+      "name": "弱水",
+      "server": "http://shicheng.wang:555/"
+    },
+    {
+      "name": "ECVE",
+      "server": "https://pan.ecve.cn"
     },
     {
       "name": "觸光",
       "server": "https://pan.ichuguang.com"
-    },
-    {
-      "name": "一只魚",
-      "server": "https://vtok.pp.ua/"
     },
     {
       "name": "七米藍",
@@ -26,12 +26,8 @@
       "server": "https://zi0.cc"
     },
     {
-      "name": "杜比",
-      "server": "https://dubi.tk"
-    },
-    {
-      "name": "资源",
-      "server": "https://pan.ecve.cn"
+      "name": "网盘1",
+      "server": "http://123.249.94.196:5678/"
     },
     {
       "name": "盘源",
