@@ -85,7 +85,7 @@
         },
         {
             "key": "PikPakShare1",
-            "name": "panone",
+            "name": "pikpakone",
             "type": 3,
             "api": "csp_PikPakShare",
             "searchable": 1,
@@ -101,7 +101,7 @@
         },
         {
             "key": "PikPakShare18",
-            "name": "pantwo",
+            "name": "pikpaktwo",
             "type": 3,
             "api": "csp_PikPakShare",
             "searchable": 1,
