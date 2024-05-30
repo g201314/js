@@ -89,8 +89,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.433
-            },
-            "ext": "0$$$proxy"
+            }
         },
         {
             "key": "星星",
@@ -105,8 +104,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.433
-            },
-            "ext": "0$$$proxy"
+            }
         },
         {
             "key": "bili",
