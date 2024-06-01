@@ -5,11 +5,17 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/live.txt",
-      "ua": "okhttp/3.15",
-      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+      "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924675/live2.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "playerType": 2
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
     }
   ],
   "sites": [
@@ -630,6 +636,117 @@
         "斯诺克",
         "影视解说"
       ]
+    },
+    {
+      "key": "88看球",
+      "name": "88看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "jrsjs",
+      "name": "Jrs",
+      "type": 3,
+      "api": "https://gitee.com/okjack/okk/raw/master/drpy/drpy2.min.js",
+      "ext": "https://gitee.com/okjack/okk/raw/master/js/jrs.js",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "310js",
+      "name": "310看球",
+      "type": 3,
+      "api": "https://gitee.com/okjack/okk/raw/master/drpy/drpy2.min.js",
+      "ext": "https://gitee.com/okjack/okk/raw/master/js/310.js",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "虎牙直播",
+      "name": "虎牙",
+      "type": 3,
+      "api": "https://gitee.com/okjack/okk/raw/master/drpy/drpy2.min.js",
+      "ext": "https://gitee.com/okjack/okk/raw/master/js/huyazhibo.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "timeout": 10
+    },
+    {
+      "key": "斗鱼js",
+      "name": "斗鱼",
+      "type": 3,
+      "api": "https://gitee.com/okjack/okk/raw/master/drpy/drpy2.min.js",
+      "ext": "https://gitee.com/okjack/okk/raw/master/js/douyuzhibo.js",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "timeout": 10
+    },
+    {
+      "key": "聚短视频",
+      "name": "聚短",
+      "type": 3,
+      "api": "https://gitee.com/okjack/okk/raw/master/drpy/drpy2.min.js",
+      "ext": "https://gitee.com/okjack/okk/raw/master/js/duanshipin.js",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "海洋听书",
+      "name": "听书",
+      "type": 3,
+      "api": "https://gitee.com/okjack/okk/raw/master/drpy/drpy2.min.js",
+      "ext": "https://gitee.com/okjack/okk/raw/master/js/haiyangtingshu.js",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 10
     },
     {
       "key": "Iktv",
