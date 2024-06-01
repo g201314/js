@@ -188,8 +188,8 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/ddg.js",
+      "api": "https://gitee.com/okjack/okk/raw/master/drpy/drpy2.min.js",
+      "ext": "https://gitee.com/okjack/okk/raw/master/js/dadagui.js",
       "timeout": 15
     },
     {
@@ -205,9 +205,8 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/libvio.js",
-      "timeout": 15
+      "api": "https://gitee.com/okjack/okk/raw/master/drpy/drpy2.min.js",
+      "ext": "https://gitee.com/okjack/okk/raw/master/js/libvio.js"
     },
     {
       "key": "ddys_js",
@@ -222,8 +221,8 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/lib/drpy2.min.js",
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/js/ddys.js",
+      "api": "https://gitee.com/okjack/okk/raw/master/drpy/drpy2.min.js",
+      "ext": "https://gitee.com/okjack/okk/raw/master/js/ddys.js",
       "timeout": 15
     },
     {
