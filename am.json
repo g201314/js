@@ -650,7 +650,7 @@
             "style": {
                 "type": "list"
             },
-            "ext": "./txt/token.txt"
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
         },
         {
             "key": "小纸条",
@@ -665,7 +665,7 @@
             "style": {
                 "type": "list"
             },
-            "ext": "./txt/token.txt"
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/txt/token.txt"
         },
         {
             "key": "Iktv",
